@@ -1,0 +1,29 @@
+{VERSION 6 0 "IBM INTEL NT" "6.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 0 1 0 0 0 0 0 0 2 0 0 0 0 
+0 0 1 }{CSTYLE "2D Output" 2 20 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 1 }
+{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 
+2 2 1 1 1 1 }1 1 0 0 0 0 1 0 1 0 2 2 0 1 }{PSTYLE "Maple Output" 0 11 
+1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 3 0 -1 -1 -1 
+0 0 0 0 0 0 -1 0 }}
+{SECT 0 {EXCHG {PARA 0 "" 0 "" {TEXT -1 12 "Ejercicio 38" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 21 "with(VectorCalculus):" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 14 "e1:=3.9=Bx+Cx;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#
+e1G/$\"#R!\"\",&%#BxG\"\"\"%#CxGF+" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 11 "e2:=Ry=-Cy;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#e2G
+/%#RyG,$%#CyG!\"\"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "e3:=-
+1.1=-Cz;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#e3G/$!#6!\"\",$%#CzGF(
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "e4:=Mx=Cy/6+2;" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#e4G/%#MxG,&*&\"\"'!\"\"%#CyG\"\"\"F
+,\"\"#F," }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "e5:=1.5=4.5/12*
+Bx+Cx/6+Cz/3;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#e5G/$\"#:!\"\",(*&
+$\"++++]P!#5\"\"\"%#BxGF.F.*&\"\"'F(%#CxGF.F.*&\"\"$F(%#CzGF.F." }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "e6:=-1.1=-Cy/3;" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#>%#e6G/$!#6!\"\",$*&\"\"$F(%#CyG\"\"\"F(" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "resp:=solve(\{e1,e2,e3,e4,e5
+,e6\});" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%%respG<(/%#BxG$\"++++?B!
+\"*/%#CxG$\"++++!e\"F*/%#CyG$\"+++++LF*/%#CzG$\"+++++6F*/%#MxG$\"++++]
+DF*/%#RyG$!+++++LF*" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+}{MARK "10 0 0" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 
+2 33 1 1 }

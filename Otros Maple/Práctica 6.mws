@@ -1,0 +1,331 @@
+{VERSION 6 0 "IBM INTEL NT" "6.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 0 1 0 0 0 0 0 0 2 0 0 0 0 
+0 0 1 }{CSTYLE "2D Output" 2 20 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 1 }
+{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 
+2 2 1 1 1 1 }1 1 0 0 0 0 1 0 1 0 2 2 0 1 }{PSTYLE "Maple Output" -1 
+11 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 1 1 1 }3 3 0 
+0 0 0 1 0 1 0 2 2 0 1 }}
+{SECT 0 {EXCHG {PARA 0 "" 0 "" {TEXT -1 10 "Pr\341ctica 6" }}{PARA 0 "
+" 0 "" {TEXT -1 30 "Cabello Aguilar H\351ctor Eduardo" }}{PARA 0 "" 0 
+"" {TEXT -1 20 "Castro Molano Rams\351s" }}{PARA 0 "" 0 "" {TEXT -1 
+26 "Roldan Rivera Luis Ricardo" }}}{EXCHG {PARA 0 "" 0 "" {OLE 1 
+20482 1 "[xm]Br=WfoRrB:::wk;nyyI;G:;:j::>:B>N:F:nyyyyy]::yyyyyy:::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::fyyyyy
+qyyyY:f:n:v:>;F;N;V;^;f;;JAjA>:[Z:F<N<V<^<f<n<v<>=F=N=V=^=f=n=v=>><jJJ
+KjKJLjLJMJyky;::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::NDYmq^H;C:ELq^H_mvJ::::::::gj<vyyuyJ;B:Oj;>:;JZC:bKB::>jNQhx?jkHt;V:
+>R<:F:YLpfF]KRnC=MtFGgml>:;::::::JGN:yyyxI:;Z::::::J<JLQ><:=j[vGUMrvC?
+MoJ::::::::JCNZ;V:<j:>:yayA:<::::::j`J:j:vCS=>:::::::::J?N:ry:>:<:::::
+:?J:^<>:F:;JyKyky;::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::F:wyyAb<vYxY?V:>:;`:Z@w:<JbDNsPqs\\`A:::
+ZnIalHH>::::::::::j:b:B:::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::JJQ^:NbGol?K:<:wK:>?Vo;jX@:=j:>Z:>:j[u:A@?:?:;Zymy;:::
+:::::<Hry::::::::<Hry::::::::<Hry::::::::<Hry::::::::<Hry::::::::<Hry:
+:::::::<Hry::::::::<Hry::::::::<Hry::::::::<Hry::::::::<Hry::::::::<Hr
+y::::::::<Hry::::::::<Hry::::::::<Hry::::::::<Hry::::::::<Hry::::::::<
+HRvyyyyyy:::::::BrZjyiyyyy=::::::ZZ=<yYxyyyI:::::::<HBvYryxI:::::::<HB
+vry:::::::BrZvYZyyyyyY:::::::<Hby=ryvY:::::::<Hry;vYyqy;::::::BrZyAryv
+YyA::::::ZZ=xYrky;::::::BrZyAXvY:::::::<HrysAxI::::::ZZ=xYy[y=::::::Br
+ZyEZry:::::::<Hry<FxI::::::ZZ=xij]y=::::::BrZyEvIryyyyyA::::::BrZyEyjy
+;::::::<HrytY:xyywY::::::ZZ=xI;>yA::::::BrZyMjykyyyy;::::::<X:ZyMry:yA
+::::::BrZyMvYjyyiy=::::::<Hry^Yry::::::ZZ=xI<jyyiy=::::::<HryBZry:::::
+:ZZ=xI<xIry::::::ZZA:ryBvry::::::ZZ=xI\\IvY::::::BrZy]v=yA::::::<HryJ:
+jy;:::::ZZ=xI>JvY::::::BrZy=;yAvY::::::Br;:xI>xAZy=:::::ZZ=xI>Yry:::::
+:BrZy=sY:yyyxI::::::<HryZ:Zy=:::::ZZ=xIBjry::::::BrZy=<xIry::jkyyywY::
+ZZA:ryZr=yA::Axyyqy;::<HryZr=yA::Avyyqy;::<HryZxI:vY::VZyyYyA::BrZy=>:
+vY::ty;xyywY::ZZ=xIJZky;:ByIryyqy;::<Hry:;yAvY::lyAxiy=::Br;:xIJv[y=:B
+xyryyyy:::<Hry:ky;ry::<yYry:::<Hry:wY:ry::<xyxiy=::Br;:xIZ:Zy=:BjyyyxI
+::ZZ=xIZ:yAxI:Z;xyyuy:::<Hry:<xIry::H:xI::ZZA:ry:\\IvY:JyI:xI::ZZ=xIZr
+YZyyYyA:^yAZy=::BrZy=by=:yA:^yIjy;::BrZy=J:ky;:kyAvY:::<Hry:>RvY:Jrky;
+::BrZy=Jry:yA:>vyky;::Br;:xI:ky;ry:JZyIyA::ZZ=xI:sy:ry:j:ky;::BrZy=Jy[
+y=:A:yA::ZZ=xI:<BxI:ty;jy;::BrZy=Z:yAxI:ly=jy;::BrZy=Zj]y=Zvy;xI:::<Hr
+y:Bxjy;BxyZy=::ZZ=xI:ly;jy;Bvy[y=::ZZ=xI:ty:jy;Bry]y=::ZZA:ry:J:ky;Bjy
+ay=::ZZ=xI:>ryjy;RZry:::BrZy=:[y=vY:H:xI:::<Hry:JvY:xIJyI:xI:::<Hry:Jx
+[y=^yAZy=::ZZ=xI:ny:Zy=>yIvyyyY:::BrZy=:<BayyvY>yYjy;::ZZ=xI:BryjjyIyA
+[yIvY:::Br;:xI:BvYjjsyyA;yYxyy;::ZZA:ry:Zry:=yyvY>rymy;::ZZ=xI:ByAJjyy
+ywYFJvY:::BrZy=:>:[yyvYV:vY:::BrZy=:>J[yyvYty=xyywY:::BrZy=:>vY>xymyCy
+I:yA:::<X:Zy=:>X[yYvY\\yAry:::ZZ=xI:JvYJvyqywY\\yIry:::ZZ=xI:JxIJvyAya
+jyAxI:::BrZy=:B:kyYyqyCry]y=:::<X:Zy=:YxwyIZkuIyyyya:]y=:::<Hry:jaCrkr
+Iyqyy[;lyyI:::BrZy]xyayyyymaCvxmyoyIr:ry:::ZZ=xIlyIxiymaCxxmyoYwy;xiy=
+:::<HryByYjAyiyySliYvYwy=sI;syYyqy;::ZZ=xIly=vZyyYY`yAZYJy?yF^yywYyA::
+:<HrybyAbyIryxyaKZykyoyIBAkyYvY:::BrZy==ByIryyyy;xWkaYvYwQrmMvyAyA:::<
+HryJ:]yAxiyArm?XXjyoY;IYoyYvY:::Br;jysyJZ=qIxiyysjAHX:>rvqxywyyyY:::Br
+vYxI>vZvayuyYHw[];vyyqY=FygyYxyy;::ZZA:yay=[I:yuyxyayYv=J:<:wq;lYmyqyy
+yy;::ZZ=yyyJvwyyuyYpyyi:yAwi=IByGyYvY:::BrZy=sY:vyyArywYyIryrywI=IByWx
+YyyyyA:::<X:Zy=wy:yayARvyryZyqyBv[vqmywYyA:::<HryJx[y=\\Iv]vqMvY:::BrZ
+y=kI:ryZxI:wqYlYYxqywY:::BrZy=[AxIby;rywqylYYjy;::ZZ=xI>vZjyyIBy;rIwQ:
+lMyxqywY:::Br;:xI>rjkyyIBxxKysAvY:::ZZ=xI>JryZrA]AnY;:yA:::BrZy==:xyy[
+jAa=nY;:yA:::BrZy]xYZxYZymy[Zqi;nY;rIvY:::ZZA:ryByIry=ryyqy[:yy:xiIvYy
+A:::ZZ=xI\\yAxY:yIyA@vy=vYry::::BrZy]jy]yAryky[;xyjy[yuy::::BrZy]ZyayA
+Vxyy[=vyry:yqy;:::Br;:xI<F[ayyYnyAvyvYZyyYyA:::ZZ=xI<BkayyY^Yty:vYyA::
+:ZZ=yyyR:yQxsyxIkA;vYyyyyA:::ZZ=xIwy:yQykyyIkyAyQZy=yA:::ZZ=xIsA@:yyy>
+yIJry:yA:::ZZ=xIkAyIZyayMvY:kAyyy::::<Hry>xYjy=vyry>Y^y=Zy=:::BrZyMjy=
+yIrrynYny;Zy=:::Br;:xI;@yIvryB:ya:xIxI:::ZZ=xI;vyvyry;xI<FvAxI:::ZZ=xI
+=:yIyIZyyY<xYBvYZy=:::Br;:xixY:xyyuIvY<yIBxI:yA:::BrZyEyjyG:vY\\yAByA:
+yA:::BrZyExry>JvYly=J:jy;:::<Hry<IxI;xYxbyyyx=;vYvY:::ZZ=xiZyAxI;aAvYx
+y:Jjy;yA:::Br;:xi:]yMrs;ry;vy>xIjy;:::<Hry<BxIkaAZyAvyryky;ry:::ZZA:ry
+@:xIsaAZyAxYrysy:ry:::ZZ=xYy[yMys;yayAyIry<jysy:::ZZ=xYxYZyuyR:Xjysyky
+;>y:viyuy:::ZZ=xYvy:yA<bAvYyyywayAx:v=xI:::Brjr?xYjy[:u;yayU:xYZ=mAxyy
+yI:::BrJjyYjy=yA<xYXjysy<byAjryZymy;::ZZA:>vyArywYyA<yIXjysy<vyFZvYZyu
+yyA:::<X:ZyAjyuyyA\\iAvYxiZyavY:;ryvY:::Br;:;yy=ryvYByXjyyiyEx\\y=>jys
+yyA:::<X:ZxY:vYbyXjyyiyExIBxYry;yAvY:::Br;:ly=xIyAFZAvyyuyliZy]yAxAZy=
+::ZZA:BxYjyyIJ:Yjysyti:yIky:ry:::Br;:<yIvyy=[yY;x;yayM:=ry_y;Zy=::ZZA:
+>vZyayuyJjIJjYjysy>r;vY<jywyy=::ZZA:>v:yiyyyy=;I:[r;ryIyy;y;ya:yAxyxIy
+mIvsyv;AYXXmysy:<h:Z:xYyyyJj=ZAZyYR[y;BryZyiY@jsuv;<VXXjysy:<X:vY;Y:ya
+y=[I:;r;ry=NvyjywyryZyyYuavVxHyiHYaAyYxIZZA:ya=vyyuyZ:>Z=vYxy:sAvyvY:y
+qxQXmuqslvyysWXxyyiy=Br;:X:xIBx;R:yayAjyayyvyyyyxI:yqx;FaayYxIZZA:>vIF
+jyyYyA>v;ZyAZykyK:xiyiyGqvxWH=rass;yay=Br;:;Axyy;@jycy;rIvY>RfyFqvxWHn
+aAryxIZZ=;Axyy;HH\\iYvYyA;yAfyXyvxWhFiyYyaayyyuy:<X:Jj[yyYriyuyxir=yAk
+y;fyXxfvVXqemyssyqyyIZZ=;q:jy[Xyyyuy<Y<xjyyyyKxkxCZ[yAABjss=yyyyAZZE:j
+yryZgyYxiZqZAvyyuyny;jxymMHVrym;AiYvYyAZZAZ:JryqywYZg]yEjGv;yay]:jxsyv
+YykyyI:<Hvyy=ZmyYxi;xjAvYxI<vY^yywjymywAxI:<Hry:RuryHj=Iryyiy]Zy[yaYjy
+wAxI:<X:Zy=Zg]yayAvj;yyyyyy]rMxyy]yyywYy[y=ZZ=xI:tGxYvwjZyYxIly;jy;y[y
+=ZZ=tyyxiy=xExYvyj==xyxiy]xI:yqy;::<Hbyy]y=:[yAIFvyuyxI>jyky;::<Hbyry:
+Jjyq=]yYxiy=;`yyY::ZZA:byry:Jjyy=]yIxiy=[y=vY::ZZA:byry:jjwjr]y=ky;yyy
+xI::BrZx]y=:aq=myIxiy=sAxI::BrZx]y=:vjxyAxIny;Zy=::<HByy[y=:vjymy;<BxI
+::BrZv]y=:vJvYZ:]y=::<HRxyvyxI:j=ky;<iyuy::ZZ=`IxI:j=ky;\\IvY::BrZmySx
+I:j=ky;ly;jy;:ZZ=HIxI:j=ky;tIvY::BrZayvyyYyA:vJvY:;>yA::<Hrsjy;:I>yAJZ
+ky;:ZZ=xI::vJvY:[AyA::<Hry::j=ky;>y=Zy=:ZZ=xI::vJvY:sAxI::<Hry::j=ky;B
+:ry::BrZy=::I>yAZ:\\y=:ZZ=xI::vJvY:<xIry::Br;:xI::vJvY:<IxI::<Hry::j=k
+y;Byjy;:BrZy=::I>yAZv=yA:ZZ=xI::vJvY:>:vY::<Hry::j=ky;J:ky;:BrZy=::I>y
+A:;yAvY::<X:Zy=::I>yA:[AyA:ZZ=xI::vJvY:^Yry::<Hry::j=ky;Jx[y=:BrZy=::I
+>yA:<:xI:ZZ=xI::vJvY:BZry::<Hry::j=ky;ZZy=xI:ZZA:ry::j=]yvyyywY:<y=jy;
+:<Hry::j=?yymy;Byjy;:<Hry::j=;yAZvI:vY:ZZ=xI::vjtQyyyYyA:;:yA:BrZy=::I
+NyxqywY:>RvY:ZZ=xI::vjpqhyky;Jjy;yA:Br;:xI::vJiuYxI:>yAZy=:<Hry::j=Yyu
+xmyyyy;JxI:xI:BrZy=::InUxmywY:nYry:ZZ=xI::vjay^yvYyA:<:xI:BrZy=::InMyu
+ywY:Bjry:ZZ=xI::vJIvavY:BryZy=:<X:Zy=::IvmYvavY:Bxjy;ZZ=xI::vJjy;Zv=yA
+:<Hry::j=wsIyYyA:tIvY:BrZy=::IvyvY::;:yA:<Hry::j=ky;:>RvY:BrZy=::I>yA:
+Jjy:yA:<X:Zy=::I>yA:Jv[y=ZZ=xI::vJvY::sAxI:<Hry::j=ky;:nYry:BrZy=::I>y
+A:Z:\\y=ZZ=xI::vJvY::<FxI:<Hry::j=ky;:BvYZy=ZZ=xI::vJvY::\\IvY:<Hry::j
+=ky;:Byjy;BrZy=::I>yA:Zx=yAZZ=xI::vJvY::>JvY:<Hry::j=ky;:JZky;BrZy=::I
+>yA::[AyAZZ=xI::vJvY::>Yry:<Hry::j=ky;:Jx[y=BrZy=::I>yA::wAxIZZ=xI::vJ
+vY::BZry:<Hry::j=ky;:Z:]y=BrZy=::I>yA::<IxIZZ=xI::vJvY::BxA:yABrZy=::I
+>yA::lIvYZZ=xI::vJvY::J:jy;<Hry::j]yIyA::>JvYZZ=xI::::::;yAvYZZA:ry:::
+:::>XvYZZ=xI::::::sAxIBrZy=:::::Jx[y=<Hry::::::B:ryZZ=xI::::::<BxIBrZy
+=:::::ZZy=xIBr;:xI::::::<IxIBrZy=:::::Zv=yA<Hry::::::By=:yA<Hry::::::J
+:jy[Z=xI::::::>JvYBrZy=::::::;yAvYBr;:xI::::::>xAZy]Z=xI::::::^y=Zy]Z=
+xI::::::nYryBrZy=::::::@:xI<Hry::::::Z;uyxI<Hry::::::Z]]y]Z=xI:::::::Z
+Z=xI:::::::ZZ=xI:::::::ZZ=xI:::::::ZZ=xI:::ZYly;::BrZy=:::ravY:::<Hry:
+:::xCyA::ZZ=xI:::ZYly;::BrZy=lmv]yyxKYxJX\\yaXrk]yy<ywYXxuky@swIxwXx[I
+yyyiy=:BrZy=lmv<xYxKVXJX<YAHJZ=xY<vwXXvujy<rw<vwXx:Hyysy::<HryZvrswvAm
+swsswWVXsxsywmqusqiuye]qEaqusssvyyyxI:ZZ]yuyZsFaIqsIWayaaaasvayIyyYXya
+yxxyiYXiXXi`qiywYyA:ZZ=xIRH:JvyvyyCjWtrwTHvY::<HryZuFqIasaAaA^aaaS]Ijy
+BZqss[i;yuaqCjqesw=yA:ZZ=xIrHmvmS@jm=vI<BZjYi`=yA:ZZ=xIrImxuUxsqswsswW
+HyYxmyvaqssiisyuaqcyquswuYvY::<HryZqFSmvwmsssrwWnaYxYtvvXxwuvytbXIiaaa
+yyYyA:ZZ=xIrG<yFXiAFZjy[;FvjyaZAiI>yHvI<VvyJ:yyywY::<Hyay=Xlj]ywxYYxjK
+\\yaXrr]yy<YwyKxuky<swAXwyk[yyywY::<Hxiy=X\\yyYyAYxyxIbyymwyyywY::ZZ=x
+Ir=]yyvYvSxIby:yA::BrZy=x:vayuyY`y=tIjy;::<HryZYFyyyyyyAxyasyZx=vY::ZZ
+=xI::Y`y=tIjy;::<Hry::::::::<Hry::::::::<Hry::::::::<Hry::::::::<Hry::
+::::::<Hry::::::::<Hry::::::::<Hry::::::::<Hry::::::::<Hry::::::::<Hry
+::::::::<Hry::::::::<Hry::::::::<Hry::::::::<Hry::::::::<Hry::::::::<H
+ry::::::::<Hry::::::::<Hry::::::::<Hry::::::::<Hry::::::::<Hry::::::::
+<Hry::::::::<Hry::::::::<H;:::::::::::::::::5:" }{OLE 1 18946 1 "[xm]B
+r=WfoRrB:::wk;nyyI;G:;:j::>:B>N:F:nyyyyy]::yyyyyy:::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::fyyyyyqyyyY:f:n:v:>;
+F;N;V;^;f;;JAjA>:[Z:F<N<V<^<f<n<v<>=F=N=V=^=f=n=v=>><jJJKjKJyky;::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::NDYmq^H;C:ELq^H_
+mvJ::::::::gj<vyyuyJ;B:Oj;>:;JZC:bKB::>jNQhx?jkHt;V:>R<:F:YLpfF]KRnC=M
+tFGgml>:;::::::JGN:yyyxI:;Z::::::J<J<y=<:=j[vGUMrvC?MoJ::::::::JCNZ;V:
+<j:>:yayA:<::::::j`J:j:vCS=>:::::::::J?N:ry:>:<::::::?J:^<>:F:;JyKyky;
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::F:wyyAb<vYxY?V:>:;`:Z@w:<JbDNsPqs\\`A:::ZnIalHH>::::::::::
+j:b:B:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::J:
+y=?TMguI>Z:JY>:K;wW:;jJ@:=j:>Z:>:::?:J:ryvY:::::::::lyyyyyyI::::::::lI
+xI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::
+lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::
+::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::
+::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::
+::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI
+::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lI
+xI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::
+lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::
+::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::
+::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::
+::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI
+::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lI
+xI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::
+lIxI::::::::lIxI::::::::lIxI::::::::lIxI:::xkyyyy;:::Byry:::nyIry::::B
+yry:::^yAvyyyyy=:::Byyay=::JvAjyyiy=:::Byry:::>Xyay=:::Byry:::>Vyuyyyy
+::::lIxI:::;HJyryyyy::::lIxI:::;FvYZy=:::Byry:::FZrYZyyyyyY:::Zv]y=::b
+yABy=ryyqy;:::lIxI::Zvy:;ryyqy;:::lyysy:::\\yAxY:ymyyyy;:::lIxI::Zjy]y
+AvYvyyyY:::Zv]y=::Brysy[y=yqy;:::lIxI::Z:yiyAy=vYxI:::Byry:::<ryyYyAjy
+sy:::Zv]y=::R:yyy<jyxyyyI:::Byry:::wy:yyy<rIxiy=:::lIxI::JxYZyErIryyqy
+;::ZvyYxI::JvyZyyyjyZymy;::Zv]y=::>xYjy]y;jy;::Zv]y=::>vyryyiy;ryyyyyA
+:::lIxI::JZky?:vY:::Byry:::;vyvY;rIyqy;::Zv]y=::F:vY;vAvY:::Byry::ZxY:
+vY[y;ry:::Byry::Zvy:vYkAxI:::lyysy::Zry;xIwY:ry:::Byry::Zjy=xI<jyry:::
+Byry::ZZ]y]:yayuy:::Byry::Z:yIxI<xIry:::Byry::Z:xYxI<y=jy;::Byry::Z;Zy
+]vYZyyYyA::ZvyYxI::ny=Zy]xAZyvYyA::Zv]y=::sy;ryJ:xkywY:::lyysy::Jvky;;
+xAyqy;::Byry::Jry;yA>VvY:::lIxI::>vyjy;[AyA::Zv]y=::;xYvYJjy;yA::Zv]y=
+::;>yA>ryjy;::Byry::j:jy;;>yA::Zv]y=:ZxY:vYj:jy;::Byry::ByI:yAtIvY:::l
+yysy::BxryZxyZyyYyA::Zv]y=:ZZ]y=lyAxiy=:yv]yqy;lyysy::BjryZry]yyyy=:yv
+ayqy;lIxI::<vyryZj]y=:YxAyqy;liyuy::Bjy[y=<xYry:j]ymyyyy;lIxI::<vIryZ:
+yIxI:nvywYyAByry::BrYZy=<BxI:Nxyky;lIxI::ly;jy[;xyyuy:JryIyAByyay=:ZxI
+:vYr:yyyxI:>yymy;lIxI::>ZymyKyY:xI:>XvYZv]y=::;vYyqyKxY:xI:NXvYZvyYxI:
+:>vYjyKvy:yA:nVvYZv]y=::[y=vY>xYjy;:IyIyqy;lIxI::>yAvyyuy>xyjy;:YxIyqy
+;liyuy::JxAjysy>vywYyA:vkYxYyAByyay=::<:xI;xyyqy;:yv]vYZv]y=::<BxI;vyv
+Y:::Byry::Z:yAxI=:yA:::lIxI::BvYZyeyA:yA:::lIxI::Bxjyuy=jy;::Zv]y=::ly
+;jymyAry:::ZvyYxI::by=:yIxyZy=:::lIxI::J:yAyIvyZy=:::lIxI::JZky=xYry::
+:Zv]y=::>vYjy=vyry:::Zv]y=::>xAZ:yYxI:::Byry:::ky:RZry:::Zv]y=::>x;vyy
+u:ry:ZYjy;Byry:::;I:yQyI:xI:nyIry:Byry:::;H:ysysy;ry:JyY:xIZvyYxI::J:=
+jIxYvy:yA:nYry:lIxI::J:<jA>xYryyA:r:ry:lIxI::by;B:Iry[yIxyyKxyAyA@Byyy
+:lyysy::Zxa:=ry;yYvY>yyvYyA<rywyy=Byry::Zva;xYZyIyAkAyA<vysy:lyysy::Zr
+a[JrY;vyvY>yyjy[ZyIxIZv]y=::<YH<K:xm:xIyAkAyA<yYry:lIxI::BrsC>[c=AryvY
+>YvYBvyZy=Byry::Z:aiR>]@vZyyYyAkAyA\\yIry:lIxI::BZsI@sjAryny:B:;:jAry:
+lIxI::R:sIAWjIry^y:B:;:j=vYyAByyay=::HJxmkA<rIry^y:J::v:vYZvyYxI::r;si
+AYBjy[yMx=:;:j=jy;lyysy::ZI`yXvZZy]yuynY>::YZy=Byry:::syAIBxyryxI>yyjy
+[ZyAxIZvyYxI::Jxyk;lyIxiy=kAyA<xyry:lyysy:::syAAfyysyxI>YvYBjyay=Byyay
+=::^yYryyqy;kAyA@BxIZvyYxI::Jxyk]yyywYJvky[=vYxIZvyYxI::JxykywY:kAyAwy
+:ry:lyysy:::syAvY:kAyAsy;ry:lyysy:::syAvY:kAyAky=vY:lyysy:::syAvY:kyIv
+Y>yYjy;Byyay=::^yYjy;>yyjyKvky;Byyay=::^yYjy;>YvY^yyky;Byyay=::^yYjy;>
+YvY::Byyay=::^yYjy;>YvY::Byyay=::^yYjy;>YvY::Byyay=::^yYjy;>YvY::Byyay
+=::^yYjy;>YvY::Byyay=::^yYjy;>YvY::Byyay=::^yYjy;>YvY::Byyay=::^yYjy;>
+YvY::Byyay=::^yYjy;>YvY::Byyay=::^yYjy;>YvY::Byyay=::^yYjy;>YvY::Byyay
+=::^yYjy;>YvY::Byyay=::^yYjy;>YvY::Byyay=::^yYjy;>YvY::Byyay=::^yYjy;>
+YvY::Byyay=::^yYjIxsywY>YvY::Byyay=::^yYjIxrywY>YvY::Byyay=::^yYbyyr=v
+Y>YvY::Byyay=::^yYjix<yAkAyA::lyysy:::syAvcawyyuy>YvY::Byyay=::^yYByWx
+SyyyxIkAyA::lyysy:::syAnsqwYxIkAyA::lyysy:::syAnwmwyyuy>YvY::Byyay=::^
+yYRyGyvyayMvky;:ZvyYxI::Jxy[savmyyyuy>YvY::Byyay=::^yYJtiyyyiyMvky;:Zv
+yYxI::Jxy;[YxyyyxIkAyA::lyysy:::syAHyrayysy>YvY::Byyay=::^yY:ry>YvY::B
+yyay=::^yYjvmyyyiyMvsvyyyxI:ZvyYyyy:::syAxyy;>YHIxI:ZvyYyyy:::syAvY:ka
+m]y=:ByyqyyI::Jxy;yAJvsvry::lyywyy=::^yYjy;>YHIxI:ZvyYyyy:::syAvYZrAyy
+vym]y=:ByyqyyI::Jxy;yABvkuIHIxI:ZvyYyyy:::syAvYZjAavvi[yYxI:ZvyYxI::Jx
+y;yABvkBHySryay=:Byyay=::^yYjy;\\YF<mYlvyyiy=:Byyay=::^yYjy;lY><lYlFxI
+:ZvyYxI::Jxy;yAby;jytsyxyyyI:ZvyYxI::Jxy;yAbyvyXxIxI:ZvyYxI::Jxy;yAJ:@
+jyymYxiy=:Byyay=::^yYjy;>j=vYysyxI:ZvyYxI::Jxy;yAJZyjywY::Byyay=::^yYj
+y;>vYjy;:ZvyYxI::Jxy;yAJjy=yA::lyysy:::syAvY:[yYyqy;:ZvyYxI::Jxy;yAJvy
+yywY::Byyay=::^yYjy;:::ZvyYxI::Jxy;yA::::lyysy:::syAvY::::Byyay=::^yYj
+y;:::ZvyYxI::Jxy;yA::::lyysy:::syAvY::::Byyay=::^yYjy;:::ZvyYxI::Jxy;y
+A::::lyysy:::syAvY::::Byyay=::^yYjy;:::ZvyYxI::Jxy;yA::::lyysy:::syAvY
+::::Byyay=::^yYjy;:::ZvyYxI::Jxy;yA::::lyysy:::syAvY::::Byyay=::^yYjy;
+:::ZvyYxI::Jxy;yA::::lyysy:::wyIvY::::Byry::::::::Byry::::::::Byry::::
+::::Byry::::::::Byry::::::::Byry::::::::Byry::::::::Byry::::::::Byry::
+::::::Byry::::::::Byry:>xxV]IQrvw`yI[ryamIvyxvYyaAvvIIrvy^=IiyyYyA:Zv]
+y=JZmk;xfrwZvIZZy]mAryvvYaa=vvIEvIBZmuyvY::lIxI:IXpAymssVIHy]ysyxvwvII
+yq`ymyVYHy]mmvxyywY::lIxI:yVxaimwuVIYxmymHyIymmywVlymuvyXxmumyxyyyI::l
+IxI:yFxaimwUVIYxmamykyvV:tkyvyy=:Zv]y=jYly;tVy\\q=`yv=vAHYZ;>Zawv:xIxI
+::lIxI:ysyAbmweYIRxmA[yIIAZZyiyuy::Byry:vAaymwuYIYymymYxvyyIIymuCyIimw
+uWIiyyuyxI::lIxI:ySyaymssXIIy]qIIyiymkYRX`ykyfmyrxxiyuy::Byry:vavyZIAZ
+rw[vIZjy]muY;QY@JjyK:=y=vYxI::lIxI:yfyYrm?HYyryMBx>vyawrviA^vyFrvUjyyy
+xI::liyuy:vmyuywyYyqvyimyyyyyy=vvyyYyA::lIxI:IxqyyywAmAry:IAyA::lIxI:;
+yAyyqwyYFYZy=vVvY::Byry:>xyvyiqyykv;xIjmky;:Zv]y=:XXyyAmAry:IyyvY::Byr
+y:Zm]y=:::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::
+::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::
+::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lIxI::::::::lY:B::
+:::::::::::::::::::::1:" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 
+0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart
+;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "with(VectorCalculus):
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 123 "g:=9.81; theta:=evalf(
+arctan(86/161)*180/Pi); h_1:=75.8; xf_1:=133; Tau:=evalf(arctan(42/157
+.3)*180/Pi); h_2:=81; xf_2:=90;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%
+\"gG$\"$\")*!\"#" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&thetaG$\"+@;%4
+\"G!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$h_1G$\"$e(!\"\"" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%%xf_1G\"$L\"" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%$TauG$\"+M_&\\\\\"!\")" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%$h_2G\"#\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%%xf_2G\"#!*" 
+}}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 8 "Parte 1:" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 63 "W1:=<-m*g*sin(theta),-m*g*cos(theta)>; N_:=<0,
+N>; Fr:=<N*mu,0>;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#W1G-%'RTABLEG6
+%\"*7@16(-%'MATRIXG6$7$7#,$*&$\"+'p=0h\"!\"*\"\"\"%\"mGF3!\"\"7#,$*&$
+\"+*o'*on*F2F3F4F3F37$Q\"x6\"Q\"yF=&%'VectorG6#%'columnG" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#>%#N_G-%'RTABLEG6%\"*_N16(-%'MATRIXG6$7$7#\"\"!7
+#%\"NG7$Q\"x6\"Q\"yF3&%'VectorG6#%'columnG" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%#FrG-%'RTABLEG6%\"*7P16(-%'MATRIXG6$7$7#*&%\"NG\"\"\"
+%#muGF07#\"\"!7$Q\"x6\"Q\"yF6&%'VectorG6#%'columnG" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 18 "sldn:=<m*ax,m*ay>;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%%sldnG-%'RTABLEG6%\"*GV16(-%'MATRIXG6$7$7#*&%\"mG\"\"
+\"%#axGF07#*&F/F0%#ayGF07$Q\"x6\"Q\"yF7&%'VectorG6#%'columnG" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "e1:=sldn=W1+N_+Fr;" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>%#e1G/-%'RTABLEG6%\"*GV16(-%'MATRIXG6$7$7#*
+&%\"mG\"\"\"%#axGF17#*&F0F1%#ayGF17$Q\"x6\"Q\"yF8&%'VectorG6#%'columnG
+-F'6%\"*kY16(-F+6$7$7#,&*&$\"+'p=0h\"!\"*F1F0F1!\"\"*&%\"NGF1%#muGF1F1
+7#,&*&$\"+*o'*on*FIF1F0F1F1FLF1F6F:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 26 "e2:=lhs(e1)[1]=rhs(e1)[1];" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%#e2G/*&%\"mG\"\"\"%#axGF(,&*&$\"+'p=0h\"!\"*F(F'F(!\"
+\"*&%\"NGF(%#muGF(F(" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 26 "e3:
+=lhs(e1)[2]=rhs(e1)[2];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#e3G/*&%
+\"mG\"\"\"%#ayGF(,&*&$\"+*o'*on*!\"*F(F'F(F(%\"NGF(" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 8 "Parte 2:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 13 "W2:=<0,-m*g>;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#W2G-%'RTAB
+LEG6%\"*C]16(-%'MATRIXG6$7$7#\"\"!7#,$*&$\"$\")*!\"#\"\"\"%\"mGF5!\"\"
+7$Q\"x6\"Q\"yF:&%'VectorG6#%'columnG" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 12 "e4:=sldn=W2;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#e4
+G/-%'RTABLEG6%\"*GV16(-%'MATRIXG6$7$7#*&%\"mG\"\"\"%#axGF17#*&F0F1%#ay
+GF17$Q\"x6\"Q\"yF8&%'VectorG6#%'columnG-F'6%\"*C]16(-F+6$7$7#\"\"!7#,$
+*&$\"$\")*!\"#F1F0F1!\"\"F6F:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 26 "e5:=lhs(e4)[2]=rhs(e4)[2];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%
+#e5G/*&%\"mG\"\"\"%#ayGF(,$*&$\"$\")*!\"#F(F'F(!\"\"" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 17 "e6:=solve(e5,ay);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%#e6G$!++++5)*!\"*" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 13 "a_P_cl:=-1*g;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'a
+_P_clG$!$\")*!\"#" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 8 "Parte 3:" }}
+{PARA 0 "" 0 "" {TEXT -1 21 "x > 0 debe de dar v=0" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 42 "v:=sqrt(2*g*x*(sin(theta)-mu*cos(theta)));
+" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%
+\"vG,$*&$\"+=pWHW!\"*\"\"\"*&%\"xGF*,&$\"+47rT;!#5F**&$\"+X(=V')*F0F*%
+#muGF*F*F*#F*\"\"#F*" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 8 "Parte 4:" 
+}}{PARA 0 "" 0 "" {TEXT -1 14 "gr\341fica t >= 0" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 12 "atp:=<0,-g>;" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"6#>%$atpG-%'RTABLEG6%\"*ca16(-%'MATRIXG6$7$7#\"\"!7#$!$\")*!\"#7$Q\"x
+6\"Q\"yF5&%'VectorG6#%'columnG" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 43 "v_:=<V_0*cos(theta),-(g*t+V_0*sin(theta))>;" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#>%#v_G-%'RTABLEG6%\"*#zl5r-%'MATRIXG6$7$7#,$*&$\"+X(=
+V')*!#5\"\"\"%$V_0GF3!\"\"7#,&*&$\"$\")*!\"#F3%\"tGF3F5*&$\"+47rT;F2F3
+F4F3F57$Q\"x6\"Q\"yFB&%'VectorG6#%'columnG" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 8 "Parte 5:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 39 "L1:
+=(58+67.6+68.3+70+62.6+69.5+69.4)/7;" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+6#>%#L1G$\"+H9d[m!\")" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 51 "V_
+0:=L1/cos(theta)*sqrt(g/(2*(h_1-L1*tan(theta))));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%$V_0G$!+@Uh,;!\")" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 8 "Parte 6:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 81 "mu:=tan(t
+heta)/((h_1-L1*tan(theta)*(4*xf_1*(cos(theta)*cos(theta)*cos(theta))))
+);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#muG$\"+*))\\b)H!#9" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 13 "Conclusiones:" }}{PARA 0 "" 0 "" 
+{TEXT -1 20 "Castro Molano Rams\351s" }}{PARA 0 "" 0 "" {TEXT -1 264 "
+Se pudo determinar los valores de los coeficientes de fricci\363n, com
+probar con las ecuaciones que nos dan con las magnitudes de nuestra ac
+eleraci\363n, aplicamos los conocimientos de los temas de movimiento r
+ectilineo uniforme y el tiro parabolico en un solo problema." }}}}
+{MARK "27 1 0" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 
+2 33 1 1 }{RTABLE_HANDLES 711062112 711063552 711063712 711064328 
+711064664 711065024 711065456 711065792 }{RTABLE 
+M7R0
+I6RTABLE_SAVE/711062112X*%)anythingG6"/%'coordsG%*cartesianG[gl!#%!!!"#"#,$%"mG
+$!+'p=0h"!"*,$F*$"+*o'*on*F-6"
+}
+{RTABLE 
+M7R0
+I6RTABLE_SAVE/711063552X*%)anythingG6"/%'coordsG%*cartesianG[gl!#%!!!"#"#""!%"N
+G6"
+}
+{RTABLE 
+M7R0
+I6RTABLE_SAVE/711063712X*%)anythingG6"/%'coordsG%*cartesianG[gl!#%!!!"#"#*&%"NG
+"""%#muGF+""!6"
+}
+{RTABLE 
+M7R0
+I6RTABLE_SAVE/711064328X*%)anythingG6"/%'coordsG%*cartesianG[gl!#%!!!"#"#*&%"mG
+"""%#axGF+*&F*F+%#ayGF+6"
+}
+{RTABLE 
+M7R0
+I6RTABLE_SAVE/711064664X*%)anythingG6"6#/%'coordsG%*cartesianG[gl!#%!!!"#"#,&%"
+mG$!+'p=0h"!"**&%"NG"""%#muGF1F1,&F+$"+*o'*on*F.F0F16"
+}
+{RTABLE 
+M7R0
+I6RTABLE_SAVE/711065024X*%)anythingG6"/%'coordsG%*cartesianG[gl!#%!!!"#"#""!,$%
+"mG$!$")*!"#6"
+}
+{RTABLE 
+M7R0
+I6RTABLE_SAVE/711065456X*%)anythingG6"/%'coordsG%*cartesianG[gl!#%!!!"#"#""!$!$
+")*!"#6"
+}
+{RTABLE 
+M7R0
+I6RTABLE_SAVE/711065792X*%)anythingG6"/%'coordsG%*cartesianG[gl!#%!!!"#"#,$%$V_
+0G$!+X(=V')*!#5,&%"tG$!$")*!"#F*$!+47rT;F-6"
+}
+

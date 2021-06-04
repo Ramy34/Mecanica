@@ -1,0 +1,28 @@
+{VERSION 6 0 "IBM INTEL NT" "6.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 0 1 0 0 0 0 0 0 2 0 0 0 0 
+0 0 1 }{CSTYLE "2D Output" 2 20 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 256 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 }{PSTYLE "Normal
+" -1 0 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }0 0 0 
+-1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "Maple Output" 0 11 1 {CSTYLE "" 
+-1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 3 0 -1 -1 -1 0 0 0 0 0 0 
+-1 0 }{PSTYLE "" 0 256 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 1 0 0 0 
+0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }}
+{SECT 0 {EXCHG {PARA 0 "" 0 "" {TEXT -1 61 "Tarea 4                   \+
+                           Mecanica" }}{PARA 0 "" 0 "" {TEXT -1 43 "In
+tegrantes: Cabello Aguilar Hector Eduardo" }}{PARA 0 "" 0 "" {TEXT -1 
+38 "                  Castro Molano Ramses" }}{PARA 0 "" 0 "" {TEXT 
+-1 37 "                   Roldan Rivera Luis" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG {PARA 256 "" 0 "" {TEXT -1 
+14 "Problema 2-3: " }{TEXT 256 0 "" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 31 "a:=45*Pi/180;A;B:=9000;C:=8000;" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#>%\"aG,$*&\"\"%!\"\"%#PiG\"\"\"F*" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#%\"AG" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"BG
+\"%+!*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"CG\"%+!)" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "eq1:=A^2=B^2+C^2-2*B*C*cos(a);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$eq1G/*$)%\"AG\"\"#\"\"\",&\"*+++X\"
+F**&\")+++sF*F)#F*F)!\"\"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+21 "A:=evalf(solve(eq1));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"AG6$$\"+R@*3d'!\"'$!+R@*3d'F(" }}}
+}{MARK "6" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2 33 
+1 1 }

@@ -1,0 +1,67 @@
+{VERSION 6 0 "IBM INTEL NT" "6.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 0 1 0 0 0 0 0 0 2 0 0 0 0 
+0 0 1 }{CSTYLE "2D Output" 2 20 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 1 }
+{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "Maple Output" 0 11 1 
+{CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 3 0 -1 -1 -1 0 
+0 0 0 0 0 -1 0 }}
+{SECT 0 {EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "aA:=32*12;" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 31 "bA:=(36*sqrt(21.5^2-36^2/4))/2;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%#aAG\"$%Q" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#bAG$
+\"+%oNk6#!\"(" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "cA:=evalf(
+Pi*(9)^2);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#cAG$\"+]+pWD!\"(" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "dA:=evalf(Pi*(2)^2);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#dAG$\"+iqjc7!\")" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 21 "aXi:=32/2; aYi:=12/2;" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#>%$aXiG\"#;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$aYi
+G\"\"'" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "bXi:=36/3; bYi:=2
+1.5/3;" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "cXi:=(4*9)/(3*Pi);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$bXiG\"#7" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%$bYiG$\"+nmmmr!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#>%$cXiG,$*&\"#7\"\"\"%#PiG!\"\"F(" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 29 "aXiAi:=aA*aXi; aYiAi:=aA*aYi;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%&aXiAiG\"%Wh" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&aY
+iAiG\"%/B" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 34 "bXiAi:=bA*12; \+
+bYiAi:=bA*(19.1667);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&bXiAiG$\"+@
+GsRD!\"'" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&bYiAiG$\"+#y3l0%!\"'" }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "cXiAi:=cA*" }}}{EXCHG 
+{PARA 0 "" 0 "" {SPREADSHEET {NAME "SpreadSheet001" } {ROWHEIGHTS } 
+{COLWIDTHS 2 81 5 73 6 73 } {SSOPTS {CELLOPTS 2 10 4 2 1 255 255 255 }
+1 }666 287 287 {CELL 1 1 {CELLOPTS 0 -1 -1 0 0 0 0 0 }{R5MATHOBJ "i" 
+20 "6#%\"iG" }0 }{CELL 1 2 {CELLOPTS 0 -1 -1 0 0 0 0 0 }{R5MATHOBJ "A
+" 20 "6#%\"AG" }0 }{CELL 1 3 {CELLOPTS 0 -1 -1 0 0 0 0 0 }{R5MATHOBJ "
+Xi" 20 "6#%#XiG" }0 }{CELL 1 4 {CELLOPTS 0 -1 -1 0 0 0 0 0 }
+{R5MATHOBJ "Yi" 20 "6#%#YiG" }0 }{CELL 1 5 {CELLOPTS 0 -1 -1 0 0 0 0 
+0 }{R5MATHOBJ "XiAi" 20 "6#%%XiAiG" }0 }{CELL 1 6 {CELLOPTS 0 -1 -1 0 
+0 0 0 0 }{R5MATHOBJ "YiAi" 20 "6#%%YiAiG" }0 }{CELL 2 1 {CELLOPTS 0 
+-1 -1 0 0 0 0 0 }{R5MATHOBJ "1*a" 20 "6#%\"aG" }0 }{CELL 2 2 
+{CELLOPTS 0 -1 -1 0 0 0 0 0 }{R5MATHOBJ "384" 20 "6#\"$%Q" }0 }{CELL 
+2 3 {CELLOPTS 0 -1 -1 0 0 0 0 0 }{R5MATHOBJ "16" 20 "6#\"#;" }0 }
+{CELL 2 4 {CELLOPTS 0 -1 -1 0 0 0 0 0 }{R5MATHOBJ "6" 20 "6#\"\"'" }0 
+}{CELL 2 5 {CELLOPTS 0 -1 -1 0 0 0 0 0 }{R5MATHOBJ "6144" 20 "6#\"%Wh
+" }0 }{CELL 2 6 {CELLOPTS 0 -1 -1 0 0 0 0 0 }{R5MATHOBJ "2304" 20 "6#
+\"%/B" }0 }{CELL 3 1 {CELLOPTS 0 -1 -1 0 0 0 0 0 }{R5MATHOBJ "b" 20 "6
+#%\"bG" }0 }{CELL 3 2 {CELLOPTS 0 -1 -1 0 0 0 0 0 }{R5MATHOBJ "211.64
+" 20 "6#$\"&k6#!\"#" }0 }{CELL 3 3 {CELLOPTS 0 -1 -1 0 0 0 0 0 }
+{R5MATHOBJ "12" 20 "6#\"#7" }0 }{CELL 3 4 {CELLOPTS 0 -1 -1 0 0 0 0 0 
+}{R5MATHOBJ "12+7.166666" 20 "6#$\")mm;>!\"'" }0 }{CELL 3 5 {CELLOPTS 
+0 -1 -1 0 0 0 0 0 }{R5MATHOBJ "2539.72" 20 "6#$\"'sRD!\"#" }0 }{CELL 
+3 6 {CELLOPTS 0 -1 -1 0 0 0 0 0 }{R5MATHOBJ "4056.50" 20 "6#$\"']cS!\"
+#" }0 }{CELL 4 1 {CELLOPTS 0 -1 -1 0 0 0 0 0 }{R5MATHOBJ "c" 20 "6#%\"
+cG" }0 }{CELL 4 2 {CELLOPTS 0 -1 -1 0 0 0 0 0 }{R5MATHOBJ "254.4690" 
+20 "6#$\"(!pWD!\"%" }0 }{CELL 5 1 {CELLOPTS 0 -1 -1 0 0 0 0 0 }
+{R5MATHOBJ "d" 20 "6#%\"dG" }0 }{CELL 5 2 {CELLOPTS 0 -1 -1 0 0 0 0 0 
+}{R5MATHOBJ "12.56" 20 "6#$\"%c7!\"#" }0 }{CELL 6 1 {CELLOPTS 0 -1 -1 
+0 0 0 0 0 }{R5MATHOBJ "Total" 20 "6#%&TotalG" }0 }}}{PARA 0 "" 0 "" 
+{TEXT -1 34 "Conclusiones: Castro Molano Rams\351s" }}{PARA 0 "" 0 "" 
+{TEXT -1 509 "En la pr\341ctica pudimos aplicar lo visto en clase sobr
+e el tema de centroide, para obtener el centro de gravedad de un cuerp
+o tuvimos que dividir la tabla en figuras que pudieramos obtener el ce
+ntro de gravedad de cada parte dividida y al final sumarla para obtene
+r el centro de la tabla, la practica en s\355 fue algo sencilla de hac
+er, el \372nico inconveniente que tuvimos fue que no teniamos bien un \+
+lado recto en la tabla a la cual pudieramos agarrar como el \"origen\"
+, pero nos las arreglamos para solucionarlo." }}}}{MARK "5 1 0" 18 }
+{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2 33 1 1 }

@@ -1,0 +1,146 @@
+{VERSION 6 0 "IBM INTEL NT" "6.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 0 1 0 0 0 0 0 0 2 0 0 0 0 
+0 0 1 }{CSTYLE "2D Output" 2 20 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 1 }
+{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 
+2 2 1 1 1 1 }1 1 0 0 0 0 1 0 1 0 2 2 0 1 }{PSTYLE "Maple Output" -1 
+11 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 1 1 1 }3 3 0 
+0 0 0 1 0 1 0 2 2 0 1 }}
+{SECT 0 {EXCHG {PARA 0 "" 0 "" {TEXT -1 14 "Problema 2.77:" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 21 "with(VectorCalculus):" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 6 "Datos:" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 72 "Vox:=-50*cos(20*Pi/180);Voy:=-50*sin(20*Pi/
+180);x[0]:=0;y[0]:=0;g:=32.2;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$Vo
+xG,$*&\"#]\"\"\"-%$cosG6#,$*&\"\"*!\"\"%#PiGF(F(F(F/" }}{PARA 11 "" 1 
+"" {XPPMATH 20 "6#>%$VoyG,$*&\"#]\"\"\"-%$sinG6#,$*&\"\"*!\"\"%#PiGF(F
+(F(F/" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>&%\"xG6#\"\"!F'" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#>&%\"yG6#\"\"!F'" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%\"gG$\"$A$!\"\"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 41 "
+x:=Vox*t+x[0];y:=-(1/2)*g*t^2+Voy*t+y[0];" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%\"xG,$*(\"#]\"\"\"-%$cosG6#,$*&\"\"*!\"\"%#PiGF(F(F(%
+\"tGF(F/" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"yG,&*&$\"++++5;!\")\"
+\"\")%\"tG\"\"#F*!\"\"*(\"#]F*-%$sinG6#,$*&\"\"*F.%#PiGF*F*F*F,F*F." }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 45 "X:=-d*cos(45*Pi/180);Y:=-1
+0-d*sin(45*Pi/180);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"XG,$*(\"\"#
+!\"\"%\"dG\"\"\"F'#F*F'F(" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"YG,&
+\"#5!\"\"*(\"\"#F'%\"dG\"\"\"F)#F+F)F'" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 9 "ec1:=x=X;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$ec1G/,
+$*(\"#]\"\"\"-%$cosG6#,$*&\"\"*!\"\"%#PiGF)F)F)%\"tGF)F0,$*(\"\"#F0%\"
+dGF)F5#F)F5F0" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "ec2:=y=Y;" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$ec2G/,&*&$\"++++5;!\")\"\"\")%\"t
+G\"\"#F+!\"\"*(\"#]F+-%$sinG6#,$*&\"\"*F/%#PiGF+F+F+F-F+F/,&\"#5F/*(F.
+F/%\"dGF+F.#F+F.F/" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "resp:
+=solve(\{ec1,ec2\});" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%%respG6$<$/%
+\"dG$\"+gynD9!\"(/%\"tG$\"+@!4c9#!\"*<$/F($!+\"f4N#>!\")/F-$!+^J$[*G!#
+5" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "assign(resp[1]);" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 4 "d;t;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+gynD9!\"(" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+@!
+4c9#!\"*" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 14 "d= 142.5677 ft" }}
+{PARA 0 "" 0 "" {TEXT -1 12 "t = 2.1456 s" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 231 "Para calcular la velocidad perpendicular y paralela al p
+lano de 45\260 es necesario saber el vector de la velocidad a la que c
+ayo, su magnitud , el angulo con respecto a x (theta) y el angulo con \+
+respecto a la pendiente de 45\260(alpha)." }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 35 "Vx:=evalf(Vox);Vy:=evalf(-g*t+Voy);" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#>%#VxG$!+/JY)p%!\")" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%#VyG$!+k<'*=')!\")" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+12 "V_:=<Vx,Vy>;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#V_G-%'RTABLEG6%
+\")/CR')-%'MATRIXG6$7$7#$!+/JY)p%!\")7#$!+k<'*=')F07$Q\"x6\"Q\"yF6&%'V
+ectorG6#%'columnG" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "V[f]:=
+Norm(V_);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>&%\"VG6#%\"fG$\"+\\xT;)*
+!\")" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "ec3:=tan(theta)=Vy/
+Vx;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$ec3G/-%$tanG6#%&thetaG$\"+1:
+UM=!\"*" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "theta:=solve(ec3
+);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&thetaG$\"+3!*pr5!\"*" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 34 "theta_grados:=evalf(theta*18
+0/Pi);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%-theta_gradosG$\"+/IQSh!\"
+)" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 39 "alpha:=evalf((theta_gr
+ados-45)*Pi/180);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&alphaG$\"+U%3I
+'G!#5" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 32 "V[paralela]:=-(V[f
+]*cos(alpha));" }{TEXT -1 104 " Las componentes paralela y perpendicul
+ar de la velocidad  son negativa ya que van dirigidas hacia abajo" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>&%\"VG6#%)paralelaG$!+M9%oT*!\")" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 37 "V[perpendicular]:=-(V[f]*sin
+(alpha));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>&%\"VG6#%.perpendicularG
+$!+\"=6Ax#!\")" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart;" 
+}}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 14 "Problema 1.16:" }}{PARA 0 "" 0 
+"" {TEXT -1 187 "El problema se dividir\341 en dos partes, la parte en
+ la que cae del plano y la parte donde apenas va cayendo del plano ya \+
+que la Vo cuando cae del plano es la Vf cuando va bajando del plano" }
+}{PARA 0 "" 0 "" {TEXT -1 6 "Datos:" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 85 "Vox[1]:=Vo[1]*cos(Pi/4);Vo
+y[1]:=-Vo[1]*sin(Pi/4);Xo:=0;Yo:=0;x:=0.95;y:=-1.5;g:=9.81;" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>&%$VoxG6#\"\"\",$*&#F'\"\"#F'*&&%#VoGF&F'F+
+F*F'F'" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>&%$VoyG6#\"\"\",$*&#F'\"\"#
+F'*&&%#VoGF&F'F+#F'F+F'!\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#XoG
+\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#YoG\"\"!" }}{PARA 11 "" 1 
+"" {XPPMATH 20 "6#>%\"xG$\"#&*!\"#" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#
+>%\"yG$!#:!\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"gG$\"$\")*!\"#
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "ec1:=x=Vox[1]*t[1]+Xo;
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$ec1G/$\"#&*!\"#,$*&#\"\"\"\"\"#
+F,*(&%#VoG6#F,F,F-F+&%\"tGF1F,F,F," }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 36 "ec2:=y=-1/2*g*t[1]^2+Voy[1]*t[1]+Yo;" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#>%$ec2G/$!#:!\"\",&*&$\"++++0\\!\"*\"\"\")&%\"tG6#
+F.\"\"#F.F(*&#F.F3F.*(&%#VoGF2F.F3#F.F3F0F.F.F(" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 24 "resp1:=solve(\{ec1,ec2\});" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#>%&resp1G6$<$/&%#VoG6#\"\"\"$\"+Jj97S!\"*/&%\"tGF*$\"
++V*)e[L!#5<$/F($!+Jj97SF./F0$!+V*)e[LF4" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 17 "assign(resp1[1]);" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 89 "Segunda parte del problema: La velocidad final es la velocidad \+
+ con la que empieza a caer" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+10 "Vf:=Vo[1];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#VfG$\"+Jj97S!\"*
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 74 "Fr_:=[-mu[k]*N,0];N_:=[
+0,N];W_:=[m*g*cos(Pi/4),-m*g*cos(Pi/4)];a_:=[ax,0];" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#>%$Fr_G7$,$*&&%#muG6#%\"kG\"\"\"%\"NGF,!\"\"\"\"!" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#N_G7$\"\"!%\"NG" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#>%#W_G7$,$*($\"++++0\\!\"*\"\"\"%\"mGF+\"\"##F+F-F+,$
+*($\"++++0\\F*F+F,F+F-F.!\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#a_
+G7$%#axG\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 32 "ec3:=Fr_[2
+]+N_[2]+W_[2]=m*a_[2];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$ec3G/,&%
+\"NG\"\"\"*($\"++++0\\!\"*F(%\"mGF(\"\"##F(F.!\"\"\"\"!" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "isolate(ec3,N);" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#/%\"NG,$*($\"++++0\\!\"*\"\"\"%\"mGF*\"\"##F*F,F*" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "assign(%);" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 32 "ec4:=Fr_[1]+N_[1]+W_[1]=m*a_[1];" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$ec4G/,&**$\"++++0\\!\"*\"\"\"&%#mu
+G6#%\"kGF+%\"mGF+\"\"##F+F1!\"\"*($\"++++0\\F*F+F0F+F1F2F+*&F0F+%#axGF
++" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "ec4:=subs(m=1,ec4);" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$ec4G/,&*($\"++++0\\!\"*\"\"\"&%#mu
+G6#%\"kGF+\"\"##F+F0!\"\"*&$\"++++0\\F*F+F0F1F+%#axG" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 20 "e1:=isolate(ec4,ax);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%#e1G/%#axG,&*($\"++++0\\!\"*\"\"\"&%#muG6#%\"kGF,\"\"
+##F,F1!\"\"*&$\"++++0\\F+F,F1F2F," }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 11 "assign(e1);" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 25 "with(Student:-Calculus1):" }}}{EXCHG {PARA 0 "" 0 
+"" {TEXT -1 32 "Se inicia desde el reposo (Vo=0)" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 76 "Int(1,Vx=0..Vx)=Int(-4.905000000*mu[k]*2^(1/2
+)+4.905000000*2^(1/2), t=0..t);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/-%
+$IntG6$\"\"\"/%#VxG;\"\"!F)-F%6$,&*($\"++++0\\!\"*F'&%#muG6#%\"kGF'\"
+\"##F'F7!\"\"*&$\"++++0\\F2F'F7F8F'/%\"tG;F+F>" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 81 "ec5:=int(1,Vx=0..Vx)=int(-4.905000000*mu[k]*2^
+(1/2)+4.905000000*2^(1/2), t=0..t);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#>%$ec5G/%#VxG,&*($\"+BvrOp!\"*\"\"\"&%#muG6#%\"kGF,%\"tGF,!\"\"*&$\"+
+BvrOpF+F,F1F,F," }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 62 "Int(1,X=
+0..X)=Int(-6.936717523*mu[k]*t+6.936717523*t, t=0..t);" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#/-%$IntG6$\"\"\"/%\"XG;\"\"!F)-F%6$,&*($\"+BvrOp!
+\"*F'&%#muG6#%\"kGF'%\"tGF'!\"\"*&$\"+BvrOpF2F'F7F'F'/F7;F+F7" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 67 "ec6:=int(1,X=0..X)=int(-6.93
+6717523*mu[k]*t+6.936717523*t, t=0..t);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%$ec6G/%\"XG,$*($\"+++++]!#5\"\"\",&*&$\"+BvrOp!\"*F,&%#muG6#%
+\"kGF,!\"\"$\"+BvrOpF1F,F,)%\"tG\"\"#F,F," }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 91 "Se sustituyen la velocidad final y la posicion final para
+ resolver el sistema de ecuaciones" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 20 "e1:=subs(Vx=Vf,ec5);" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"6#>%#e1G/$\"+Jj97S!\"*,&*($\"+BvrOpF(\"\"\"&%#muG6#%\"kGF-%\"tGF-!\"
+\"*&$\"+BvrOpF(F-F2F-F-" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "
+e2:=subs(X=2,ec6);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#e2G/\"\"#,$*(
+$\"+++++]!#5\"\"\",&*&$\"+BvrOp!\"*F,&%#muG6#%\"kGF,!\"\"$\"+BvrOpF1F,
+F,)%\"tGF&F,F," }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "solve(\{e
+1,e2\});" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#<$/%\"tG$\"+-hsp**!#5/&%#m
+uG6#%\"kG$\"+s-^)>%F(" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 117 "El coef
+iciente de fricci\363n cin\351tica=0.41 y el tiempo en que recorre los
+ dos metros antes de caer es de casi 1 segundo" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}}{MARK "51 0 0" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }
+{PAGENUMBERS 0 1 2 33 1 1 }

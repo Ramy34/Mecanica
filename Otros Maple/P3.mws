@@ -1,0 +1,33 @@
+{VERSION 6 0 "IBM INTEL NT" "6.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 1 12 255 0 0 1 2 1 2 
+2 1 2 0 0 0 1 }{CSTYLE "2D Input" -1 19 "Times" 1 12 255 0 0 1 2 2 2 
+2 1 2 0 0 0 1 }{CSTYLE "Text" -1 207 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 
+0 0 0 1 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 1 1 1 }1 1 0 0 0 0 2 0 2 0 2 2 0 1 }}
+{SECT 0 {EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "N3:=65;" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 36 "fd:=fopen(\"./p5_1d3.txt\",READ,TEXT);" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "dat3:=readdata(0,N3);" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "t0:=dat3[1][1];" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 48 "for i to N3 do dat3[i][1]:=dat3[i][1]-t0 en
+d do;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 "pos0:=dat3[1][2];
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 57 "for i from 1 to N3 do d
+at3[i][2]:=dat3[i][2]-pos0 end do;" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 12 "with(plots):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 20 "A3:=pointplot(dat3);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+19 "with(CurveFitting):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 43 "
+f3:=LeastSquares(dat3,t,curve=a*t^2+b*t+c);" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 17 "c3:=subs(t=0,f3);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 15 "v3:=diff(f3,t);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 17 "b3:=subs(t=0,v3);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 15 "a3:=diff(v3,t);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 30 "B3:=plot(f3,t=0..dat3[N3][1]);" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 15 "display(A3,B3);" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 207 55 "Se valua la funion obtenida en los intervalos de tiempo
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 61 "for i to N3 do X[aj][3]
+:=(subs(t=dat3[i][1],f3))-pos0 end do;" }{MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 57 "Erms3:=sqrt((1/N3)*sum((X[aj][3]-da
+t3[k][2])^2,k=1..N3));" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "" "
+6#%#%?G" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{MARK "21 0" 0 }{VIEWOPTS 1 1 
+0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2 33 1 1 }

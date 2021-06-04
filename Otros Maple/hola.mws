@@ -1,0 +1,182 @@
+{VERSION 6 0 "IBM INTEL NT" "6.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 0 1 0 0 0 0 0 0 2 0 0 0 0 
+0 0 1 }{CSTYLE "2D Output" 2 20 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 1 }
+{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 
+2 2 1 1 1 1 }1 1 0 0 0 0 1 0 1 0 2 2 0 1 }{PSTYLE "Text Output" -1 2 
+1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 0 0 0 0 0 1 3 0 3 0 }1 0 
+0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "Warning" 2 7 1 {CSTYLE "" -1 -1 
+"" 0 1 0 0 255 1 0 0 0 0 0 0 1 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 
+}{PSTYLE "Error" 7 8 1 {CSTYLE "" -1 -1 "" 0 1 255 0 255 1 0 0 0 0 0 
+0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "Maple Output" -1 
+11 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 1 1 1 }3 3 0 
+0 0 0 1 0 1 0 2 2 0 1 }}
+{SECT 0 {EXCHG {PARA 8 "" 1 "" {TEXT -1 115 "Error, file or directory,
+ C:\\Users\\HP PAVILLION\\Documents\\Rams\351s\\Escuela\\Segundo semes
+tre\\Mec\341nica, does not exist\n" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 8 "restart;" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 6 "Datos:
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "mu:=0.4; t_tot:=1.18; g
+:=9.81;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#muG$\"\"%!\"\"" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>%&t_totG$\"$=\"!\"#" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%\"gG$\"$\")*!\"#" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 21 "with(VectorCalculus):" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 25 "W:=<-4/5*m*g,-3/5*m*g,0>;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%\"WG-%'RTABLEG6%\"*;;*fd-%'MATRIXG6$7%7#,$*&$\"++++[y
+!\"*\"\"\"%\"mGF3!\"\"7#,$*&$\"++++')eF2F3F4F3F57#\"\"!7%Q\"x6\"Q\"yF?
+Q\"zF?&%'VectorG6#%'columnG" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+16 "Fr:=<-mu*N,0,0>;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#FrG-%'RTABL
+EG6%\"*cI*fd-%'MATRIXG6$7%7#,$*&$\"\"%!\"\"\"\"\"%\"NGF3F27#\"\"!F57%Q
+\"x6\"Q\"yF9Q\"zF9&%'VectorG6#%'columnG" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 12 "N_:=<0,N,0>;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#N_
+G-%'RTABLEG6%\"*;K*fd-%'MATRIXG6$7%7#\"\"!7#%\"NGF-7%Q\"x6\"Q\"yF3Q\"z
+F3&%'VectorG6#%'columnG" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 41 "
+Segunda_Ley_Newton1:=W+Fr+N_=m*<ax1,0,0>;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%4Segunda_Ley_Newton1G/-%'RTABLEG6%\"*/R*fd-%'MATRIXG6
+$7%7#,&*&$\"++++[y!\"*\"\"\"%\"mGF4!\"\"*&$\"\"%F6F4%\"NGF4F67#,&*&$\"
+++++')eF3F4F5F4F6F:F47#\"\"!7%Q\"x6\"Q\"yFDQ\"zFD&%'VectorG6#%'columnG
+-F'6%\"*SU*fd-F+6$7%7#*&F5F4%$ax1GF4F@F@FBFG" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 60 "e1:=lhs(Segunda_Ley_Newton1)[1]=rhs(Segunda_Ley_
+Newton1)[1];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#e1G/,&*&$\"++++[y!
+\"*\"\"\"%\"mGF+!\"\"*&$\"\"%F-F+%\"NGF+F-*&F,F+%$ax1GF+" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 60 "e2:=lhs(Segunda_Ley_Newton1)[2]=rhs
+(Segunda_Ley_Newton1)[2];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#e2G/,&
+*&$\"++++')e!\"*\"\"\"%\"mGF+!\"\"%\"NGF+\"\"!" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 30 "resp1:=solve(\{e1,e2\},\{ax1,N\});" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>%&resp1G<$/%\"NG,$*&$\"++++')e!\"*\"\"\"%\"
+mGF-F-/%$ax1G$!+++C?5!\")" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+14 "assign(resp1);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "e3:=a
+x1=d_vx1/d_t;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#e3G/$!+++C?5!\")*&
+%&d_vx1G\"\"\"%$d_tG!\"\"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+22 "e4:=isolate(e3,d_vx1);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#e4G/%
+&d_vx1G,$*&$\"+++C?5!\")\"\"\"%$d_tGF,!\"\"" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 59 "e5:=Int(lhs(e4)/d_vx1,vx1=v0..vx1)=Int(rhs(e4)/d_t
+,t=0..t);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#e5G/-%$IntG6$\"\"\"/%$
+vx1G;%#v0GF+-F'6$$!+++C?5!\")/%\"tG;\"\"!F4" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 59 "e6:=int(lhs(e4)/d_vx1,vx1=v0..vx1)=int(rhs(e4)/d_t
+,t=0..t);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#e6G/,&%$vx1G\"\"\"%#v0
+G!\"\",$*&$\"+++C?5!\")F(%\"tGF(F*" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 20 "e7:=isolate(e6,vx1);" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"6#>%#e7G/%$vx1G,&*&$\"+++C?5!\")\"\"\"%\"tGF,!\"\"%#v0GF," }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "e8:=d_x1/d_t=rhs(e7);" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#>%#e8G/*&%%d_x1G\"\"\"%$d_tG!\"\",&*&$\"+++C?5!
+\")F(%\"tGF(F*%#v0GF(" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "e9
+:=isolate(e8,d_x1);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#e9G/%%d_x1G*
+&,&*&$\"+++C?5!\")\"\"\"%\"tGF-!\"\"%#v0GF-F-%$d_tGF-" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 56 "e10:=Int(lhs(e9)/d_x1,x1=0..x1)=Int
+(rhs(e9)/d_t,t=0..t);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$e10G/-%$In
+tG6$\"\"\"/%#x1G;\"\"!F+-F'6$,&*&$\"+++C?5!\")F)%\"tGF)!\"\"%#v0GF)/F5
+;F-F5" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 56 "e11:=int(lhs(e9)/d
+_x1,x1=0..x1)=int(rhs(e9)/d_t,t=0..t);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%$e11G/%#x1G,&*&$\"+++?,^!\"*\"\"\")%\"tG\"\"#F,!\"\"*&%#v0GF,F
+.F,F," }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "t1:=solve(subs(vx1
+=0,e7),t);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#t1G,$*&$\"+1`h,)*!#6
+\"\"\"%#v0GF*F*" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "x1_max:=
+solve(subs(t=t1,e11),x1);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'x1_max
+G,$*&$\"+`w!3!\\!#6\"\"\")%#v0G\"\"#F*F*" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 24 "W2:=<4/5*m*g,3/5*m*g,0>;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%#W2G-%'RTABLEG6%\"*;Y*fd-%'MATRIXG6$7%7#,$*&$\"++++[y
+!\"*\"\"\"%\"mGF3F37#,$*&$\"++++')eF2F3F4F3F37#\"\"!7%Q\"x6\"Q\"yF>Q\"
+zF>&%'VectorG6#%'columnG" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 
+"Fr:=<-mu*N2,0,0>;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#FrG-%'RTABLEG
+6%\"*wZ*fd-%'MATRIXG6$7%7#,$*&$\"\"%!\"\"\"\"\"%#N2GF3F27#\"\"!F57%Q\"
+x6\"Q\"yF9Q\"zF9&%'VectorG6#%'columnG" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 15 "N2_:=<0,-N2,0>;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%
+$N2_G-%'RTABLEG6%\"*#R&*fd-%'MATRIXG6$7%7#\"\"!7#,$%#N2G!\"\"F-7%Q\"x6
+\"Q\"yF5Q\"zF5&%'VectorG6#%'columnG" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 43 "Segunda_Ley_Newton2:=W2+Fr+N2_=m*<ax2,0,0>;" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>%4Segunda_Ley_Newton2G/-%'RTABLEG6%\"*+e*fd
+-%'MATRIXG6$7%7#,&*&$\"++++[y!\"*\"\"\"%\"mGF4F4*&$\"\"%!\"\"F4%#N2GF4
+F97#,&*&$\"++++')eF3F4F5F4F4F:F97#\"\"!7%Q\"x6\"Q\"yFDQ\"zFD&%'VectorG
+6#%'columnG-F'6%\"*wh*fd-F+6$7%7#*&F5F4%$ax2GF4F@F@FBFG" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 61 "e12:=lhs(Segunda_Ley_Newton2)[1]=rh
+s(Segunda_Ley_Newton2)[1];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$e12G/
+,&*&$\"++++[y!\"*\"\"\"%\"mGF+F+*&$\"\"%!\"\"F+%#N2GF+F0*&F,F+%$ax2GF+
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 61 "e13:=lhs(Segunda_Ley_Ne
+wton2)[2]=rhs(Segunda_Ley_Newton2)[2];" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%$e13G/,&*&$\"++++')e!\"*\"\"\"%\"mGF+F+%#N2G!\"\"\"\"!" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "resp2:=solve(\{e12,e13\},\{a
+x2,N2\});" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&resp2G<$/%#N2G,$*&$\"+
++++')e!\"*\"\"\"%\"mGF-F-/%$ax2G$\"+++g$\\&F," }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 14 "assign(resp2);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 19 "e14:=ax2=d_vx2/d_t;" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+6#>%$e14G/$\"+++g$\\&!\"**&%&d_vx2G\"\"\"%$d_tG!\"\"" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 24 "e15:=isolate(e14,d_vx2);" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#>%$e15G/%&d_vx2G,$*&$\"+++g$\\&!\"*\"\"\"%$d_tGF,F
+," }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 62 "e16:=Int(lhs(e15)/d_vx
+2,vx2=v0..vx2)=Int(rhs(e15)/d_t,t=0..t);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%$e16G/-%$IntG6$\"\"\"/%$vx2G;%#v0GF+-F'6$$\"+++g$\\&!\"*/%\"tG
+;\"\"!F4" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 62 "e17:=int(lhs(e1
+5)/d_vx2,vx2=v0..vx2)=int(rhs(e15)/d_t,t=0..t);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%$e17G/,&%$vx2G\"\"\"%#v0G!\"\",$*&$\"+++g$\\&!\"*F(%
+\"tGF(F(" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "e18:=isolate(e1
+7,vx2);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$e18G/%$vx2G,&*&$\"+++g$
+\\&!\"*\"\"\"%\"tGF,F,%#v0GF," }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 23 "e19:=d_x2/d_t=rhs(e18);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$e1
+9G/*&%%d_x2G\"\"\"%$d_tG!\"\",&*&$\"+++g$\\&!\"*F(%\"tGF(F(%#v0GF(" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "e20:=isolate(e19,d_x2);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$e20G/%%d_x2G*&,&*&$\"+++g$\\&!\"*\"
+\"\"%\"tGF-F-%#v0GF-F-%$d_tGF-" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 58 "e21:=Int(lhs(e20)/d_x2,x2=0..x2)=Int(rhs(e20)/d_t,t=0..t);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$e21G/-%$IntG6$\"\"\"/%#x2G;\"\"!F+-
+F'6$,&*&$\"+++g$\\&!\"*F)%\"tGF)F)%#v0GF)/F5;F-F5" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 58 "e22:=int(lhs(e20)/d_x2,x2=0..x2)=int(rhs(e20
+)/d_t,t=0..t);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$e22G/%#x2G,&*&$\"
++++!ou#!\"*\"\"\")%\"tG\"\"#F,F,*&%#v0GF,F.F,F," }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 29 "t2:=solve(subs(vx2=0,e18),t);" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#>%#t2G,$*&$\"+&)**H?=!#5\"\"\"%#v0GF*!\"\"" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "x2_max:=solve(subs(t=t2,e22)
+,x2);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'x2_maxG,$*&$\"+G**\\,\"*!#
+6\"\"\")%#v0G\"\"#F*!\"\"" }}}}{MARK "43" 0 }{VIEWOPTS 1 1 0 1 1 1803 
+1 1 1 1 }{PAGENUMBERS 0 1 2 33 1 1 }{RTABLE_HANDLES 575991616 
+575993056 575993216 575993904 575994240 575994616 575994776 575995392 
+575995800 575996176 }{RTABLE 
+M7R0
+I6RTABLE_SAVE/575991616X*%)anythingG6"/%'coordsG%*cartesianG[gl!#%!!!"$"$,$%"mG
+$!++++[y!"*,$F*$!++++')eF-""!6"
+}
+{RTABLE 
+M7R0
+I6RTABLE_SAVE/575993056X*%)anythingG6"/%'coordsG%*cartesianG[gl!#%!!!"$"$,$%"NG
+$!"%!""""!F.6"
+}
+{RTABLE 
+M7R0
+I6RTABLE_SAVE/575993216X*%)anythingG6"/%'coordsG%*cartesianG[gl!#%!!!"$"$""!%"N
+GF)6"
+}
+{RTABLE 
+M7R0
+I6RTABLE_SAVE/575993904X*%)anythingG6"/%'coordsG%*cartesianG[gl!#%!!!"$"$,&%"mG
+$!++++[y!"*%"NG$!"%!"",&F*$!++++')eF-F."""""!6"
+}
+{RTABLE 
+M7R0
+I6RTABLE_SAVE/575994240X*%)anythingG6"/%'coordsG%*cartesianG[gl!#%!!!"$"$*&%"mG
+"""%$ax1GF+""!F-6"
+}
+{RTABLE 
+M7R0
+I6RTABLE_SAVE/575994616X*%)anythingG6"/%'coordsG%*cartesianG[gl!#%!!!"$"$,$%"mG
+$"++++[y!"*,$F*$"++++')eF-""!6"
+}
+{RTABLE 
+M7R0
+I6RTABLE_SAVE/575994776X*%)anythingG6"/%'coordsG%*cartesianG[gl!#%!!!"$"$,$%#N2
+G$!"%!""""!F.6"
+}
+{RTABLE 
+M7R0
+I6RTABLE_SAVE/575995392X*%)anythingG6"/%'coordsG%*cartesianG[gl!#%!!!"$"$""!,$%
+#N2G!""F)6"
+}
+{RTABLE 
+M7R0
+I6RTABLE_SAVE/575995800X*%)anythingG6"/%'coordsG%*cartesianG[gl!#%!!!"$"$,&%"mG
+$"++++[y!"*%#N2G$!"%!"",&F*$"++++')eF-F.F1""!6"
+}
+{RTABLE 
+M7R0
+I6RTABLE_SAVE/575996176X*%)anythingG6"/%'coordsG%*cartesianG[gl!#%!!!"$"$*&%"mG
+"""%$ax2GF+""!F-6"
+}
+

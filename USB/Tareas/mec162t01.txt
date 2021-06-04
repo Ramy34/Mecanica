@@ -1,0 +1,41 @@
+DATOS PERSONALES
+
+1  Nombre completo: Hector Eduardo Cabello Aguilar
+
+2  Dirección correo electrónico: hectoreduardo354@hotmail.com
+
+3  Teléfono casa: 58442237
+            celular: 5543425240
+
+4  Asignaturas cursadas en el semestre 2016-2 además de Mecánica: Álgebra lineal, Cálculo Integral, Estructura de datos y algoritmos, Redacción y exposición de temas de ingeniería, Cultura y comunicación.
+
+5  Nombre del profesor con quien cursó Cálculo y Geometría Analítica: M.I Maria Sara Valentina Sanchez Salinas
+
+   Semestre: 2016-1         Calificación: 8.2
+
+6  Carrera:	Ingeniería  en Computacion
+
+7  Breve currículum vitae: 
+
+Objetivo: Concluir satisfactoriamente mi segundo semestre para poder ingresar a la carrera de ingreso idirecto Ingenieria en Telecomunicaciones.
+Preparacion academica: 
+	* Curso intersemestral C++ basico. (20 horas)
+	* Curso intersemestral C++ intermedio. (20 horas)
+	* Curso intersemestral C++ Avanzado. (20 horas)
+	* Curso intersemestral "La integral, metodos de integracion y aplicaciones". (15 horas)
+	
+8  Virtudes: Respetuoso, cooperativo, observador, trabajo en equipo, responsable, curioso.  
+
+
+9  Defectos: Pasivo, semi-perfeccionista, confiado.
+
+10 Entretenimientos: Leer noticias relacionadas con la ciencia, astronomia, navegar por internet, natacion, paseos en bicicleta, fisica en general.
+
+11 Después de leer el objetivo de la asignatura (en el programa
+   de la materia), lo que piensa lograr al final del semestre: Conocer y ampliar el panorama general de la mecanica, asi como poder analizar y resolver con relativa facilidad problemas de este tema.
+
+12 Expectativas personales del curso: Aplicar los conocimientos adquiridos en la materia en el proyecto final con total plenitud, asi como aprender nuevos paradigmas de aprendizaje practico.
+
+13 Temores sobre el curso: No poder cumplir con el objetivo de la asignatura.
+
+14 Comentarios adicionales: Me siento sinceramente entusiasmado con la materia y con el proyecto, ya que es un elemento adiccional totalmente nuevo para mi, una de las cosas que mas me interesaba al entrar a la facultad era realizar proyectos o actividades practicas como estas.

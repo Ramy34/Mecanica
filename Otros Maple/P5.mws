@@ -1,0 +1,31 @@
+{VERSION 6 0 "IBM INTEL NT" "6.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 1 12 255 0 0 1 2 1 2 
+2 1 2 0 0 0 1 }{CSTYLE "Text" -1 207 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 
+0 0 0 1 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 1 1 1 }1 1 0 0 0 0 2 0 2 0 2 2 0 1 }}
+{SECT 0 {EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "N5:=65;" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 36 "fd:=fopen(\"./p5_1d5.txt\",READ,TEXT);" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "dat5:=readdata(0,N5);" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "t0:=dat5[1][1];" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 48 "for i to N5 do dat5[i][1]:=dat5[i][1]-t0 en
+d do;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 "pos0:=dat5[1][2];
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 57 "for i from 1 to N5 do d
+at5[i][2]:=dat5[i][2]-pos0 end do;" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 12 "with(plots):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 20 "A5:=pointplot(dat5);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+19 "with(CurveFitting):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 43 "
+f5:=LeastSquares(dat5,t,curve=a*t^2+b*t+c);" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 17 "c5:=subs(t=0,f5);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 15 "v5:=diff(f5,t);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 17 "b5:=subs(t=0,v5);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 15 "a5:=diff(v5,t);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 30 "B5:=plot(f5,t=0..dat5[N5][1]);" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 15 "display(A5,B5);" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 207 55 "Se valua la funion obtenida en los intervalos de tiempo
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 61 "for i to N5 do X[aj][5]
+:=(subs(t=dat5[i][1],f5))-pos0 end do;" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 57 "Erms5:=sqrt((1/N5)*sum((X[aj][5]-dat5[k][2])^2,k=1..N
+5));" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 0 "" }}}}{MARK "21 0" 0 }{VIEWOPTS 1 1 0 1 1 
+1803 1 1 1 1 }{PAGENUMBERS 0 1 2 33 1 1 }

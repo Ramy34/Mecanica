@@ -1,0 +1,1013 @@
+{VERSION 18 0 "Windows 8" "18.0" }
+{USTYLETAB {PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times"
+ 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 2" -1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered
+ List 3" -1 202 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 
+0 0 1 }1 1 0 0 3 3 2 72 2 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 
+1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3
+ 3 2 108 2 0 2 2 -1 1 }{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 
+2 -1 1 }{PSTYLE "Author" -1 19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1
+ 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 8 2 0 2 0 2 2 -1 1 }{PSTYLE "Warning" 
+-1 7 1 {CSTYLE "" -1 -1 "Courier New" 1 12 0 0 255 1 2 2 2 2 2 1 1 0 0
+ 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Annotation Title" -1 205 1 
+{CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 1 0 0 12 
+12 2 0 2 0 2 2 -1 1 }{PSTYLE "Maple Plot" -1 13 1 {CSTYLE "" -1 -1 "Ti
+mes" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Line Printed Output" -1 6 1 {CSTYLE "" -1 -1 "Courier New" 1 
+12 0 0 255 1 2 2 2 2 2 1 2 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Text Output" -1 2 1 {CSTYLE "" -1 -1 "Courier New" 1 12 0 0 
+255 1 2 2 2 2 2 1 3 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Diag
+nostic" -1 9 1 {CSTYLE "" -1 -1 "Courier New" 1 12 40 120 40 1 2 2 2 2
+ 2 1 2 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal" -1 0 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "Maple Output" -1 11 1 {CSTYLE "" -1 -1 "Ti
+mes" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Dash Item" -1 16 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 
+2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkError
+" -1 206 1 {CSTYLE "" -1 -1 "Courier New" 1 12 255 0 255 1 2 2 1 2 2 1
+ 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Error" -1 8 1 {CSTYLE
+ "" -1 -1 "Courier New" 1 12 255 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 
+0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Title" -1 18 1 {CSTYLE "" -1 -1 "Times"
+ 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2
+ 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "Bullet Item" -1
+ 15 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0
+ 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 4" -1 20 1 {CSTYLE "" -1 -1 
+"Times" 1 12 0 0 0 1 1 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1
+ }{PSTYLE "Heading 3" -1 5 1 {CSTYLE "" -1 -1 "Times" 1 14 0 0 0 1 1 1
+ 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 2" -1
+ 4 1 {CSTYLE "" -1 -1 "Times" 1 16 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 
+0 8 2 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkWarning" -1 207 1 {CSTYLE ""
+ -1 -1 "Courier New" 1 12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0 2
+ 0 2 0 2 2 -1 1 }{PSTYLE "List Item" -1 14 1 {CSTYLE "" -1 -1 "Times" 
+1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }
+{CSTYLE "Annotation Text" -1 200 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 
+0 1 }{CSTYLE "Caption Reference" -1 201 "Times" 1 12 0 0 0 1 2 1 2 2 2
+ 2 0 0 0 1 }{CSTYLE "Maple Input Placeholder" -1 202 "Courier New" 1 
+12 200 0 200 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "Code" -1 203 "Courier New
+" 1 12 255 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Inert Output" -1 204
+ "Times" 1 12 144 144 144 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Hyperlink" 
+-1 17 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "2D Math" 
+-1 2 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Input" 
+-1 0 "Courier New" 1 12 120 0 14 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "2D Ou
+tput" -1 20 "Times" 1 12 0 0 255 1 2 2 2 2 2 1 0 0 0 1 }{CSTYLE "2D In
+put" -1 19 "Times" 1 12 0 0 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Header a
+nd Footer" -1 205 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "T
+ext" -1 206 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Equatio
+n Label" -1 207 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Dic
+tionary Hyperlink" -1 45 "Times" 1 12 147 0 15 1 2 2 1 2 2 2 0 0 0 1 }
+{CSTYLE "Atomic Variable" -1 208 "Times" 1 12 175 0 175 1 1 2 2 2 2 2 
+0 0 0 1 }{CSTYLE "Caption Text" -1 209 "Times" 1 12 0 0 0 1 2 1 2 2 2 
+2 0 0 0 1 }{PSTYLE "" -1 208 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 1 1 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 210 "T
+imes" 1 12 0 0 0 1 2 1 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 211 "Times" 1 12
+ 0 0 0 1 2 1 1 2 2 2 0 0 0 1 }}
+{SECT 0 {EXCHG {PARA 0 "" 0 "" {TEXT 212 61 "Tarea 4                 \+
+                             Mecanica" }}{PARA 0 "" 0 "" {TEXT 212 43 
+"Integrantes: Cabello Aguilar Hector Eduardo" }}{PARA 0 "" 0 "" {TEXT 
+212 38 "                  Castro Molano Ramses" }}{PARA 0 "" 0 "" 
+{TEXT 212 37 "                   Roldan Rivera Luis" }}}{EXCHG {PARA 0
+ "> " 0 "" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG {PARA 208 "" 0 "" {TEXT
+ 206 14 "Problema 2-3: " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "
+a:=45*Pi/180;A;B:=9000;C:=8000;" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$I#P
+iG%*protectedG#\"\"\"\"\"%" }}{PARA 11 "" 1 "" {XPPMATH 20 "I\"AG6\"" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "\"%+!*" }}{PARA 11 "" 1 "" {XPPMATH 20
+ "\"%+!)" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "eq1:=A^2=B^2+C^
+2-2*B*C*cos(a);" }}{PARA 11 "" 1 "" {XPPMATH 20 "/*$I\"AG6\"\"\"#,&\"*
++++X\"\"\"\"*$F&#F)F&!)+++s" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+21 "A:=evalf(solve(eq1));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6$$\"+R@*3d'!\"'$!+R@*3d'F%" }}}{EXCHG 
+{PARA 0 "> " 0 "" {XPPEDIT 19 1 "" "%#%?G" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 210 12 "Problema 2-7" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+51 "Fa := 3000; Fb := 2000; a1 := evalf(30*Pi*(1/180));" }}{PARA 11 ""
+ 1 "" {XPPMATH 20 "\"%+I" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"%+?" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "$\"+ex)fB&!#5" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 30 "e1 := sin(a1)/Fa = sin(a2)/Fb;" }}{PARA 11 "" 1 ""
+ {XPPMATH 20 "/$\"+nmmm;!#8,$-I$sinG6$%*protectedGI(_syslibG6\"6#I#a2G
+F,#\"\"\"\"%+?" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "solve(e1)
+;" }}{PARA 11 "" 1 "" {XPPMATH 20 "$\"+&4p$)R$!#5" }}}{EXCHG {PARA 0 "
+> " 0 "" {XPPEDIT 19 1 "" "%#%?G" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 211 
+12 "Problema 2-5" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 206 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {XPPEDIT 19 1 "" "%#%?G" }{BITMAP 357 226 226 1 "?TM
+Wf@?:;JUJNjH@:=_:F:k:;JfdK;J:::vyyyyy=::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::<jyyiy=::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::<:xI:::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::B:ry::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::Z:Zy=::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::<:xI:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::B:
+ry::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::Z:Zy=::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::<:xI:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::JyyyyuIyyy
+Jycyvyy=:::::::::::::::::::Z:Zy=::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::ZxMy;:::ryyA:::::::::::::::::::::::::::::::::::::
+:::::::::::::Rywyyuiy:::ZyyyyyY:::::::::::::::::::B:ry::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::bynY::::xyy;::::::::::::::
+::::::::::::::::::::::::::::::::::::nYtI::::yyy:::::::::::::::::::B:ry
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::bynY::::xy
+y;::::::::::::::::::::::::::::::::::::::::::::::::::bytyyyYy;yAwQywYvy
+y=:::::::::::::::::::Z:Zy=::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::ZxMy;:::ryyA:::::::::::::::::::::::::::::::::::::::::::
+:::::::ZwyYuA:::nYvY:::::::::::::::::::<:xI:::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::nYlyyyYx;:::ryyA::::::::::::::::::Z:Zy=::::::::::::
+::::::::::::::::::::::::::::::::::JyuYyyyyyyy;:uYyuyyyyyRyvYxI::::::::
+:byZy=:pIuaymy;::waxmysynYtIyay=:::::::::::::::::::::::::::::::::::::t
+IwYyuYysIyiYweiywiylYxuyxqIlywiyxmywyyymYxaYuyyymYt=ypmWgYW`]v\\IVYiU]
+EvYMwamvlIxjuyxqyySxmYxyyyyIysIyyyyxI::::::::::::::::B:ry:::::::::::::
+:::::::::::::::::::::::::::::::::::fYJx;eYweyyyyymaxqyxqYxIyA:::::::nY
+pyxqiwaywqywyyyqYtIjysy:ZxMy;ryvYtIuawMyuYyyIyA:::::::::::::::::::::::
+::::::::::::::^ytQyuIysIyqyxyqyxyxoiXsIySitOiwcIwwiywyxmYxyayiyvqyvYy?
+Ir:akBxjGHkBxmUPmZ`mU`mRxlExj@XjyoiW`mVpxpqxxqyxayvayuuxyyyyyy::::::::
+::::::::Z:Zy=::::::::::::::::::::::::::::::::::::::::::::::::tixyYxIqy
+xqiwgiw;Ir;IsCIsgiwgyyyyyyA:::ZxMysyvYJyyyx[yqY:nyyiyxmy;sIyxIyawiYsIy
+pyxqyxcyryyyy:nYwiyvYxI::::::::::::::::::::::::::::::::::::::rxoixwiyw
+yquXq[geWw`mV`]v]YV`iv_Cgb?GlGhkiYweIxkywOwcKgeOwd;Xiwgj=XjkggggfYGfQG
+dMWbyvakv_iF]SF]Of\\OVlMXlwiytIyay=::::::::::::::::<:xI:::::::::::::::
+::::::::::::::::::::::::::::::::uAZxMx[w]pqxpIuSIuNatNIysIyymy;:::bynY
+xIyAnyyiyx=xIxYyKygyxyYrynYwyyxyy;:::wAvY:tIry::::::::::::::::::::::::
+:::::::::::::fxnaxtIysiweYwZpmXxn_hnEHkC@lHpkJpkH@mPplKxkIHlI@l;@j<pn_
+xnWauXyr@Asyxq;AqqHqnXpopog@p`hnbhlOxlSHmS`lN`lJ@lJhtOitwiywyYyyy:::::
+:::::::::::Z:Zy=::::::::::::::::::::::::::::::::::::::::::::::JyCyVYpy
+xqIhywGysIYFwcIwVauVyyyuy:::::ZxmxqivmxuywuyyiyyyYxyiv]wqytIytqxuayryy
+yayxyyvyYyYx>yrAyyyyyyYJy;rxfYtIqyxqyxfYxIyA::::::::::::::::::::::::::
+:::::::::::Zryxqav]YvL@lJpkF`kcxnaHpixofPodhn]XnX`mVPkCPkcPofhsGysMQtO
+Qr<ar:Ir=Ypn@qixom@ob`o[Hn_xkH@lJ@lKhkGhkwgiw_kF`ksIysyYxI::::::::::::
+::::B:ry:::::::::::::::::::::::::::::::::::::::Zxyyxqyyqyvqyvayyiywyyw
+qYyYyyiysyyuaxqYyyyyA:JsEYsEWcEW\\MV\\EYsEYxmYxqyxoyxUyFwcIwUYuUyyyyyy
+MyuYyuIsQxyyyuyyyyxmyxeyyyYyuixyYyqxuixyyxiYeIwiyjAXkcGgaGhmGhugiswtSY
+tuiysImUHmCIsAipqHpgiweYyuQj=XjeWgewkIxkMXlMxyyyyoYuapqxpyqyxqSIuSIysI
+yWiuWyqyxqTQuTysIySyyybynYxIuYyuyyyqy;::::::::::::::::::::::::::::::::
+::Ry>VXquXQ>]R>qtPqtRAuReTOeTLMTLqr@qRKITK]v^UvcAwbUWdIw_eV_AvZAVW]UWE
+uQAURqtQUTLYtJySKaSFaSAuRAir?iR;ER;QxlQxyyiy=::::::::::::::::<:xI:::::
+::::::::::::::::::::::::::::::::::RxuixqyysixyyxqyysYwoiweyxgixwyxqyyh
+yymIxIyA:nY`wfawIysIuYyGysIyxqYyapqxpyvayv^av^IysUxnYjycypyy_yyEyByuix
+uYyuYysYyyiyyayiyvqyVYuYatMitvayvawfawUYuUatNatuXquPytQy\\Qv\\ypqxpoix
+omKuXquxwiywytQyTsEiuYyuqyxqyumSIuSAxjAXweYwmSHmSlMXlYyuYynaxn=Wb=wyyi
+ymxsyxYyoyymy;::::::::::::::::::::::::::::::::::waxmhqwhYsEYsDQsDqqxpQ
+sDQs`qv`q@qr@EUSEu^aV^yv`evdIWcAwauV^Uv\\EVZ=VUMUT=uPyTQitPATIATFQsEAs
+BEs>ar>UR=Urxpqxhwgiwyyiy=::::::::::::::::<:xI::::::::::::::::::::::::
+:::::::::::::::BywYywyylYymYwqywqyyqYycyyiyqiysixnyyqyyyYyA:ZiywiQkDPk
+kIxkyyyyywmvayvEYsEy]Yv]awfawxqyxuYyoYxyyOuTeiwgiAxj?xi;xi=hj=xjCxjcHo
+cxyyqycyuiysyxsiywyywhqwxqyxqsIysYyuQSEeWiuWIyseuWiugf_gfqwhqqv`qvxqyx
+waeXoePv\\QvwiywyyyUy>qr@qWiuWiYuYb=WbCIsCyynXptPqtwiywyyywY::::::::::
+::::::::::::::::::::::::::jwWY>vZAvV`mVXpmXpj@pjHn[Hnr@qrpr@qrMYtMQsDA
+sLItHqtNYtHasEir=Yr=Ir;qqv`qnHpmpoehOJFUSEYSB=SB]R>]RxlQxDWcEwyyyyyI::
+::::::::::::::B:ry::::::::::::::::::::::::::::::::::::::::tyv]yuuyyqiy
+qyxiyvAypixxqywyyyuyyiyuYysiywiyyyyyyy:ZxqyxQlLPlPqtPayvay]Yv]yyyyytQy
+tQxlQxiywimymYxgYxiyawfaWhWlMXlExjIxiuWjuWiuWr=YrqyxqYxqYxyyyuYxqYxuix
+AyrAyFasFiwgiwjAxjQplPpQytQiywiylQxlYlMXlAyrAamV`mxqYoixoyfawfQxlQXyuQ
+xmivMZ=VZIxkIxxqyxMTLMTj=XjeYweYsscIwccIwcyyyqy;uaymy;::::::::::::::::
+::::::::::::::::::RyvuYyuQxlQPplPp;Ir;ipohptPqthr?irJAtJysJqsKAtFYtKAt
+JqsGAs@ir;yqyHqqxpi`ohXobPo]@n]@nWxmJ@lK`kF`k?hj?Hj;HjNatN]y=:::::::::
+:::::::<:xI:::::::::::::::::::::::::::::::::::::::rxmYxyawQytQvXqu[quX
+AyoixyqyxyyvayxYyvyyxqYyqy;:uawmXquXeSGesbAwbAuRAutQytuYyuyxqyxqIyyyxI
+uAVv]YvFasGisFysJysLYtLitJysKIuSIuxyyxaYqYywyxsYyoQyiivYyqyxqQqtPqxqYw
+fawvpqxpyakIxkylQxl?ir?amV`mwiYqyxxuYyu[Iv[qyx_Y`yvwqyxqXquXAyrUeUO[EV
+[IysIyKItKauVauwiywyyywYJx_yyyyyyY::::::::::::::::::::::::::::::::::Jy
+uYyuIyxqyX`mV`ggggghogh=XjDV[Ev]Yf=uj_hn]hmUhlYXmSHo_XnShlOHjwgisghowf
+[gf[WeYGc;wbqF`of^]f^Wf]WV[EV[Gf[Gvoixoyyyyyy::::::::::::::::Z:Zy=::::
+:::::::::::::::::::::::::::::::::::nyyiysQyyqyyIvWquFxjB`nY@nWAuSAyqAy
+xaywyyxqyymycywiyyayMySyfwgiwPplPHysIynaxnYweYwvayvqyx=yyyJysyFX\\xmax
+lIxm=xiEXkAXlMxkUxrAyreyweYyuywyyymywiyuiYx]YxqYxyIYweYwvayvoghoGmSHmu
+Yy<Yr?lJ@lXqUSF]SVyuQyuiohpoXtMYtyyYoavayvARXxmYxyyiZ@nZHtKIt>ar>qr@qr
+vaYyaxMysy:vY:::::::::::::::::::::::::::::::::::tIuXqDSCEsWiuWquXquVau
+VAvZAv^av^]V^]V`mV_yVaiVfUwdYwdMW^Uv\\av]YVW]UVeuUauNUTNQtJMTHasGMsCMS
+?eR?Yr=YryxqyHwcIGxI::::::::::::::::B:ry::::::::::::::::::::::::::::::
+::::::::::uiypYyuywmyyqYyQURAU:iQxhQuXq?Ur=iUUYUrqxpeYweywiywqyx_YPIRy
+ZSHmSXweYwwiYgacIwcyyyuyvxqyxyyYyA:wyyyiy:ZyyYtYwiyvuyyiYtQyrqVaefyiyi
+ywiQmTPmuYYkHpkXf]WfuYyuIr<XXmUXYyuYYEUSEaxnoyxqykHpkxxqyxxqyxqYxyygpo
+hpYyuYAyrAyTPmT@vZAvwiYuaxeyry::::::::::::::::::::::::::::::::::::::>V
+HsCIsVaev`qvPqtPqxpqxxrAyrEYsEqsIisJysEitMQtJqsGASDFsghoggaWgUgdSGc;wb
+yv`wv^_v^MV\\MN=oixoiLQtL]y=::::::::::::::::<:xI::::::::::::::::::::::
+:::::::::::::::::byuiywYywQxuyyuyyUXlUxtDQt\\qtXqo`poHQrDqxdQxpuXqupqx
+pYyuYItIRyuQsEIVquXqLQtLIqsHq@qr@iywiyxeyyay=:ZxyyyqY:xyyiywwYwYylyxqY
+xywiuWR=URuSIuS[EV[mYxOytQyCIsCiuWemWhmYyuYYyuQn]XnOtLYuUYuXquXyyyuy^y
+vuvayvmWh\\Xn]XsEYsuTQuTlMXluYyoYxyywY::::::::::::::::::::::::::::::::
+:::::jxqiwMj;kGhkgiwgi?hjHv[IV^]V^]FQxlOxn_hmgHoDWbyVbuv`IvZAvWauV=uPy
+tQmTQATIATIisHAsBES>]R>Qr<QRytQy@wbAwyyiy=::::::::::::::::<:xI::::::::
+:::::::::::::::::::::::::::::::bywyyuQyqYyyyxuyymyxuyV]UW=QrDQsHQtxpq@
+qr<QsTQuXq<Qr<av^aVycy^yvayxqYcIwcIxkIxqyxqiwVyuYyuMyuiuYYsIyxIyA:JyyI
+yAZwUyyyyhivMxyIyawmwiiumuYivayviywiywMr=iuYyuAyrAyvayvqxpeywqxcxoQyuY
+yuIiywiiy^YPIuYytYywyyEyvYxI:::::::::::::::::::::::::::::::::::::wiywi
+yNv\\QvQxlQxqyxqxpqxHqsHq:Ar:yrAyr@qr@qREhlMhkWHmQhmSxlQXlKxiuWiiWgeGf
+UweSWdQwasvaov_mF_aF_dbB@kBHj;HjOitOyyyuy::::::::::::::::Z:Zy=::::::::
+:::::::::::::::::::::::::::::::pyyyYxyyymYyyywuYyiyxyYrEYtMr=aRrHqttPr
+DqotPrXR>]rcIwceYweYxmismxqivaYwaymwWyxqyx]tMyuInYjy;ZxyYuaw=jyoyyayuy
+yyuytI^yvUynYPytQYweYwMYtMyvaIfYxItYyiywwyyyyqmycynY\\IwiywIyNYxyyyYxm
+ixmx;yA::::::::::::::::::::::::::::::::::::::Fv[IvN`lNpqxpqxlVSiuWiEXk
+EhkGhkQxlMHmOxkYXmShn[xmExjAXiqwhgGgcwgcggQGdOWbwVbgv^gF^[V^KF\\Kf[Gf[
+yuYyen_hnyay=::::::::::::::::<:xI:::::::::::::::::::::::::::::::::::::
+::BywQxuisaywYyxuxuyyuiy<V[UVrHqu@qsXQn\\Pq<qq@QgeWgyyyCypIwayyyyiywuy
+^Y:tIwawmxsyvY:byyyysyyJycyvYuaxyywaYuIyyayIyrIytQytAyrAyymx;wiylI:qax
+mysyVYpyxgYhIwatmysyfYxImYxxyywY::::::::::::::::::::::::::::::::::::::
+tI?aPplPxqxpq;yqypqv`q;yqyxr=YrEqrAqsDIsBIs?QsDAsJAtIir?arv`qvPplPplHp
+mhn^pn\\Hn]PmShmNXlOhj>pj@hjAPisWiQqtRyyxyyyqyy=:yyy::::::::::::::B:ry
+::::::::::::::::::::::::::::::::::::::::ZxMysy^yuExiixyeYCV[Av\\oxoyH
+\\GV\\=VZ=voixowiypIuAvyyMywYxI:::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::byNVHsCOqr@qyhQ?Hj;HkyGjGXj?xlEhkUXlKHlMXkUhmSxn
+chnEXkCXhmWhkGhkgf]wfWWeYGbyfbqf`wf_ev_Sv\\Uf\\Mv\\ieWkelMxlyiyyyywyy:
+jyyI::::::::::::::<:xI:::::::::::::::::::::::::::::::::::::::ZxMy;yyyw
+axmxyy_avaEURUUymyyMxkMxtPqtdQwdQhmWhuYyuyx;yaxqYsayuyyA::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::ZxmjAxjAsBAsUQuTquWiu[Av
+ZMvY=v\\=vZiV]Yv`ev^af@ysJqsMatLyRGxiyOR=URMuSQULItLusHySByrC=sAAS?ar?
+YR=]RuPquPV\\Uvyuyyoyy=:yyy::::::::::::::B:ry:::::::::::::::::::::::::
+:::::::::::::::tIwayyYnYtixiyyixnAygawiyxpQywayxYtMYtpohpgj?hjUYuUyYpy
+xoYxiyqyx=yA::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::ZwMlMXlQsDQsWauVuUXmuYquXIVYyu]Ev[mv]]VaiV_aV_UV`qv_yVbuV^av]UV]WquX
+qipoj@oaHoVXmXPmShmQplRpkGxkApjBHirOiByrCyyxyyyqyy=:yyy::::::::::::::B
+:ry::::::::::::::::::::::::::::::::::::::::tIxIJyOysYyyqYuqyqYxuyv]ywu
+YygY\\Wf]w:Abj?hjgtOuxqyxtiv=xI:::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::Ryfv_ivPplP`qtPqwXquhquXq>yq:yr<YrCYr>Qs@irFYsBA
+tHisJqsGqr>Yr>Qr<qpn`pspprHo`@o]@n]@mNHmNXlOxkH@lApjBhivoiDulrywA:vyy=
+:::::::::::::Z:Zy=:::::::::::::::::::::::::::::::::::::::::Jyuit]xUxmi
+xuIyuYypYySx^v^avAxjApixoiCIsCayvaywmySyZy=:::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::jxcynv`qvMXlMhqv`qylYquXQVZAv[uuYIvXuU
+^Mv[ef?YtKAtNQtKAs@qr:qqxPqr@qjhoihod`obhnbhmSpmNXlO@kAHk>Xj?`iugiHisI
+yyxyyyqY:jyyI::::::::::::::<:xI:::::::::::::::::::::::::::::::::::::::
+::::nYtIyIysqyswiayEr<X@mR@Ir;Ib=YryyYwiyxIqavmxsxfYxIyA::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::ZxmkIxkESCESXeUWyuXquZyuYUv
+ZEV^IV\\iv\\UVcuv`mV_YVbuv`AwauV^sisGimggiwfYWfOwcMGc;wbiv^kV_cf_If[Kf
+[Ev[suXuUldvyuIwyy:jyyI::::::::::::::<:xI:::::::::::::::::::::::::::::
+::::::::::Jyky;bynYJxyivmxyyyuIyyynyxuy>xjAxv_ivWhmWhuXquhywUyvYyIysQx
+syxyvGyyyYyA:::::::::::::::::::::::::::::::::::::::::::::::::::::::::Z
+xmlQxlIsCICLV[EvZyuYQVZAV_QV]iV]YvaiV_=w`evbqV`UWcAwaiv_IVYyUXYUVqUVeu
+RmTQYTKMtHaSIAsAAS<Ir<er>iR<Ir<uv`yFyyywA:vyy=:::::::::::::Z:vYxI:::::
+::::::::::::::::::::::::::::::::::Jycyvyy=tIuavyYsAZwayveynYlIbv_ivsFa
+svWiuW[Gf[wwiywuYyuYyvYyIysqywyy=:::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::jxqixMlMhtOitwlOhl``n^hoeXos`pohr:IrAIr<asAqrIYsBI
+tGasOItJQs@qruppq`pi@po@plxn\\`nVplS`lHXlJpkJxix?jw_ixghnoh@irAyyxyYwA
+:vyy=:::::::::::::Z:Zy=:::::::::::::::::::::::::::::::::::::::nYtIryya
+xMxyivmwyiumviYxeyyyyyoYuaymySxmQweiXpmXpixoi\\Pn\\hxoixyyYoayyY:yA:::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::Fv[uRAuRKeSGUTI
+uSIUSEuVWuUmEWeEZouXSv[Gf^Uf\\qf_efbuFa;w`qFagv_Uv[Kv\\Cv[=fXuuXeEXeuU
+cEUOEUIeSKuTOEUSuTUelMxlJyyI:vyy=:::::::::::::Z:Zy=:::::::::::::::::::
+::::::::::::::::::::nYtIryyaxmxyivuybxyyyoawYyueyZvMycyfYTYuOplPpmWhnG
+n[PniyWwiytyxmYyuyxyyyuIyyynYtIyyy::::::::::::::::::::::::::::::::::::
+::::::::::uyypIwAyaxMyCy^YJycytiyiyx=wAsYyqawmxsyyyyuyuSit?hisGTEuRMuS
+IeR=UR?URCUR;ESotP;uPqdRGUSMES?uRKUSEUTGETKUSGeSAeSEeREeSAeSCEREES;eS;
+UQ?UR=USAESIuRCuSIuSOuawFbsxpuHyqIysyxqyyuYyyiyyyyxI::::::::::::::<:xI
+::::::::::::::::::::::::::::::::::::::::::ZxMy;ryyA:fywiyyyyyayvuyxyrs
+faggQUU]Eb;WbeIwcyywIyyYyoyyyyxsIy^YmYyyywqIywyyyqy;::::::::::::::::::
+::::::::::::::::::::::::::tIsyyyIy:vywyYuiyhYyyYwyIwqxyYyqiviyyaY:^yyY
+ywyyvAyvyxwyyvyuUytIxj:piqWh=pivohnWhqwhrghpOio?iywhvgjqgiBPjAxk@@kD`j
+@xjyGj<phrOihwgmgggWheWgkGgb?haofiwf`wgeogmGhlohfggk_ggGhvWiwGj:Pj?Yr=
+yYxIwixxyyyyy;:::::::::::::B:ry:::::::::::::::::::::::::::::::::::::::
+::::::::nyxqyyyyyiyweyZnqxrIn^@ojGhkWn[HnmAxhyyxYyyEysyxmyxuYymIywYxsi
+ywyyvY:::::::::::::::::::::::::::::::::::::::::::::nyyyyx=jyyIwawyyyay
+yeynYwyyyA:pyxmyyyIwIysqwiYwaYVQuSUr:uq>MR;isEQSAmR@ySI=tHuSKEtLetQEUV
+IUUuUViuZIuTYUPutQ=TKITA=SCyQ:MruXqx<QrTQodPsdpnDqodpsdppDQtPqvXQvlQwd
+QyDr:IR?ar?uR@qrxmYxuYyuYxaYwyyyyyy;:::::::::::::B:yay=:::::::::::::::
+:::::::::::::::::::::::::::::::JyuiwiywyyyyY^yvEywyyaIxoycQwd]eV_Ub;Wa
+aivYyywyxpYxyYyyywiyxiYxqyyyiy=:::::::::::::::::::::::::::::::::::::::
+:::::JyyyyyIvY::tIwayyYwax=:nyvYywYytyywaywEyIWcEG^Yv]Mv[IV\\IF\\_V^av
+awFbwVayVcCwc]gfggggghmghuwhugiaWggwcMgdcf_kV[Gf\\quX=fV_EXMUT]UTKUVSu
+TcuVguXiEXsuXsEZ=fZGv[GF\\OV\\QfYuUYsixoiywqxaYwky;:::::::::::::B:ry::
+:::::::::::::::::::::::::::::::::::::::::::::ZwiYuaymycxuYyiYywIvgYwmg
+iuWVaUVev^YFvUYtyyywyywqy;xyy;::::::::::::::::::::::::::::::::::::::::
+::::jxuivqYuiytIxIJySyyqx;wQywyx=jxuiuMweYjiwgyTOetylQyLQuhq<Qr>=SBMsD
+QSF]sEeSKAtKqtOiTUMuTeuUYuYuUYmUYyuSQUUUTNaTDUSFYR>mruXqxxpqPQmTPqTplt
+pn\\prdppDqpxps`QwtQ=Yr?iR?mrAuRBQr;MrtIysyyywywiyyuyyA:::::::::::::Z:
+Zy=::::::::::::::::::::::::::::::::::::::::::::::jxgYnyxqyumxqyxeyxqyt
+uYyQYxmyvgyThmU`ggWgJpkGXphxoNisHiyseymixyay=:::::::::::::::::::::::::
+:::::::::::::::::::tyy_yxuxwQxSywqyyyy;uyylyyuywwyuyYuqxcyfyxyxoqxdqva
+ArtXqKXkF@hdWgp?hkWisgiw?jB@lMHmFhkL@nZ`nTHmWHocHolxoiXqqppr`plHrypqsX
+qvxokPp]hn``lOxl=`jBPit?jkGhqWgdOheOGSuTcUVcUXguWsEZ=V[KV\\Uv[GF\\EF[G
+V[AF[iYweiyuYysYxoAyA:::::::::::::Z:Zy=:::::::::::::::::::::::::::::::
+::::::::::::::::::dIkiywIwsyxmiywYa;GbIETME`gv_Ahiyw`aF_mF^]fwcYwwiywy
+yxyxqiqyxqYyuYyyyyyyY::::::::::::::::::::::::::::::::::::::::::jxuyyqI
+wiyyiyuyywIyuyywyylywoyuUyoqxeiuYyyiyxIw]avpHplHlE`ksWhnOhfggowgjOjvgi
+NpkIXmTxmW@nbhnb@pJXlRPmUxmTHmWpmV`mlhogPpg`ovxpnXqrxptXqv`ppxp_xnbPlN
+plwoi<xhqgiiKnXpqXPmVgdWheogmohqWixwi=Xj>@k@hjAXkD`kApj@@ypqxyyYyiyvyy
+=:::::::::::::Z:Zy=:::::::::::::::::::::::::::::::::::::::::::::::::py
+yuyumyveixAyvay[iv`qi;XjB@kDPmQ@mNxkJHjtOi@@j:PwcIwxeyqAyQweIvY:::::::
+:::::::::::::::::::::::::::::::::::ZxUysiylyxsywIylYvayyuYyoywAymYx^Qv
+\\arx@rThlQ@imghjWggwhl_h<hiyOlGxkTplRXoaHoupprXpm@qXHnbplSxmMplUPmUxm
+WhmZhoe`ob`n^xqtPqpHpjPrxpqrHqthpq@q]hn`HlMhl;Pj@hhoWikGhqwf`og__fg_ge
+_hfwgnohqWitWiyoiyWjApjBhkFpk@`j?hxnaXtiwqyyyYyA:::::::::::::Z:Zy=::::
+:::::::::::::::::::::::::::::::::::::::::::::byciw_YyyiygYxoixuiy;yrII
+`mVaIgcIGk;XjUHlGX^UV\\SGeSWv]YvsIysQyuyxqyxyyyyyy;:::::::::::::::::::
+:::::::::::::::::::::::tyyyywmYyeYwyYyyYyoytqxqyuTYuhHodhj<Pjv?isGjx?j
+oWhoWit_iEHkExn^pnm@plxogxol@plpn^pnM@lLXj=pjoohu?j;pjKPlPXlLplW`mXhmV
+pmnHplHpixot@qrXqtPqsPqvHpm`p_xnbplQHm:Hj?XiuGjj?hp_geWhhggpoggohiOhqo
+hqWIZBxjC@kAHk?`j>@ypqXvyxqYyyyyA:::::::::::::Z:Zy=:::::::::::::::::::
+::::::::::::::::::::::::::::::RyVyxuxwiyyywoIyoiyyIuWYvyUZ=F\\Kn@eR>Mr
+:qquTqtHr;IRoeXouYyoYxyywY::::::::::::::::::::::::::::::::::::::::::Zw
+YyyiyvQypixWytOIpe`oBXj>hhkWhhWghWis_i>Pj?@lIPl[Hn^Xpmppj@pm@obXoYxm
+\\pkHHl<Pj?XhmohcGgfOgdggqwhtOj<hjMXlP@lIPlS@mTPocXoeHoeXqtXqihohti;hh
+sWi[gfawbEgcaV_ifYyuZcEWoUTMuUGUSUETIEVMET]UU[UWYEVceWiMyRZ;fZKv[MF[?v
+ZgIwcyyBysyyyyyyA:::::::::::::Z:ryxI::::::::::::::::::::::::::::::::::
+:::::::::::::::JymyyqYwqyxmyxgysaYeYxuIxsiy;yrCI^]V^Cwb;WlIxjuWisW]UV]
+=Wb=Wv@ywiywky;::::::::::::::wyyyiy:ZyyY:::Zx]y=:::::::JySyyyyuaxmyyIb
+ynYxyy[xMysyyA::::ZxixiqwtXpl@juOieof_ogcGgm?hlSXue]UV^CwbIgf]Wg_wfigc
+IwdqFa;wbCGdOv\\YvSKEUMeTWuSKEUcUWme[Iv\\qUYye[Ev[uUYye\\Mv\\Qv\\UF`iV
+`sv`uvcGGd[ge[WhkghqghsGiugigwgkgbAGc[f^cfZAv[geWsUV_EXKETYuSIuUWuUiuU
+_uW[UVgUXoeYCV[MfZ=vZYf][f[CV[Hysgywqyvayymy;:::::::::::::B:ry::::::::
+::::::::::::::::::::::::::::::::::::::::::tyyuyxyyyyixqywyYuasYYuqyUXm
+UX>]r=mQw`qEUsCYuTMUCAsAqsHastQYsuYyqyxyyxeYxeYxyywmiwyYyyy:::::::::::
+nyyyywmwyiuMwyyyeIqayyywmx;syyyIyfYpIBynYxyy;:::Jycyvyy=nYpIrxVYlIuawq
+YuAZvqYsYyhYx_ywqyxiyy]wQyuUywyyuYyyqxqywmyymyxyXpqx^QV]]sDUssDqs`pndP
+uXqu\\qvdq;Mr<uSI=tM]tNMUUYuQAUSYtNeTGisIYR>mRuXqwpPqDQpppr@QsTQyxq;Ur
+=iR>ar@Ur=irtXqvhQyxq=aR?mRAyrAuRBATJEtLMTMutOqtTEUT]UTUuYmUYaUVeuTMUU
+QTLUtBASDIR<]Rv\\QypPrPqjHPoTPn<qnlPtpPrPqvhqylqx@r=]R@er>iR?ar?yqxtqs
+AyruyxKywyyyY::::::::::::::<:xI:::::::::::::::::::::::::::::::::::::::
+:::::::::::::bywqvcywiyMXlDR;ERAqr?AsBur@qR?eqw\\qSMuRaYwYYxuywaYw]Yyy
+yxayw]yyyiy=::::::::::JyyiwyYqatMwSxyyyoayyyxMy;:::ryyA::::::ZwmxCyZwm
+yuIwAJyuyyqYxuyxmiyqyyyYZyyYfyuYyvQytey\\XmUxJysIMQsDQo\\PnXplP`mghp?i
+s?kDXk^pnapprHq\\`n_XmWpmT`mWpkJHlwwi:Phnwhfggk[sOIyEZCV[Gf\\CV[MfYyuZ
+=fZGVZ?f[aUWkUY=fZIV\\O>Wf][Vasfa;wa=gdIWdaGf_ghgGhAHj?HhgGhagfcGdIWdU
+F]YvZCF\\geWsEUYEWCuSUeSMUVKuTaeSMeU_uViEXmUY;VZEvZ?F[Kv[MfYsUY_Yv]iyb
+ywqywY::::::::::::::<:xI::::::::::::::::::::::::::::::::::::::::::::::
+::::::bxoqyyipqXyyyLWdMW?qr?mtQqtfeWfAWc=wwlQwHV\\EvwiYwqYymyyuyxqYxiy
+yyyyyI:::::::::::wawyYqauMwyit=tIyyy:wiytIxIbyyiyxiy=::::Jyky;:nYvY::t
+IwayyYwiyuyxqyysYyuIysYxkIxwYyuyuUYuYhmWxcEo;Ar:]PmTPnTPm`quXqAqr@]sEY
+sKItLYtNetIATKqsI=tAASCqrA=su`QwxprDQsLqtXqvdQ:Ar<yQ:MR=Yr?]Bb\\Qv]Mf
+\\Wv[KF]YF^cF]UV^iUXsEZCV[Mv\\SF^_v^eV_ivawFb;wa=WdGGd_we]Ghcgg=hi;xge
+wgagfcwdOGehRAMr<ghoWihGhpggiohcWgmWf`ogeogmghqWixsZAN>]r=aR@ir@Ary<Rt
+EYsyyxqyysyyqy;:::::::::::::B:yay=::::::::::::::::::::::::::::::::::::
+::::::::::::::::JweIyyyqyxqIxmYxIXmOxVmuW?v[EFa;gaEF\\GvWgUWYGeQgxiiwy
+yywyyuqyyyyyI:::::::::::wqyqIuavyYqyyhIRyfY::::xyy;:::Zwmx;yyy::ZxMysy
+by:ZwMyqYxiysAYr=XhiWHeSGypppPnTPmdQv\\q:yqylr?irFYSFmTOeTRuTQItKITGms
+HMSEYS;Mr<]QwhqopPq`polPolpp`qwlQ=]r>ir@ur=]b:Hj?Pj=xj>hjCpjAd[Iv\\?vZ
+IfYyM=c[fHoeY?vZCf[In@uRCAsC]sEaSJysJmtNiTTAuS]uSQuXeUXYuTYUUQuUetNiTC
+ASDMr<arufieogmOgg_h^ofhwe\\OgeogmGHieXquYwm;]BMF\\OfYuUYaYv]yywiytIyy
+y::::::::::::::B:ry:::::::::::::::::::::::::::::::::::::::::::::::::::
+:nyxqyuMyuYyeitiwgiwrPqt`wmQxFYtMqkNXl]@oa@tLQt=Ir;ikBHk=iqxpyviyyaywy
+yyyyy=:::::::::::Jyyix=pIuA::::ZyyY::::RyVYhIuayyY:tIwAbyyyysav=Zlywfi
+r;qqUplMPjwOiloggwghwgqohroj?t`oFaSwdUGeQWeGWcIGbyVbmF`oV]Sf]WEV]eSKUT
+IUTOuU]mu`QwNj=xi;Pj>pjAPj>T[IF\\KV\\SvZCF\\Gv[Qf[Vj>@kooHiEXsuZCn>eRA
+AR;URpxpr\\Qxpqy@R;eR@qRDMsDacTpmWxmgPOkWgighgGhughsGhgGhkwgmWdKgdkF`o
+V[Gf\\=VZIfTUeVGUT[uREUUCuSYeTUeVUeU_UWgeXmeXTr<YRCAsCUR<QRuQytyYycywq
+yyyy;:::::::::::::B:ry::::::::::::::::::::::::::::::::::::::::::nYwyy^
+yvayyyyyQYpYxmytMYtAyqyxywy\\Iv[AsAyrZquXayuYywayviywiyyyYyA:Zxmwciwgi
+Wf]WVkIxkaIyqIxyQ_AWbqpsDqy@r:Qr;IrDyRB]qrDQZaUWyYwmyyyI^yvaYVyuuyyyyy
+A:::::::::nYtIyaymwsxuiyqYywIywyyuyypI::By:nYtIyay=:lYyuYxyyyqIoayqyxy
+yvMyyYyqYyyyxuInyxuysYyqIxcIvUypgxnWWdGGYiEWSuSCuVWuToUW_u[AfZkv_kvdOG
+eOWdQWdKgdcv^ef^]v^Kv[lqwpqplPq`PndPtTqufixWj?pjyGj<@j<Xjugix[:Pj=xjCP
+k?xjB@j<hjy?J;VZEV[Gf\\?vZIFYuUZ?vZIf[Iv\\G^:Hj?Xhp?itoiyoi:HjBPkExkH@
+lRxlSxmX@ncpnb`pkXppPpn@qoxpvPqvHqrPq`hnaXlLhl;Pj@xhqgidggl?gdGhbOglOf
+_ggeoGcUWmuXsEZouXyU[Cf[Qf\\SF[?vZciv_qyyyyqyxsyyA:::::::::::::Z:Zy=::
+::::::::::::::::::::::::::::::::::::::::tixmyyIRypy^UV]=xhuWqixoaTMUtc
+AgjqwhAs@qrxiywYysIYyyyyA:ZsIysiywiyAyrAaMsVwiywmyywIxyyycYxmikQhlWF^[
+vcCWcage[gbufaKFZ?FjqGiwIysixdYwCysqxsyvY:::::::tyyyiy=:qixtywmyyqYymy
+veiyeytyyyiyMycybytiyqyxUywiywiyxyyyYxmiyuyyauYyuyYxI::uawaYyayqYsYx^y
+wqyuayxQyuyyuayqiXOxkEX`cv^wUXkuUQUT_eUUEZseXav]UfbwFaQwcGGeOWdOgdUW`o
+VaKV\\UvY;vZguWqUUDqqxpsTquNIDr;Yry@R;UQv`qvhQx`qwlQrDqslQyxQ:Er;]Qwhq
+xxQ:ER<Qr=]r?yQ:MRyxq;YR>mR>ar@YR>mBPR=eR=Yr?AR;UrpxPsdQyxQ>er?Yr>eR>]
+r>]sEacXtcCgc]ge[Ghcggy_uHquhpnpp[@n\\HlJXl>hjCXiuGjeogmgfbwgaGgkwfdOh
+fwgnghqWitKv`qx\\r=aR=Qr=AR:=RtEYskymyxyyywY::::::::::::::<:yyy:::::::
+:::::::::::::::::::::::::::::::::::ZtQYyyyPxlQXOeTOeTN]TFISD=s?mrhaguI
+ytYyrIyyuyUXlOhqoxpuixqyyyyyyA:ZwMquXqqwhqwuYioyxqAyvayuyYoYyuYxsIy[Xn
+_XUSeUsUXqEakf`oWgig^Uv]qWhmGysIy_iv_yyFYxIyA::::::nyyyywyYxI::wax=wYx
+oqymyyuiyqyvmwyiumxSyZvuywYyuYywiypyx[yuyyA:ZwYyveyyyyuiyyIypYwiYyiYxa
+yu]YnQXmEW`qVIGms_hoggeWgkoghgj;PjM@lK`mTHmjpohpoe`oXPmUhmTPmRxlRhiw?j
+fggkOgewge_gjwgj_hq?ivoiyWj@L;Ib:Hj?Hj=`JIN<Ur=qqy<R=]r>Qr=]r>iR@MR=YR
+<Ur=Yr>eR<QR>mqx@rxtQ;Ur=iR<Qr>AR;Ury<R<iQx<r;MR>AR;URrDqtxq;MR@urAqrA
+=SAuRB_MCwbEWdGGdYGeWwgaWg=hi;XiqWicwfegdMwdof`sFZ=NwdQ:qPrPqm`PrTPn<Q
+lXpqXPoxPtPQwhQx<Rv`qxHR;Mb=hj:xiy_xlQXvyvayyuyyA:::::::::::::Z:Zy=:::
+:::::::::::::::::::::::::::::::::::::::dYwgxoixnEwGgc\\WeUwT=uReuTUUwY
+Yvqywmiw=uGhmWo]hnuyxsYyqIyyyyxI:RxvsIysvayvYyuYyvayvaywqyvaywayuiyyqy
+yeyyikExkYf][f`kf`EwbEw^]v^mUXmueYweEYs\\Yv]yxqyx;yyy::::::nYyYyyqxsyy
+AnyxqyviyyiYsywkyysYyyqxyityYqauMwcxZu=`yyWysyxpyyyyYBysqxqyywyy=:nyye
+yfyxyyxyykawgqqsPqJXkFPhi?hnOhlGipohqohqglNhLKgdMGdOweWGfIgcKG`iF`Yf][
+VYseYYeU[ER?uRWuUaEWeMxpq:AR;Ur;MR>UBwuYlqx@ry<R<aR?ury@R;kxxQ:EByUZ?f
+VcMu\\qvlQyxqy@bugix_iwGjvgi;xIDr;Yry<R<aQwtQv`qx`QwtQ:Ar<yQ:ggiOhoGit
+wi;Pj?xjBPkD`kQplRpmWxmcpnbHph@pr`P?xi=XgaWgSwdU?gf_kvWkEYiuWuUU[UWEuS
+WURAuT=ESSuSOuUaEWkeYyuZpa;@j<xj@@k<@j;`xlQXvyviYyqy;:::::::::::::B:ry
+::::::::::::::::::::::::::::::::::::::::::^xnaxuYyu]xqyxAuQytgIwdqtJIt
+JQsEiysQYoyxpiWytRAk<Xjcav_qywqyymyyyy;JyuiZAvZYxmYxvayvIysUyfytiysixt
+yywyyxaYuIytyxyybEWeUquhqDUSGYv^iVauVaaqv`qGisGuXquHwyyvY::::::Jyyiwyy
+yiYxyy;nv\\YvgxnbPnU`mSHlLxlJ@lUplI`mNpkT`lFHmNXkRPlDXmNhkU`lGPmN`Kr^U
+fb;wakwgiWwLYyuYyiIyqyyI:jwmYvMytiwdUWPQTMyQwhQpXPnLqr@Qxhqw\\r=YRIuSI
+uTQytOmTRUtMiTIysK=sBQS?irAYQvlQmXpolpp@QprTSEVyeZGv\\Wv^?V[MfZEf\\uEZ
+CvXwuZqeYAFZAF\\yeZGfZEf\\xavoiy?j<Xjwwi:pi:Hj>pjA`ixwIfjA@kvoI@r<IR<]
+r:cYyM:Ar<=r:QR<Qr>YR>mR<Qr>mqxFgeogn?is_j@xjBPkEhkGpKmv`uFawFeMwd_we]
+Gg]wfughsghmwhgWgiWcCgceV_kV[Gf\\quXpPrFf]sQ=UTGET[UU[mq@qthQx<ry<R<Er
+:IR@ir@Mr;IRtEIvywqyyyyyyY::::::::::::::<:xI::::::::::::::::::::::::::
+::::::::::::::::bywqysxqqxqiTytRqtLYtFAsCyywqyYauVqlMXlxOiuGs?qrwQyuQy
+sQyKysIqtPqtsIysqyxqywMx_yRAuRyyyyywiywqYjyuyyyyxyixyYwAlywqywiYxEuSMU
+r@qrDr;MruXquLUTMUgeWgAuRAur=YraYv]yyyiyqyxyyxuxkYxryxI:::Zyyyxeywayyy
+xmyqyxwn_hnbgfa?hfoglwgjWhjGhiogfwgfWgkwggOhlwgiwgfOgbwfagf^Wgd?gf_gcG
+hhggmGhj_gd?gVYuRyyxYYwYyyyyRywYyxyyqYuIYsiuV]UylQxpPplPpl`sGiswiywiR@
+mRpoixomTgGwcIW_iF`SV]]f\\Qv]yEZCvU[EWCUSMUTOeUiEXseYHRxbXquY?F[GFZ=V[
+?F[IvZEv[wEZ?fYyeZ=fZGvZEv[QF]WV\\QV];fZAF[Gv[yUZhqx^j@xjCXkFd[Hr<Ur:I
+R<Qqu\\q:IR<MR=YR:Er;QbBPkFhk>pjAhjA@k><Hr<URrHQtPQwhA=n>erBMsDasGmsJI
+TLetNitTMeqppr@ryHrpxpr@plXp^pnahlQHm=`jBhhoWib?ghof_gg]Ofegf_ogiOhqgh
+pCYuUZAF[KF\\FlJPl;xi:xwhqWxyyuYyyyywY::::::::::::::<jysy:::::::::::::
+:::::::::::::::::::::::::::::::ZfawfAob@oFasFyyyUweYweWgeWwPywiiwM^]V^
+UXmUXn]XneWgewyyyyiIuXquXuUYuyqykySyuqyyiy=::@yrAyQytQiqwhqDQsD=Xj=XlM
+XleV_eVQmTPUYuWysQyyqyyiyuMyyyyqYyyYyyixyY:::ryyavyYwaxmyqyxOn\\Pns?it
+?jyGj;@j=@kAXkGxkJD^]V]YF^;fZAFV_uVOEUUeSKUTQUUWuU]eVguWiuXmEXyEYmusEy
+rwYyoiyuixoIxeIryXq=hiqWaoF`ueXkeV]UVkeXqe[KV\\cf_gvbEgcGGdMGcGoKQdQHm
+ThjAxjsWiwWhn?ifggkgghOhrGiw?JtqyHBJ<Qr>uAGF\\Mf[KV\\IV\\Of[KV\\;fZAvZ
+Ef[Cf[IVZAF[Ev[TR>aR=cZCV[seYyUYyEZAV[GvY=N;Mr<Ir<Ur:SZAF[bZCV[wEZ=vZE
+f[GF\\MVZAF[=^:Pj=hjADZHRp<qrLqv^i:HjDpkIXkHxkEhkHpmZHn`hnahpnppphpq@q
+rPqqHqtxokPp\\`n_hlQ@m>hJgeWsuSIUUGeSUeSEeUEESUETQEVWEVcuWkEYyEZCf[Ev[
+MF\\pQxlqqqxpkyiiymy;:::::::::::::B:ry::::::::::::::::::::::::::::::::
+:::::::::::::vpqxpHqsHiywiywM^scIwcSGeSwrAqbAwbmWhmWf]gSIuSuyyyuYyuWhm
+W@yaxqyxUyjy;:byZvMtMYt]SF]sVauV]Wf]WpmXpQytQy`iv_AuQyTtIysyYyyyyuyymy
+u]ixyyy=:::ZyyYlIbyvytQYcF_cV[Cf[gV_iv`oVaMGdSGf_wfiWhogfcWgoFauVZAnpx
+PrXpndPptpq<QsHQvdACF[uuXoUr;yqmIxiIg_gfiUWeEUOeTaUV[eXkuWKf[IfauvaUwe
+]wbEgc_wfgGauVb_v^gV[\\RptPrtoiDPj@pl\\pnppsLay?j>xjB`k?pjDHj<pjxKwhqy
+lAu]sOixoi:Hj:Pj=Pj>hj:Pj=hIxq:ErxxQ:eQxpQ:CZ?vZbXsUYmuXtQ:ArxxavsYqUY
+wuXueYuuY;fY>J@r;MRxtqyxAyUZ?fXsUYwEZ=fY;VZk]mghpGggogrgix_i:HjAXkFxkK
+PlNplQ@n\\Xn]Pn^Xpl`pqpprPqsXqsXqv@plTbAGcef_kV[Gf\\geWs=IeSWuSGuUGUSW
+eU]eW_EWkuWkEYsUY=fZ=vZGV[IfYueY]yuYayuxsyyyyyyA:::::::::::::Z:Zy=::::
+::::::::::::::::::::::::::::::::::::::::pIoixoYupXyuisUxqyxHysIyoixoeX
+oexwiywIwcIWcEWciywiyycpohpmYxmiyfYxyygYtYywyyuy:ZxqYsawiyw]^aVIv[Ifj?
+hjAyrAIr;Ir[iuWykEXkwwhswv]ivyiyxyxuYymyxoyyeyyA:::xyyCyyQycyvytQYeV_e
+F]QV]mF`of`mv`OWdUGhowhwGj=XgiGhuva;g[KNu\\qvppq<QrDqsTQv`Qy<r:ar=artD
+QtlqvdQsxprHQrHq:qq:EsAASPetOutOqTMItMEtJUtKItNEsC]sAyrDYqupqn`pq`pntP
+s>iv_i;Hj;xj;Hj@`iwGjxwi=Hj<pj@xjE@kChk=`jB@kChkBHkGhJTBwEZ=fZCV[?F[E>
+AV[@BAV[G>IV\\Of\\SV]IV\\OVZAF[;^:lwpaAHkDxi;dY;VZC^:PJyUZ?fZFj=d[KV
+\\Kf\\QvZEf[Mv\\Sv[Mf\\uuYdAQuU[eViEX;F[Ef[hR?qRAIsDUSKMtLITKMtQuTRIUS
+MUWauWQuU]uPyTRqsI=tA=SCuqyHRuTQxdPo<qmTPqLpklpmTpqtprTqrDQuTAwuYAf[EN
+>Yr>ER:ArsEYsyyywywuyyqy;:::::::::::::B:yyyxI:::::::::::::::::::::::::
+:::::::::::::::::::RyuqusyyyygiwxyyOYxyy_yvuyyyywiyhIwiywAsIysYpmXpRyn
+yxqyymySyvyyuy:ZtmvaiyyYRyuYy[Iv[ybAwbkGhlXpov^avoYXSXlMxfWweeivaYykYx
+yyyxI::::ZvyYwyytIyyxqyxgf_gF\\IV\\]^LHlN`n]xnl`poXqwpqkXpnHmU`m?xjBhh
+q?icWgfCUUuU]eVkeXqEXiuXQeTYUWcEXOV\\WFaoFb_Gfggf[WgGGcMgaufbgF_oV]Sf^
+kuW;FUQEWwTQGEUQEWsuXCFZyE\\qeXAvXouZ;vYKVZ?v[wuYtqyHrxtQ;iQx<Rwhau_i:
+Xiv?jyky<R<mqx@rxxawwi:Hiu_iqGitWiwoisWiv_ixwiuK;Mr<=b=\\sWivghq?irOiu
+giy?jtKwlqxlQyxQy<r:yq:EryRZLRy<r:Ar;Mr:CZFJhqxtQ:Er;yASEV]EVeeWgeXqeZ
+Gv[trAyrBEsHycapN]Gf_GfYWfgggkggkWh]wfcwbEgcanEGJeUWquUYUWvg[?fcOgcOhf
+wGUuUaUV_eWiEXsEZyUZMF\\OvZ=fZ_Iv[yywiyyIysyyxyy;:::::::::::::B:yyyxI:
+::::::::::::::::::::::::::::::::::::::::::::eawiywyYlYxmyyCxkqycv_ivry
+VyuUyuqqyxqYxmYxwiix]yUyvYtYyuIxI:By^YJyuInYxwiywGisG=VZ=Vk=XjMXkExsyX
+rev\\UVVIUTmYvayxiYxKxiywyIwYyuyyyqy;:wiyuyylYyyyxmYxiYyyYyiywGmSHmK@L
+gV_if`mFaKwcQGeWwekghqwfegguva;w[Mf\\iUXoeRCUSKeTQUVaEWkeXqe\\Kf]AWbIg
+dKgeWGe_gcCgdsf`;G`gFaSf\\[fYseZYUUaUTKEV_UVoEYqE[ieWyEZyE\\AfZQFYqE[C
+vZSF[AF]If[YV[Ev\\Ef[OfZAny<bwoi<hixOj;Pj@@j;D[`r<UR?AB=vZLBAV[tQ:ARxt
+qylQyxq:IR<QBCf[<R;OJEVYyEZ?F[EF[XR;CZVIDR<gI<R;wIxA=^:<dAwm:IBGF\\Hr<
+Urp@QsxPtPQyDr;eRAyrBMsD]SGiSHusIITKMtOedfXOuGiwGhowh]wfcWdQGe]v^eVZ?f
+[iuWuUV]uWOeT_uSGuUIeSYeUTqtXqw`QwtQxpa;dZOV\\QfZ;VZ_Iv[AyyxsAyA::::::
+:::::::Z:vYxI:::::::::::::::::::::::::::::::::::::::::::::::::bytYySxm
+Qf]gqyxq]y=::::::JysyyQmUhZ@nZXsCIsaiv_QuQytiQweQs?qrYHmT`ysQyuIys]tIy
+syY`yuYyyuYyyIyAjxyItyxuYyqyxqYxyxqyxCIsCYR=]rGeSHySIAtPmTRmTQyTU]uVMU
+UYUI=tJUR>aRsLqtPpm\\ppxPrHqtTQwR_cf`IWcQg`kfa]F^gf[Cf\\uEY?vV_EXOETWu
+UUuVqeX;VYuE[AfZOF[Av\\?fZOFZyu[oUX=VWeUY;FZKVXmUZuEYCFZ;V[?vZLr<aBjy<
+R<uAu]y?J;^woi<@j<Xj:Ly<r:qqyfIJ:SZfiy?jrOiu_ixwiugIyUZ?VYnIlAwEZtAu];
+Xj>XJtQ:Wiwoix?J?F[VJBZ?nyrXumoxPr@QuXQx<b@PkED]Uf^cV_qVatsHySQqtQyTQ=
+UVYuVQuU]URscMgd]f^cfZAntPqwJodpr`Pn@Qo`Ps\\po<Qpt@LqtTQwxQy<R@ir@IR;E
+Rs=IvywiyyyyyyY::::::::::::::<:xI:::::::::::::::::::::::::::::::::::::
+::::::::::::bytYycvDYj=XjiywwYyyy:::::::ZtQYsIytWiuWRuTQYv\\_uRIueqvaQ
+w_qvD`j?hr<IrvQysyyxiyyiyvexmAtyxwyxyyxiYwQy_yxqyuayvYyviyuqyxUxNlLPl@
+hjAXmT`mPhlRXn\\pnehohpprHqoxPyVb?w[MNq<qrT@WEV]UVaEWqUYHQt`qyxq<eQw<r
+sHqv<PjTpr@qu\\Qvtqyxq<Ir;aR<MR?ER;]R:AR=yqyLr;Ir>uQyLRu^ioght?j:hjr?i
+xWivGjxwIw]y?j>xI:<Bw]wkxBYuUZAV[G>;>vIpAHb<`JRYyM:SZFJ\\QwNivgitK;Mr<
+mA;fZAF[Gv[Cn==R;gIDR<QR<wj;L;SZvi;PjtKotpqDqu\\QyDr;]R@qr@=sBUSFaSJEt
+KQTLUtSEUTIUSMuXmUYIuTUuQAUSUTNatAAsCIR<_hnOigggmwfaog`gfh?ga?hjWhrWho
+Giq?ivwi:T]Sf]Sv\\UF[?vZaYv]yyyyyyYywAyA:::::::::::::Z:vYxI:::::::::::
+:::::::::::::::::::::::::::::::::::::::wiylXpmXtMiwiywyYyyy:::::::VyuU
+ynYwIysQlEXkUSDMsfUWeAW`qvCurAyr>er=ER;]xlMXwYYumyv]yyyYyqYwayyqYxyyxm
+I^yuqyvYytYyqixpaxayv`asGasUXmUPhlOh<Hj=XlL`lUPmVHob`ofpoixpsPqoxprTbj
+tXQvPpm\\Pq<qrTQv`ALr<aRuXqwpPqDQ:Ar<IbBxjB`k;Pj@Xiv?jwoi<Xj>@kyGj>Hj=
+DZ=vZ;fZCvY;vZyUZAvXuM<sZCv[Ev[MfZAf[;VZhQxNIta=HJGVZ?N:cYnI@ByUZpA;^;
+LxtayGJ=N<Eb?@JtAiUXoEXouXbWkUXiUXoUXqEYyUZ?vX^ixwi;Xj>pIxq:Oj>TZfIlAR
+ZfILQuXQl\\pn<qtTqwxQ:Ir=]R=aR?uRBASGmsHQTLUtPmTQiTOmtWeUXEUTQUREuSQtM
+]t@uRBWjA@hjohdOgjgf^_g`gfhWgdWh^wffOge?hjGho?isgi<Hj=`kEhk=tZ_Iv[AyYy
+jy;:::::::::::::B:ry::::::::::::::::::::::::::::::::::::::::::::::::::
+^yvUsEYsoixoiywiyqyxxIyA::::::ZpqXwiywYxnywiyVYuUalKHl]pmY`hi?h`@n[`kA
+xjFxj?Hw`YvyiyuyywYYdyyqywwyvyyuIyraxkyv_Qvn`pjxjBpju_itgj?`jywiyoj@pj
+ApjBXM@TJEtOeTQytREUWmuXUUVauIATKUR>arsPQu`polPrDqsHqtTQxtqyPr>ersXQvL
+Qv`q?yRBUR?ir>mRAUR?ir:QR=Ar<UR;Ur=AR<QR<oj<`j>Pj>`j;Xj=Xj?hj;Xj=XkGhk
+AHkCPkF`kBHkEpjAXk?pJG^BL>SZ?f[=^woi=@j;hj?l<YR>yq:Ir;QR=UB?V[GvZEf[C^
+?l<Yb>L>er?K=C[Gn:Ib;D[;fZHr<?J:PbB@kDXkyGj<PIxq:ER=]r>K;CY^gjGhm?iswi
+=`jB`kG`kHxkNplQ`mXxm^Xn_HpjPpjTfoWhqghqWikghdTPqtBESDYR>mRwdQ:=QrTQmT
+ppLpklPmP`g?HkUXwUZ?N=WkED]Qf\\SfZ;VZ]yuYayEysyyvY::::::::::::::<Zyuy:
+::::::::::::::::::::::::::::::::::::::::tyyyYysyyAtIwayyY:waxmyyInYtIr
+yyQycywqxqWiqWv]yuyYy_ywYyyyyxyYyyytIwAZyyYwax=xyyoYtIryeiwgiyyyykixoy
+ynyxqyvUykHpkhXmUXsv`qv`kV`=gawv\\MF\\_v]WVvYiuiiv_YuQitmHoahioWhsV`kv
+Z=VZcEWaeZ?VZav^_F`inMUtMEUSIuHmsHQR<UrDMSEmsGqsLMtMytRgpq@ql`pohmY@n>
+hjAhgiGheWgj_ggOhgsVeUWoeZCv[YUVcEUYUV?V[IVZCf[qeY;fY=vZwEZAfY=vZyUZCV
+YyUZseYyUYyM;MR=IR<YRy<R;qqy>JCfXseYueY=FZ=V[weYCvYyU[weYEfYw=CVYuuZsu
+XAFYqM;Er>Qr<eRwpQ;MquhqudQylqyLrwtq;eqxDrwtq;]qw<rvpQ;eqxDry@R<mqx@Ry
+RY@rwlqyhqx<rtTQw`QwtqvdqxpQy@r:IR=qQyDrxZ;hixGjy?j>phqWivgi;`iwsXsEZS
+eU]UXueYC>Ef[QF]UV`mv`mV`qFdGGdQGdOGeOGecWfaGhkghiggkGcAWcYf]]fYuUZ_EV
+geUSeVKeSUUTGuUWEUeETQEVueYAvY;n:ER=qQxtQ?ar?iQwhQpeXouyxqYyqYyyYyuyyy
+yyyI:::::::::::::B:ry::::::nYwQxwYJysyfywiyxqYmawUyuaymy;:JyyixmyyixMy
+;yyyJycyZyyYwax=xyy[xMy;yyytIwAZyyYwax=xyy;:::::::::by^yyyyv=pyyyyxCy^
+YjxuiviYsYyjxuiwiyyaYlItyyqIBymyxiYqwhpwyysYywixwyytIyayMycyfyyUypyxCy
+lyx_yw=lIsawUyqauyY:BwkIxmYyuIvcIw?wcGgXwUYEWdMWlUXmwva;g\\IV\\UF\\OFX
+]EW=FYwu_ev_]V^_FbAGcgghqWhmghAhjChkExkEHkxUY=vIuSJmr?_kEhkXhmYPocXoh@
+pkXpoppkXpnpmZHn?pjD@iroin_htWhmOitGi<xiyoj=XjChhpOii?hnOj=xj?pjDxi:`j
+<XJyEZ<b?hJ`R?ur>eRAYBEN?Ab@Pj=xj?l;MR>Er;YR<Qb?t\\?VZOvZ?v\\=FZMfZ=f
+\\CvZSvZ?v\\EF[Uf[Ef]Kv[[fZ=f\\=vZQFYyu[suYIvY?f\\?F[SVYyu[yUZMVYyu[?V
+[UvZGF]Gf[SfZAv[b[>j;hJFJHR<]R:Ar<uqyFJxQ:MR<Qr>QbD\\@Lyxa:l:Eb;lp<Qs
+\\Qxpq=aR?ir@uRCESDesFisMUTNaTM]tVUUVEUQ=u[=V[iuViUSAuSMtKQtGeSHur@Giq
+gil?hpOgawgbgfhWgcOhlOhrwhrgInIAf[Ev[[v]]fZ;VZ[iuWQywywqYryyyy::::::::
+:::::Z:Zy=::::::hywOytQywUysIysyyyyywiywIy:Nytuyyqy;::::::::::::::::::
+:::rxyQwyit=:::byoyywA:::Rxyiyiyywyw>YwIxvXXIkasMvCxwYyYywcynoxo_IxeYx
+yYyeIyoixyiyqyywixFY`Ikyy`IrwZsmvCx>Y`IsyyyYyfYJyyixMxqyxiyxqyhywiUr=Y
+RwpQyhRAyR=]r>equ`qmDPlhSE]sX]eyhqy@sAIswHr<arAAs=Qr>ar=ir>Yr?ir>qrw`q
+xhmVpmBxjC\\UPmVPocXofpoi`ppxpkXpn`mXxm<XjAhggWh`offGgbwgiogqohpgi:@j@
+Xhn?igogloiysYvICVZ?nw>juK:Ar<K:CZPR;Ib:lyRYwMwhqylqxnIhQx@rxlaxgi@hiv
+gjvWi>xixwj:xiBhhngik?hsWitWjxgi@xi;Hkx?jB@itOjrOi<pi:@kx?jB\\t_i>Xiwg
+jrWi;`iw;uM;qQyDRwbXquYmeXwEYumxtQ;mAo]q?IwuYAvY>isgixwi=phqWiq?iv[>hj
+C@hlghr_iwOj>T\\QF]Wf][V^[f^]F^_fcAWcKWcIwgaWgmggkghkghSwdUgaunDMSEEr:
+Qrrxptppo@QnPPpXPlppplptXpmpPq<QtPatoiyWj;@j<HkBPkxKruXqkyuyywyy=:::::
+::::::::Z:Zy=::::::lYxmyxqyxiywiyyyyy;tIwau=xI:::::::::::::::::Jycy:::
+:JyuI::::tYy;::::::::BwaivEgawVgSGeuIwciywiysIysiywiyyayMyuI::Zymy;:vy
+yyyy=:Nys=yafQwdQj=XjWHn\\`r@yr\\yu[ImNplG@kD`ryHrEIsEQsCYss`qwxrDYsBy
+rCYr<aR>sAIs<Ir=qmWxmApjBPlKd`mv`bdSWeewgkGfHuFiSH=r:QRtLQw``iWgeOhiog
+q?iqwi<PjAhhpOijGhoGj<<w]:Lxpq:qA?vZIF[`R<Qr>IR<_j?TZFJjyBZvIdQwxquXqx
+lQxDrxpq;yqyPR:=R=eQw<ryxq<Ar:Yr;Ir>eQw<b<xj:XjB`iy_Jvi<xjuoi=pi;pjw?j
+?Hj>Hk:XjBTY=f[Iv\\=fZGfZvjB`k>T\\rXVIpa<HJGfYym:Eb=l:ER=KxrXZ?pjD@hlg
+Hvi;PjBPkEHlKXlPhlQ`n]hn`XNiGggGhcgg=hiXuTYURytRQTLUtEUsFAR:Mrs@quxppH
+QnTpp\\pltPphPtxPrTqrDQu`QwtQ<s\\OF]MF\\OfZ;VZaYv]qxqixyYxI:::::::::::
+:::<Zyuy::::::ZxqyxqYpyxqyyyyyqyxqYyuixmxsyNytQYyyyyA:::::::::::::::::
+wyytI::::nywyYuA:::nYwA:::::fyxqyw=::PYuUyBmR@QV[AvxuYyqyxmyxuYyoY::::
+::jyyiy=:RyqIysYxoyywyysYxoAwhqyHWiEXQv\\UV\\IV\\av]]fVWEVguVee_cf_ggg
+iGkGxkwwi;hj=xjGXkIHkAXkAhjCXisoIuSJ]r=arAuRBusHOn[XnaHod@plXpcXofHlM`
+lvgIcEWoETKeUUEUauUWuWoeX=vY;V[]eVgUTOeUueY?FZ=V[kUXuEYuUZs]u;hAq]xwi=
+Xj>@k?pJy=quYq]u;XQvpqqxptPqthQv\\QydQw<RxlQ;yqyPRv\\QyTQulQ;ER>Qr<irt
+PqwXQvtQxNjwKwdQ:uQyLR:=R=iqw@rwhq:UqupQuXqwTquhqptPsXQvlQwhqy\\qvpqwl
+Q:]qvpQybZAv[ueY?fWiuXmeXdqwxqvBY@RyrY>issY;F[QUU[EWkUXyUZ?f[KNAuRBUsD
+YsGece@odTdQWimwhgwfewiuwioWhqGdIWdcv^eFZyuZkeWsUVYUWKeSUUS?uTKeSYuSKe
+UUeU_EYuM<Qr>IR;MR=Qr=AR:WxkIxxayvyyxyyyyyy=:::::::::::::Z:Zy=:::::Jyu
+ixMj?vFasFixoUpmXpixoiPyWYjxqIvY:::::::::::::::::nyyey:::ZyyyvyYqau=::
+::::::JwyyyeIqauMwcxZumwcxwiyKWeSGuYyuqYyuixuYyqyylIuyylIqau=Jwyit=hIq
+atMwCyvyyMycy:tYwiixyyuqxqyyxyYfyviyMPlNHkBPkrxpsptOyt<Ir=AkAHkaofb?jy
+GjuPqvpqwxqDIsEyr@AsxhqyHr:Qr<Ir=AnYHnBxjChkFpkYpM=Gb?ge[WfcggiGeWwegF
+`mfZAv[WeUceR?ETMUT[UUSUWiuWwEYsmrDQutpqHQ:SZvILbCD[pQyDRwBYfIpABYFito
+iq?ivgixOjxwI;^=\\wOj;PjAHj<xj:Hj@@j:hjuWi:Pitwiwgi<Xj=Hkwoi=HitwiuWi:
+@j:hjBHkHPj<xjywi>@j:hjywi>Hj<xj;Lyxq;eqwvHHR<]r:CYuUZRXtAhQx<rvdQyXAq
+EY;fYnIpA=N=EB;n<yAYUVcEXsM=]r>qrA=SCESDISCMsHmSIATI=TSytReuUaU\\Av[mU
+WmuR=USYTM]TGasGiR?urypq;AqqPQoXpqdpm<qmPPqxPrTQr@QuXQvlQ:AbApjBXj<`j<
+@j;`Xlywiixuyyyy::::::::::::::B:ry::::::ZxqYoghoGsCIsuXquhdOgdSHmSHsCI
+suYyTYuUywiywQytQysIysAikIXDYsEysIysKr=Yr=I:YyuYiuWiuWagiwgiWlXpmxoixo
+iHOit`xnaXn]hayvayVTXmUXmSsEYsCIsCyrAyrAa\\Qv\\Yv]YV>vZAv[Iv[IvZAv[yuY
+IvWquZauWyuViuXYuVquTYuWIuTauSQuUAuSYuQAuUqtRQuNqtTYtOIuMitSMgMWe[LatR
+ItMytKYtOasHitHAtPAtLitIItNqsJYtFqsLYsGQtEisKYsGAtCYsJIsEysBQsHyrCis?y
+rEYr?Ys=irFirAas?yrEar@Ys=irEmPysJivZMv`IV]eVY=V_Av[eVZIv^yU[avYEV^uuZ
+YVY=V^yuZ]VZEV^=V[YvYAv\\mUYYVY=v]uUZUvXyu\\mUYMvWquYeuWuUWiUYkWmUYiUX
+mUVauWYUVmUVaEPuREUaiv`iSFeSPidFXkGxmZHnYHn\\@j;PjApjBpmWxmhhOAXjAXlKh
+lAhjxUY=V]Qv]Uv\\YvHmSIEr:IrB=SC]sEasJ=TKatOmTPudaHodhlQ@m;PJ[EVgeSGEU
+`PrxPqXQtHqwtQyLrrDQulpp@qy<R<AR;UrwlawK:Ar<ya>`IpAu]yK<S[^JMFZ=N;;sUY
+<r:QR;C[En:CZ>JlAq]y?j>hj@Pkwwi<XivcXxqy<R<Ur=iR:cYy]wGjv_i:`iwGjxKxpq
+:iAs]y?Jw]xkxta=D\\yEZhQx<Ry:s]wK:sXNIpa<pI\\qvpQolpqPqvdQ;Mr<WkF@lJPl
+MPlN`n]tcCgc_we]ggaWgughtUXuUSAuSkCESDMr;WiswiiggmSSUuSCUUGESUeTQEVWuU
+cUWgmwlQ:=ry@R=Qr=MR;IrtIysuyxqyyuyyyyyyI::::::::::::::<:xI::::::waxmc
+Iwc]UV]uvayvMTLMTXmexqYuYyuymYxmAxjAHkCHkC@fr?irAyrAir@qr?qr@]@yrAyrBA
+sAAsBAsCIsCQsDIsDQsDYsEQsFasEasFasGisFisGisHqsFqsHaSpvayVayvayVb=waAwb
+=wbAWbEWcAwcIWcIwcEWdMWcIwcWTLgMitOytPqtPqTkhogXpixomHp`wfawgawfmWgeWh
+eWgWuUiuVauRYuUAuUYUsxpmXqshpwXqixpqHp>uWauSiuWIuXiuPIuTAuViuUyuZauZIv
+VAv[YuYAvUAv[qu\\YvXQv]iu[QvWIv\\=^uZIvVmhAXkuwkMxiMXl=XlQxiMxluWkIXNe
+tOYwfewgqWiQWf]w`=WbUWfaWe]wfGuTytSQuQMdaWgYwgmWfqwhYWhqwdewgIwe]wcYWf
+?uSYtRIuNAuSqtQytSmgawfkhiwguWhmwgeWg]WeUWg]WfqwgiWkyWj=uPyTbuVbMUTUus
+PQupprNn`xnPytRqj>pjchnaPryHr;Ar<IsBQsFYsGIsBQs;Ar<ymX@n=Pj>hkFD_aV_sv
+`uFdOwdSgeYGdOwdiV`ovZCNsDQvPplhpmXPqtppTqtPqxXqupqptPshPp<qxtavkwlauK
+ybZfIhQxNIdAu=ZtkxbZAv[;^ysZseYlQyxQwlqxhqxtQyFjx?j;`ixwivky@R;YqvVj<`
+jyoi:xj@tZ?n:=R;AR:ER:yq:=ry@B@R:SZlAw]xKxpaA@kFpIAfWhqu^i;PJIF\\SV[FJ
+tqyvItqyZ=`jB@kCdZAv[_EWimy<R<UBUf]cV_gV`kf`;wa=GdEwcgwfewhkgh=hi;hgcg
+g<USEtJItB=c@hjCxhoWikwgoKqXPlpPo\\pr@qrXQuXQxtqyNJTr<Yr=UR>ER:Arscyuq
+yuIxI::::::::::::::<:xI::::::rxqyxGisGy\\Qv\\oixoisGisAwbAWyuqtQytmYxm
+YxsyyqycyvyyuyfYyYy:ZvqyxayxqY:::::::::fyyyYVywiyvqyxiYhYyuYxCyVyxuxpY
+xuyxqyxqYxsxwYyqYyuyxVYdYyuyvuYyeyyyywyINYdIqAwyyqyyvYrxwyy::siyyAqiyh
+InYuiyoYyhYyuyw;bxsIywVawVsAYssIyuYysYyuiyyYysiywIypYxgYJxqYyqYyyix=sY
+ywAuA:JyqYyuItIxitQYwyyyYywax=uyxsYc;gbOWdQwVaUWQuU[ESKUT_eWiETOuTQF
+\\OFk;hj;XiywlMxlGXkIXkfr>qrAqrBin^pn?`j@@kAHkNXL;wa=wcMgdUwe[WdQGeev_
+mFZ=nmXpp<PjTPmTpppPpNhkGitOi:Pgewg^gfc?isgixwIaEWkEXmUYsm:eAo]m_hrghp
+OIZxK:sXVIxAueYTatohrGip?is[t_iwoi:HjyKy<r:iax_ixcWkUX=FZ?VXkMxhqx\\qu
+`qxlQylqwpQxhqxpQxtqxlQylAmeXBYsUY=VXtqwrWlqvdQylqxfItAs]vgIw]woIm]qKu
+XarGiwwIlAQUU[eVguWqUYweZCV[Wf][v^_F_wVayFc=wb[WeYGg[gfkWgiggcgg<e^Xn_
+PlK`lApjDphnOikwgokqXPlppnXPr`Poxpq<qtXQvlQxBZyM=Qr=uQxpqqqxpuiwyYyqyy
+I::::::::::::::<:xI::::::wavayvyxqe]Wf]GisGyyyqJAtJUYuUyxqiw=tYyoY:jxy
+iwyYsQyqIuavMxuYy;:::::::pIuA::VyyexyyyrxNYdIrxZtmwsyyA:JymYxuYxmI:xYx
+uyymYy;fyyEy^YpIuav=pI:sQyoYxYyuyy;TytUy@YR?]uSUUymYymYveYxUyvyyxyiw=:
+wiytI:JxuYymI:^ywiytUyoA:sIysyyyYxsyxsiywixuYyOItMi`ev_CvZEf^_F_suY;vX
+yEZgf`qf`sVamggkgk=xjIhjChj;hjAhjCXkChk;xi=XjfmVpmBl@okQplRhmVpm_xnbPo
+fhoehohXmWpm>hjChggWh_gfeWgdGhk?hsghn_isGiywGceUYuV=fZ@R;_hoGisOixwi:`
+jwKyrYVJKfZNiuwiwkybYZy;daysY;vY=fZuuYpqyvI@r;MR;Mr<yq:ER:Er;qa:Xj<TZf
+ivoi:xi;Xj<`j:xi;Pj;dZ=vZBZyUZiEXsUWgeXueY?vWVivCYnI`QwtQyxq;IbBPiuwis
+OIsUY=FYFIjxbXNj=xj;Pj@xgk_hkghpgiy?jAHkDPlL`lQplRpmWtb;gb]ge[WhgGh?hi
+;xhmwh]Gf___HlJXlxgi;@ip_iiggmWgb?hdwfjof^gGQMq<apwhuoiyWj@hJIf[pQxpqp
+mXpyYyuIyay=:::::::::::::Z:Zy=::::::lYxwvayvdPod@vZAvyyYOhlOXv]Yvwiywi
+yfywiYnYpIby^YwQyqyvuyxaIoyywyxxyw;:syyhIqA^YJwoytyyxYyxuxZtyYrxZtMwui
+tqYpitqYxismv;vysyyy]tuymasMw;kyyyIxtYvwysmv;::BxxYvuyy]Yy;yqvSx>Y`Yyy
+Ywuit]yex::ZqYyuAr=irDasJixqQytiyxQyxyYuyyoYy:wqxuiyyytqYtIry`yxyyvqir
+iyxAywqYxyvuyxoYmANywayrYyuIywiyteygYxmijCHkuFaufnUxmev^eFV[eV?WcGGe[W
+f[F_eflQHm=Hj?XlExkEHj?hkChk?XjAhj=xjwWiyWkChkuFawfZ^j=hjPhlQXn\\`n_xn
+bhoi@pbPoePlNhlvgi;Phl?IEmlPPpdpnDQrxPv`qvxQolPrLPmhPvhqytQ:MrtTqwDQt`
+Qu`qxpqyHrwlarOixohsgio?ivGiuwiyGj?pi;hjyOj@Hj=xjugi;tXyEWieXeUXoUXsUY
+mEYuuWqEYiuXsuXwMy@R;eqxtqx@R;iAqeYyEZ?vZqeYyuYDRxtqy\\qwlqwBYyEZoUYwU
+XqMxtQ;mQyDRy@R=eqx@rxxq;Yqvpqx<R<uQ;URy@r<iqx@bv?js_i;PiwOjtWi;PiuOjv
+oi>xHyUVaUXmeX=vXuuZQuU_eU_uVwEZ=vZEf[Yv]]f_ev_wVaxSHusNUTNAuPyTVQuUYu
+TYUSAuSScYf]]fXmUYoEXwuUUuVMuSWeTIEVQET]UUQUV]EVeuVauWiuWqeZHR:sXouXWY
+uUqxqyyyyyyI::::::::::::::B:ry::::::ZxqyxyyyUyuQy;wA::vY:JyyixmxyyyqIw
+ayyYwawmxcynYjx;yyytIuawMysyyQySyZyyYwaxmx;yyytIuaw=:::::::::::JxuIsqx
+yyyqIBysQyuYyiywgyvayuQYwiywIysIypYyqywqYxgywqYWyuYysMYtkYxoIywiyuyytI
+wA::::::VyvaytYyuqyyyyvmwmYxqiwIysIyHysIAob@oEYsEqxoqxvQyuaoehos?itwqy
+Hr=Yr?QlLDpiXpMHlOhlKhlIXkIxhoGiuGiwwiwGjswhuWhkgh;wa@R:_kEhkOd_yfa;Gc
+GwcWGf]GeWwekf`qFZ=nr@qu\\PntpqxPuxPqXqtLqxHR=iRrLqv`ppDQwtq;qq:UryHR>
+iqyLryHR>qq:URx<r<yq;]Rx<r<KyDr=mQ:QR:IR>yq;]R;Ur?IR=iR;QR?yQ<UrulargI
+ouY;FXueYsUZ?VY?vZwuZCVXwuYyE[EfXyEZyE[EFZEf[;V[G>=V[@B?v[KvZKV\\AF\\M
+VZGv[yuZIFZCV\\quYCVY=f[;F[MVY=f[y]yKxRY=f[Nks_i>PiwgjvwiAtXAFYyu[wUZM
+FXquZwUZMFZAv\\]EWmUVeuWAV[@r;Mr@urAMsCQSIqsIEtIAtQmTQUUSMUYeUXeUVeuV]
+UWUtLYtB=sCsZseX;fV[eWMeSUET^gcOhkwgoghnGirwhuWitoi>Xj?xj@tZAF[ayvaYyu
+qyyyyyI::::::::::::::B:ry::::::::::::::::::::::::::::::::::::::::::fyw
+iyxeyqayyyyyxqyxsIysqyxqywayvIyqyXyyyuIysiywiywayuymywiiyuYymaUYuUayva
+yxMysyvY:::::::\\YvOxluyyQuUigiwgAlJ@lyxqylyYIyiyyyv_yvKv[MfgewgMGdOWh
+kO;Ar;aR>erTMeRytSQuSYuRytSasEisuPqvHqrPq;ARwVayfZ=vZGV[PcPxlP@maHodHp
+m`ph@pkHmU`m:Lr<QuPplhPodprlpo^hm_ipGixOggOh`cUoUY?nxDBDqtdQtXQx\\qw<r
+t\\qxTqvtQvhQ:eqxDRu`QyTqvtqwtq;]qw<rvlA^iy_jw?j>Hiwwir_iwGiwoisgixwi=
+`jtoiyOixwiuwi:HiwoitoiyGiwoipOiuohtWiuwi:Hj?pjv?j;Xhq?imwhr?ivgir_iw_
+iyWjs_i:`hqWiqOIuEZCvXweZwm<yAsuYAfXuUZsuYCVWkUY:ieXyEXqEZqeYAFXZs_i;X
+ghOhgGhlwi;Pjxk>ar?ur@yRHisHMtJIDPuRIuW]UWauUaUUQe\\Hn]pkG@l:xi=Xiswil
+?hp[_sTIESUEUOEVYeU_uWgeXwUY=VZ;fZKv[MvZ?vZ_iv_Yyuqysy::::::::::::::Z:
+Zy=:::::::::::::::::::::::::::::::::::::::::jvaiyuywiyjxqyxuI_Iv[yyByf
+ywyxoixvQYsixoyyxYxiywkyCocHouYyxIwaymy;::::::wawiywiYlXpmXWeUWUUUUukI
+xkqyx_yvayyuyyiyyihmo?eR@AVZEfWtawFbgXoihsEysWXmYhf]wfqf`sf\\Mv\\if_kV
+gcggQhlSXmShmswhug[Ev[Sv\\pSHuSOatOeTPqTSMuTytREUFeSH=r:QRsDQvTPmlpohP
+stppTquTqyLr<iRv\\afgglwi:hj:HjAHJIFYuuZsEY?vZCf\\?fZtQyLruXqx\\QvtQyx
+q<uqyPr:ER>Er;ary<R=uQyLrxpaxwIwEZ?vXwuYuuYpACv[KVYyEZsuY;FZHRxtayGJ;v
+ZCFZ?vZ;fZAVZ^j@xj>pjA@itWiqGitwi;PjyGJuuYnIu]wky@R;MR=Yr<YR>Ir<[=d[AF
+[IvY;n:ojwoi<XIxABZ>j;hjwoIYUVceVguWCf[jAyrBASBEsGeSHUtKQtQmTQEUQ=UVQu
+UauUauV]UWUD]^yoi<xhoWikko\\Pr\\pltPoX`h_glWhlwhvWiyWj<pj?`JIf[xqy<Rqu
+XqqyxwYxI::::::::::::::B:xiy=:::::::::::::::::::::::::::::::::::::::::
+:pyx[lQxlQytQyqqxpqyxuxmYxRuQytkiwgyxmYxrwgiwpinQxlyYhwgiWweiyMyuiyyYy
+A::::::ZrAYqxpqh`of`[Hn[XxmYxbyfYuAeIweyZ?nB=SC]v]av@mRAISCMsv]YwqYxuy
+yuyyyYyyYtIytmxoqX`iv`aSFeS@ir@msGqsEUc:xIQf\\SV[Cf[wVayfe[Wf_GgewdUge
+iV`oVZ?Nr<QuTPmlpppPtxPqXquTqy\\qupqqtPtDpjXPv\\QyhQw<Rypq;yQyLRw`qylq
+w@rwdQ:iqw@RtHqvHQs\\Qxhq:mqw@rwhavkxpq;gi=hivOjw_i<PiuoisOivWivoitWiw
+wI?fYwUZwuY=FYsuYyuY?FYuuYuUY;VYuEZ:sUYyUZLrxpQ:iqwtQytq:yQ:Erwhqxdqwh
+A;FYuUYmeXoeYyEZ;FZ=fYwuYsEYueYwuYyuY=vXqeYsEYwUXmuXgUWkeXoEYweY=FYsMx
+hQyhQwpQq<QsxpsLq:Ib@@kCHlKXlK@Lyfa`TM]TRqtQIuQAuXauW]UU]UUQuUITKokG@l
+yoi<xggWhfOgjwf__g_Ofegf\\WggWgk_hmwhtGiwgiv?j>Xj?`kETZ=fZWiuWAbywqyyy
+yyI:::::::::::::B:ry::::::::::::::::::::::::::::::::::::::::::Vyuexvxq
+yxghog`sFasUQU[xmYXy^weYw>Qr<Aw`qvw`qvXv[IvyqyxyyxqywaYyqyixoixtQixqyx
+uyxI:::::::mXpmheWgeOhlOxvayvoixtYyuYySxmqxqyx]Yv]YPiTPusHySByrButPyTv
+XqvLgOiyviYsiyvysAytyyxyyxiyxiyviYvxpAyfYwgQlKXlrwhsGlJPlTHmUpn_xniHpl
+@plXpbPOcf_ifZAv[[EVgUTMuU_UVkEWaEYmEX=fYseZgEWoES?ET[eUcETGEUKeSSuUUm
+o`pqhpnxPqlPs<QqLqphprdPntPo\\Pq`pmpPpd`fOgjwggWhiggm_GhPoxpplPrpPp<Qr
+xpspPp<qr<Qttpp@Qrxps\\PnlPs@qt`pnfgf?hfWgjggfcUUUVYeUauUWuV]EVeEVYuV[
+uUa=_eVcuUYuU_uVaeUWeUUeUWUUUeUWuUYEV]UVUUUUEUSUUOeTSeSEETIuSMEVYeVWUU
+[uTQUUUUU[EUQeUOeTSuTQUUAeSIETSUUmuX@r;MrA=sBEsBISIqccpN[?[gfsWhqgisgi
+iggkWcCODIsDEr:QruPqwJqhPs\\plt@ppo@qtLqv`QvlqwdQyHR;Mr>]bxoIUYuUYyuYy
+yaxeyyay=:::::::::::::<Zyuy::::::::::::::::::::::::::::::::::::::::::n
+YpyxGYmyxqyxyaumCAsBuxpqxKAtJAxjAXyuicyvaqn^`nxqyxQysIyyMysvayv]Yv]iyn
+YxIyA:^yvUy^yvayxqYRyuQyuismiywiytQyT\\MV\\AyrAyyyixmysx^yvEyNytQylQxl
+Aiq?i;Ar<ylP@mJxkK`r=irvYyvyyxyyyqyy=:::flNt[GN?ar?aSFesIuSJYtNetSQUU=
+USIuCQSEqQyVHmETKeUQuT]EVYEXeEWuEWceXamvJmTPpLPldPodPrXpmpPodPrTPmlPn
+\\PqPplhPmTPpXpmpPn\\PqdPo<QplPsdPo<qlPpoP`e;>gbogeklPpoJn\\Pqh@GeSSeU
+WEWQuT]UTMuUKETWUTMuUOeT[uTQUVQuT]EUSeVQuT]ETKeUSEU_EUSeVQEUYuTUeUQUUW
+UTQMm\\pnTPn`PlTpmdPppPm\\pn`polpm\\poPPmdpolPr\\pnpPsHquPPmdPn`ppXPnl
+pm\\Pp\\pnpplXPo`pptPrVhqGitWkEhkMPLoV`PTKMTRqtQUUSMuYmUYauUauR=USWNeF
+_gVYsEZmuWuuUUuVOuSWuR;UTKUSWEVWEWieWqEYquYyeY?v[Gn?eR@AR:ERquHtyywyy=
+::::::::::::::<Zyuy::::::::::::::::::::::::::::::::::::::::::ZsIYuatQY
+sIysiv]YviUWeUsAyrSf\\OvsEYswYyuitKItEwbAgxkIxyYyuQxoY`Iy`xqYyay=:jx[v
+qYpyxqywiINwdQweXoe`pn`pjAxjYyuuyFYlYxmyycywqtQiyyYkIxpsHqsytqy<uQAuB=
+cjwgk_weiwuQyvyyxuywyy::::oV`qFYqUYUF]Wv]WF^qf`sNNaTPutQytREuFiSHuqyHR
+tLQwPplhpl^gg_goohooi;`jChjBhkyOjA@j=dY=f[EF\\UV][V_;vZhRAIS:IR>]r?=s;
+YR@Mr=mr<]r@YR?yR=aRAUR?yR;QR?=r;]R=aRA=r;]R?qRCIR=iR>iRBAR<ar>mrBUr>u
+r?urCUr>uR@yRDer@ES>iRBUr>uR=aRAYR?yr>qRCer@Es?urC]r?=SBISFqRBQS<Yr?Er
+<WjAPk?@kFPj?Hk=pjDPj@PkChkJd[OF[IF]wUZGvZGF];vZMf[Kf]Cv[UF[IV]MF]_F
+\\QV^If\\[F\\QV^GV\\Uv\\YF^WF^]v\\Uf]]f^aV_cf_uFaxSHusNKPuTVQuUmUWmuSE
+UTQTLUTFYsFMr;YrvXqxppo@qlHPoLpjdpnTpqxppHQuPQwpQx<r:=R<aR>okGxk<Pj=`w
+fawwiYyyyxI::::::::::::::B:ry:::::::::::::::::::::::::::::::::::::::::
+:nyxuyxyy;CIsCIaqv`YV]UFvWiuOF\\KFtIysyiywiwcIwmv_iFysIywYyxIyaxeymXpm
+XweYwry::VYditiywiYZUYuUYn]Xn=Yr=IysIyxqYmavmwiywyIwawUymaqyxqAsBAscGg
+cwoi@p\\Hn]HLdCiiwkiyuiyyiyyyywyy::::uFawv[GF\\Sv\\UV_vmX@nbPOQWeWWeYG
+fkf`qFYuUZYuUeESCeTIeSUUUSUWaeVqEZAF\\iv`;Wa?wcovaCG`sVbuVbGgaAGdgv`;W
+a=gcqvaCw`;Wcgv`;g_qFbkFa=w`yFckVa?W`wvbiv`;w_qFbsVbGW_ova;WcQw`yfcyfb
+MG`uFc;WcSW`uFcwVbKG`svbyFcQgaAgdwfbMw`wVciFaAW`wVcwfbMWa=GduVbKGa=GdA
+WdYGbCwdqfaGwaAWdyVcOgaAGd?gcUWcKwewvbKgaCWdkVaAWa;Gdcv_;ga?wdav_;gcMg
+fiV`AgbEwewvbSGa;WduFbOWa;WdunMmtQAUPud_xnbhmXxmUPmVplOxlXXmWPoaHolpoj
+Hqpdhkgh]Gf_GbyVbYf]]fY@RvBUOEVAURKeSAEUMeSYuTMMtHquFIwUY=v[GF\\Q^:DZM
+YtMyxqAnYyqyyI:::::::::::::B:ry:::::::::::::::::::::::::::::::::::::::
+:::ZtQYbywqtSkCHk]yupywiY?]R>QxkIxyuYyUYtOmR@mpaxnquVauVQuTqxpqxxqYSIu
+SItKItsIysyyvY:jxsxhyuYyumYxwoixo_hn_xwiywrAYwiywyxqQyuiyyYyaxeyuaxMyc
+v_Q>]R>uQytQ>]r>Er:IRDIsDEyrIyyuyyyYyyI::::JIqsIyRA=s?eR@iSGmSLItLYtNe
+tPyTR=USIUGmcA@K[EVgETKeUSmsHQshQuTQy@r=mr>=sDAr?yRyXr?uQ=eR>yrCuq=ir<
+uRCqq<aR>yRDAr>qr:eRA=r>qryXr?yQ=ir:ar@k;irAYRAEs;erAAR?yRyTr@MR@IsxHR
+?=R>yrxTr@Ir?ESxHR?Mr?ES:]rA=R>yr<mrCER>yRyTbxwjHHjC@l=PkK`i>Xk;HkJpiA
+pKfjEXl;@kKpi@pkwgjGpi>hk<@kK`i=`kxojHXi<Xk>HkMPjBPlvWjIPjChl>PkP`jDpl
+=HkOHjB`lwWjIxi>@lwWjI@ixgj=xjBpkJHlNplQ@lJPlNXlOxmX@ndxncpoehogPofppm
+hpt@qtppoxPFlJDZyuZkeWsUUQUVrTKmnTpqppo@qtLQvdqvpAPR<UR>Yr>uqxtqoixoqy
+xqyysy::::::::::::::Z:Zy=:::::::::::::::::::::::::::::::::::::::::Jxcy
+wqvsvayvwiywiuWiuoGhkgywqTIuSeWf]wyyyy=xiyWQmTP=WauVeMWdUWdMWjywiyYyuY
+xcqwhqsIyxiyyY:jxCv[IvOhlOxfawfixoixyyAtYyuYxsx:fyw=yqyuixQytQy]Xn]@tJ
+AtWiuWIpkPpFXKAgbCgyuiysyxsYysiyyqyyYyyI:::jIuSJMr;okGxkNXLCwbEwbEgcUg
+e]wdWGf_V_kfZAv[]UViUSEuTGuSUeUYuWiuWyuWsUZauXyEX=F[YF`qF]cv_]V`sV^ofa
+]v`wF^mFa[v_qV]eF`QV_kf]if`_f`uv_yfbmVbEg]iv`cVa;w`Agc[F`qV_wVbcVa=g_w
+vbaf`yF_qFbcVa?w^qva_V`wF`yFcefa?w^qFbcFa;w^mfa[F`uF^kVa_f`yV_sVbWV_mf
+^ovaWv_qf^mfaoFbIg\\[F`MV^kf_uVc]f_yf]cFaQf^oF^ifaSf^oV^gva]v_yf\\]V`]
+v_;G^efaYF_sf]cFaYf_wF]]f`YF_sV]_v`meYCfRCeScmv`R?uR@mrAQSDYSFUsFYtK]t
+QmTRUuSUu]Mv]IUTQUTIuTEtKQTBESDyQ:MrtLQwtPpHQmPpphPoHQnXPrlPpVhnGiooHo
+eXwUZ=vZG^xoiyOxlUyuqywyy=::::::::::::::<:xI::::::::::::::::::::::::::
+::::::::::::::::qavayvaYXweYWQuTQuSIusVauVmYxowhqwlPplHysIyghog@vZAvAq
+r@Yv]EvWiuoHpkPxqyyqYy]xlQX`eV_UYsIyycysYywIysixmYxSHmSX_eV_CIstYyGYxI
+yA:Ry^YyiywixkIxxiyMimWhAuQytryxqYxlQXfYweAtJAtcIwcyyyoyxqyyuyyA::::nm
+Xt]xrDQsD=TJ=tJItKmTRMuSYuWAuTaUIEtMar@Est\\qxxps\\Qt\\qxXqw<R:IR>Mr=a
+R;Mbk`poXyxqyuiywIyuaysYyvQyviyveyRyyyyuAZxyyy]w=tIRy:nYjx;waxmxSynYtI
+RyfYtIwawmxcynYjx;wAZw=tI::RyuiywyylyxuYySxoyxKHlQh[CV\\EvZMv]Uv^Uv\\`
+sEmSG]SIysHItPitR]UUmUXiuYAUTQUQEuSITMaTBIsEAR<]RvhQ:uPrXQm\\PrLPmtPlP
+ppXPox`mwhiOhp_iyWj:PJWF^]VWguWiywiiywiywawmywyy=:::::::::::::<jysy:::
+:::::::::::::::::::::::::::::::::::::::ZsIYqyxhI=Yr=IocHowiy`Iwiy<Yr=Y
+hmWhAyrAyvayvaIOhlOHmSHmoYxlyveyxmYxMwbAWx`qvXWdQwwaYwayuYYeIwcMUSEU_e
+V_YyuWyuYyymxgYvY:jxmiyyYeyvayyyQtIys]yuYYK=TJaweYWryxqMXkEX]Qv\\mR@mR
+v]Yvyyy_yveywqywyy=:::jNatNuRAurNatNYtMYtLUtMITMetMeTQetPAuNmTRUtNqTJI
+tMqSJMtIETMySKUtJMTNatOqtDQsDuUYuUxmYxyIuYyliviyweytIxI:::::::::::::::
+:::::::bywApIuayMnYXoer>qRrxpsdqvpqv\\QxpQx<R<Ir==sAIsCESEaSFmsLMTN]SG
+iSE]sFyRBIS;Ir=YQvlqsHqvHpk`pixOmPPlpplTPqPpntPopPslpqHQsPqvtPr@qpxPrt
+sIySyuix=jysy:::::::::::::Z:Zy=:::::::::::::::::::::::::::::::::::::::
+::jvsyxyycxnyx=giwlYxoYlIyarAYbuWiusIyPytgyvayxMyqirAYewfawhmWhUytQif[
+GfOWdMgv[IvuYyuIylyycx^yvaYvY::hYwwyyeyuYysixoYnYpPitOQysIYpeXoqwgiwLM
+TLIxkIXxmixmv;yA::::nv`qv_hn_xlQxlSHmS`mXpmSXmYxlTpmNxlUPlOHmK`lRxlTpm
+S`mZPmWHNwfbqfa=WasfamWhDYsEYweixMxSynyxeyvYxI::::::::::::::::::::::by
+wiyryfYjxmyxqWhywV]UX=qqHQCAsDEr:Oj;t[Gf\\Sv\\YV^[F_gV_mf_kF`gF`mV_iF`
+ef_kF_eV`Wv]avYyMwdauWi;PhlOijWhr_HseWmUYeEXDR<Qr^iV`uxqyXuUiuYyu]y=::
+::::::::::::<:xI::::::::::::::::::::::::::::::::::::::::::waymx;:qaxey
+qyxxIoixlIsay=xIqYxmQycylYweysEYsqsGiSXeUWUXlMxweiwaYoixoyxqyxkIxxIsAv
+Y:JyqiwayvyYpYx?yru`mV`GIsCysEYsKisGilKHlQgdOWyuQycwgiwyyyyIxvYxI::::u
+YyhIgiwpyxqyxCwiYxiixwixuQwqInxsiytiyxIyvqytiYqarAysQytQyymycywQxmixmy
+sy:::::::::::::::::::::::::ZwmxsxoqsEYtQR<YrMUtNiTOqtSEuTMuSYUYqUZMv[Y
+V\\Iv\\uuYyU^aV_uVayv]]v^quX=VR=UT]tMmtJATMesFysAurDer@ES=aRAEr<arwtQ;
+AsCMSu]yvmYyuyxqixmvkywY::::::::::::::<:xI::::::::::::::::::::::::::::
+::::::::::::::waymycynYJx[xqYhIuYyuyvayvbyvYlIsawmrAyrEWcEWMUTMAvZAV_e
+V_ayvaYxmiuMweYwuI:uaymy;:uIyxYyGyqyxwayvYr;Ir>Qr<YwcIwbyvaItIysUHmShv
+^avsIys]vMysxvyyuy::::fywuwiQxmiwmvaiwyyyiyyEywyyoIysIxoixqYywYyyQwmyx
+miyayxqyu=dYw[vmyyiy=:::::::::::::::::::::::::pyxwYyyynYwyxoIy[yu[IYqU
+YSwdUGgaWgmGhowhoGiwWiyWj;p[EV\\qv`qVb=WbqV`qV\\Iv\\iUWmUPitQYTMedWPnN
+PlRhkFPlC`kK`iyWjw?j>hi:`jL`lOxxsQytYyuqYwYyvYxI::::::::::::::B:ry::::
+::::::::::::::::::::::::::::::::::::::ZxMysy:vYdI:qyxhIuawMx_Yfxoix<Qr
+<aof`oXquXaYdIquXqEf[GfsIysiywiywayMy;sIyxIyA:nyvayymxii[yuYImQxl^Qv
+\\qxnaxdAwbAqpppHasFqYJyuIvY::::::::pyyyyx;:::ryyA::::::::::::::::::::
+::::::::::nyyYxlax>Xj?@piHpphpq@qqHquPqv@ryHr>YREXkGhjAXjYHnWhmYhmAxjA
+HiqWieGggWeSGfIgcOGaqvakF`sf\\Uf^Av[QfY=V[eEXsu]]f^oIysiyyyyxI::::::::
+:::::::Z:Zy=::::::::::::::::::::::::::::::::::::::::::::lYxoyx=wiylivY
+YtIbyFysesGisGwcIggiwgkIxkIyuYysavMCIsCaSGeswmYxiYxmyysyfyweyvYxI::wYy
+lywiyv]YvaUV]u^Yv]IyrAyoaxnYwdQwGasFUYuUyyuYyyIyA::::::::ZxyyyqY::::xy
+y;::::::::::::::::::::::::::::::nX`r>aRSEUSUUUUuVauVmUXmuYyuYEV[EV\\MV
+\\iv^]vdIWcIwb=W]Mv[quWiuYmUYQUSMuPetP=THATGYSHer@c[xa@`iyc^PSwmYxwYxI
+:::::::::::::::Z:Zy=::::::::::::::::::::::::::::::::::::::::::::JyuYyi
+yw[x=lIoaym[Iv[eSGesfiwgmYyuyuayveYxmyxyyyiyxqyoqxpMXmUXfeWgmYyuyxgyva
+Yyaxmxsyxyy;:tiv]xub=Wb]yutXpmXk=XjuUXmuQqtP]yuYYyqyxyIyA:::::::::::::
+:::::::::::::::::::::::::::::::nYwiy^xnU\\MV\\[Gf[WgeWgkGhkWhmWhqwhqwi
+ywi=Xj=XlIhk]xmSXnYXmKhkGHjwOVQUUuTPqtMMtMiSFiSEMsEiRAIS<]R@qQ:MrwtQ;q
+rA=Sveywuyysy::::::::::::::::<:xI:::::::::::::::::::::::::::::::::::::
+:::::::bynYxIRypYxswiqbAwb]TN]T_eV_]Yv]YwmYxYyvaywqyxmYyuywqiuiywqxrAy
+tmhywiQxmYxyyInYxI:yA:ZtAyriweYwwWiuwlOhljpohhsEYsOXlMHxjAxxqyxqYxIyA:
+::::::::::::::::::::::::::::::::::::::::::::nXhr?iRTMUTauVaEhEwgiwgj?h
+jGxkEHlIHkWHmKxmUxlKhkExiuGikgggGfUgeQwcMGbsfasV`qv\\Wv^MF]]fY=V[uEZCv
+^TsviYxwYxI:::::::::::::::Z:Zy=:::::::::::::::::::::::::::::::::::::::
+:::::tIByVyuYyvayvIv[IvR@mRxqyxquYYkAoixkIysYvgYwqyyyyxyiyqyy`yxmywyyy
+iiyIYuInaxnMYtMiywQx_yxqyxyYxI::tiwYyuymWhm^Pn\\XqsHqrohpWj;HjEQsDyyyM
+xgyvayyyYyA:::::::::::::::::::::::::::::::::::::::::::::^xnaxB@kBXpmXp
+tPqtHqsHqtPqthqwhq=Yr=IsBAs=IrxPsAirJisEysEQsBar=qqsPqo@pkxod`o^xm[pmT
+`mKPlPHlN@myOj@PiuwiJPlMHyuYyxyYxI:::::::::::::::Z:Zy=::::::::::::::::
+::::::::::::::::::::::::::jxsyvYJxCyVv]ehooVCtKItwiyhywgYuAoixmiywYysI
+yqYywIyqQwiyweYuQytmyxiYyyyx]YvYYfYweaXn]xyuYyyYyuIvYyAnyweyuYyya[Iv[I
+j;HjWhmWXpmXp;@j:xnaxnqqxpyyyuxqqyyyyyI:::::::::::::::::::::::::::::::
+:::::::::::::::iYwey\\MV\\aWf]GhgggmwgiGiogh;hiwwiuWiGHkCxkEXkShllV_ev
+]Qv\\EVZ=VUMUTitNatNYdUHmSplNhlJxkKxjAHkywi;xix?jK@lLXytYyyqyyeyyAjyyI
+::::::::::::::<:xI::::::::::::::::::::::::::::::::::::::::::Bwvyyyyqyx
+qaxnaxuYyuQytEkCHkyvayFtKItsQxqyxqIpIwiyPytWxlAxtQyqqyxYyyqyuqYqYxTYuQ
+ys]YuIYuMYruYymYwOyLItKiwfawyqYcyvaiweYwqixoyxmYxwIysiyuYyqixoybbcGw_i
+v_YweYg[Gf[CIsCyyyQwOyyyYyA:::::::::::::::::::::::::::::::::::::::::::
+:::vxoE]Of\\_Gf[wgeWgsghoGioghwGisGjwgiGHkChlKHlWHmSxmUXmMxkIXjywimwgi
+geSGeMwcI?aV^]v\\ON?ar?Ur<YR<Ir<=sAAsweywsytI:yyy::::::::::::::B:ry:::
+:::::::::::::::::::::::::::::::::::::::fYhywiyvayviywiYxsmYxmgggggn_hn
+oixtYy_yvayyyYqyxtYyuYqow\\Pn\\psGas`av]QuRytuQysAypixt@qqpv^YvEIsBiuV
+YuwayuiyvaYmYxAir?YtIyswiywyywQvYyumYweYyqyxYYuUycIwcMQtLqfawfyrAyrEYs
+EQf?YyuYyyMyuYyqyxqyysy::::::::::::::::::::::::::::::::::::::::::::::v
+X:JW]UVauUYuYquXQv[IV`eV_iv^aVamV`=WaWsCIs;yqyxpohpgXoePob@oVPmTplN`lG
+`KQf\\SF[AV[wUYyU]Sf]qixqyybyyAjyyI::::::::::::::<:xI:::::::::::::::::
+:::::::::::::::::::::::::bywQv]Yv]Xn]xPqtPuUYuUquXqyyygYlYxmYwOYwqyyiv
+mwiiqyxqAyqqxuQysiquPqoYxlIqqpp@ar=qywayTIuRAo`hntIyriyuYyyMuQytiWgewg
+eWgUyt_yuYywYyuqywiyryXqv`qv[Iv[[Hn[x[Iv[I^hqwhqYwyxqQyuiwUyyay=::::::
+:::::::::::::::::::::::::::::::::::::::ju;]weYggcGgyWiuGiogh=xiyWkAxjK
+hkGHlGhkQXlMHnWhmUxlQHjwgioGh<UQuTQmTPAtIysHisG=sAAs?ebyoi:HirOiHhKqix
+qyybyyAjyyI::::::::::::::<Zyuy::::::::::::::::::::::::::::::::::::::::
+::Z^aVcGgcGkCHkSIuSavIysEysqxsxhyySy^YxIbwgQweyvmYxOmTPMmXpmV`kvpohpyQ
+ymXpmxsDQsTYuQyxqivYyuEyxI_Yv]ikCHkWWeUwmUXmyiywykEXkav^af`onQytQMR<Mr
+\\Qv\\]Yv]yyyivMxcywqysy::::::::::::::::::::::::::::::::::::::::::::::
+wiygIwlR?eBJYmUXmUWeU\\EV[Yv\\QV]MV\\Qv[IFxv`qVamV`=VY;^odPoX`mVxlOhlJ
+xKUF]WfZ=nwdQxpR@urw_yyuytyy;vyy=:::::::::::::Z:Zy=:::::::::::::::::::
+:::::::::::::::::::JyuYyky;RwvrAUdMWdsHqsxyyqwCysqysynYpIwax=pIryvvayv
+^`n^PkDPklQXEV[EfoghowiythhyiywihqWyiyfYwYylIqixtYyWj;Hj@`j>PtJAtx_iv?
+pixodPod`mV`mXpmXxyyeyfYuQywYhIyay=:::::::::::::::::::::::::::::::::::
+::::::::::jvYiKxkI`plPpsxpqTidUV]UZuUYav]Yv`iv_]V]UvcAwbEWb=W^UV]IvZAv
+WauVMUSEUO]TNQtKGmQxlMPlNPlKXlBxJEF[Gv]WF^oYxoyywyytyy;vyy=:::::::::::
+::Z:vYxI:::::::::::::::::::::::::::::::::::::BxvYpIsIysIxkQyuisMn]Xn]T
+N]TUUUUEYsEYxmYxiIbywqysy::fYhywgywuyfX`v^avdQwdeYweyIysIQwdQWyuiayvai
+j?hjdQwdqyxUwayvyyyxIuyxxyxqYtEi?Yr=QlJ@lmGhk_pn`pnL>]b>ar>QytQyyyYyA:
+:::::::::::::::::::::::::::::::::::::::::::::::FYDSB=STEUSeUV]UXeUWuUX
+gr=YrCyrAyr?irDAsBysGisKysIYsCIs<Ar:YqsHqoXpm@o`pn\\@nZhmUXmMPlNhkFtYw
+EZuEYwu\\Onv]YwoYtyy;vyy=:::::::::::::Z:Zy=:::::::::::::::::::::::::::
+:::::::::Jv;savMy;]Yv]ilOpRAeUYuUiywiywMysynyxEyvYyyy:ZxMySyZjmviYx=Ys
+EYU]uViyxWogpovpqy@ytQy\\av_yhsOImhpIXkTWdMwbyvayYyWytQYuQySwcIwmv_dTN
+]TCAsBMTLMT=UR=UXmUxyyItyysy::::::::::::::::::::::::::::::::::::::::::
+::::::Nyru^]V^gGgcwhmWhsghowiuWiChj?hkCHkGHkCHnWhmMxkdV^]V`eV_MV[EVUMU
+TQuSIuNYtMuSHmSFUSEer>ir?eR@MB;vY=V[CNvYYvyiyeyyAjyyI::::::::::::::<:x
+I:::::::::::::::::::::::::::::::::::::iywxyy_YtIuqxAwbAWEUSEuWiuWuUiqy
+xqqyxqyymysxjxyIyA:ZxqYwAvxqyxGisGav`yvGysJan`xnuiywivaAwehohxxsIyBQsE
+yq;QrJQtLAw`qvlIxkyqwhqyqYtiyiywqYTWd_hlOhKysIAmQxlGhkGXuUYuxqYuAvY:::
+:::::::::::::::::::::::::::::::::::::::::::::Jw]iNPlLxpohpwXquxqwhq:qq
+xxqwhq<Ar:As@ElGp_sn]XnYXmUHioghaWf]WgawfOGdKGbwfacf^_F]QN?ar?yQy<Rypq
+y`R>erv]yvyiyyyxyY:yyy::::::::::::::B:ry::::::::::::::::::::::::::::::
+:::::::fywiysIysQytQyRAuRQplPp@qr@IxkIxxqYiavaYuaw=xIyavmywyy=:tYy_Y:L
+Yt_r@AsyHr>yu\\avoyxsixrQyTiuXivaQwVyu\\ayxyyfqwiyqxpqHasFqwfawxqYsyxq
+yyyqquXqESB=S;=R:]V]GisGiWhmWPxlQxxqyxyyyEyZy=::::::::::::::::::::::::
+:::::::::::::::::::::::Jwc_cF_kgggWiqwhRjywi;hiwWjywiGHkCHlGhkShlOHnWh
+mQXl<VYuuTIuSAuQytNYtMUTLQtGaSGiR?ir?eb?l<MR=qR@uRwaYwkyuyy;vyy=::::::
+:::::::Z:Zy=::::::::::::::::::::::::::::::::::::JweimYXsFasFgcGgwiytIb
+xoqyyiwMweYwKyuirAYuYyuyyvY::pIbyFysuyyyymIysYv_YwqYyyyxwyysyypYyyywmy
+yeyxyywyitayvqyxUysIywasAyriYtyx?qpxpJpkI`mUXmdHoc@kAxjAyrAIysIyvayvYy
+uYyxqYyay=:::::::::::::::::::::::::::::::::::::::::::::::nyyixnqxO`lPt
+fewf_wfcgfcoUaU[Av[IV[MVamVa]v\\QVbiV`Iwa=WaaV_YV[MV\\yuZOofHqmppZPmY@
+mLxlFXkIPkChk?`jBxixOjIpkJ@yqAYvYyA:::::::::::::::B:ry::::::::::::::::
+::::::::::::::::nyxexnyxuy^YxiyyYpyxcy<ijqqxpqohPyxqyHysqxsyyqy;::::::
+::::::::fYwyxuiysiywYy^yrm:AR;UtLYtJ=TKEsBMsR=USmYxOYoyyNyt=yA::::::::
+:::::::::::::::::::::::::::::::::::::::ZwayxayuayLHlM`pmhpw`qxhqvpqypq
+:Qr;Yr:yq;qr?yrEIsCYtJAtOQtMisDQs;iqy`qrPqoHpoHo^HoDpjEpit?jx_i<hhm?ig
+_gj?kAXkApjBHyr=vY:::::::::::::::Z:Zy=:::::::::::::::::::::::::::::::J
+xsyvXTipqyxEysQxcxnsHqs`pn``uVauuYYoQwiywiYyuiwiyw]y=:::::::::::::byxy
+xkyyYy]yvYYv]in`pnpj@xjZxm[xmX@nnWhpgv^qvxqYoaymvaiymy;:::::::::::::::
+::::::::::::::::::::::::::::::::wiy^YmIxoi`mv`cwfeWeSgeqghsgiuwiNr<ujI
+hkKHlGhk_Hn[xoeXo[hmWxj;hjwwhugc?gc_f]aFYkUYuV`yfasfbGGcMW]SF^YeU_U]Sf
+]qqw;yA:::::::::::::::B:ry::::::::::::::::::::::::::::::::nYwYxmAlIqas
+IysIsCIsj@PkHpkxvayvmYx`IwiywiyVyuuyxyy;:::::::::::::ZxuytivaywYYyYygh
+oghWgeW?hjAX]Sf]Yf][FeQgewYyyay=^YsYyuAxI:::::::::::::::::::::::::::::
+::::::::::::::::::ByqIyuqxqV`qv@mRAMuSQuWee:yQwWiy?AP\\mV_eVdEWcUWdMw`
+iv_=vXyuS=eExjExiu?jZ`m[hmSxm_XncPn[pnYpm\\HnZ`nG`kHPY:yA:::::::::::::
+::B:ry::::::::::::::::::::::::::::::::^yveytYvcyFv[Iv`pn`@r:ArvayvYYxI
+byFYlIbyvyyuy::::::::::::::tyxuYxyyyqiwYYVoeXoywiywr@yrnWhoWlL`luQyvQy
+sYyvaYsau=xI::::::::::::::::::::::::::::::::::::::::::::::::RwcqyuyyUy
+tYYIqCSgekwgmwiwGjwWiygkExkIhkKhlOPb=WbAwbAW^]V^qUXuuGeSHUqt`QGasHQR<o
+mVPnT@mXpmVHn?`jB@lIXlXhmYpywuywyyyqy;:::::::::::::::<:xI:::::::::::::
+:::::::::::::::::::sawMuUilPplhn_hnhqwhayvuyxyycywiysau=pyxqyuYivmysy:
+:::::::::::::tiyiyxqyvqYuiwiYwsFasfWgMZ=vZAQrDqR=USuyxuIpyxwYbywawiYry
+:::::::::::::::::::::::::::::::::::::::::::::::ZvYYyiyxYyyYfYwfaR>erTM
+e<IRqghsgj=xjEHkGhkGhkQxlQhoghoUXmUxcGGdaf^cvr?yrSwdYw[Gf\\wFa?w^]v_WV
+]_V^[F_Kv[Qvr?IsyiyyyyryyA:::::::::::::::B:ry:::::::::::::::::::::::::
+::fYJyuixmxSyVYqiynYxyy[`qv`apn`pohpoXweYwyyYyA:::::::::::::::::::fyxa
+ytYysqyyiyvayuimWhm?hj?`ofhorwhsWuTausAytiyviyymy;::::::::::::::::::::
+:::::::::::::::::::::::::::::JyyYyqyyuyxWytuqwHrif_kf_ev_WWeYWisgiEHkG
+hjAxj=hj?HeUWeqFasfdOwdayveixoIyoixqIpkxp_WfiwdMwe?GbEgj=HkIisOyywAway
+yYyA:::::::::::::::B:ry:::::::::::::::::::::::::::Zu=xIwiyjxqiyMweiqyX
+_gf_wcIwcWiuWIwcqxqIvY:::::::::::::::::::JyyyxuYy[vaYWf]WfYweY]V^]veWG
+fqixsYysiywQywYyA::::::::::::::::::::::::::::::::::::::::::::::::::wqy
+uiwayxYytuywqr=YsqWhuWSAuSEr:IRypqy`qwhq@yrAuUZ=Vq=YriyxqywqYyqYygyxyy
+viyyiywyyiiwmYytiyyqyyqywyyxiYyiyxIxyy;:::::::::::::::<:xI::::::::::::
+:::::::::::::::sIytix]wUyxyyuYyOYlXpmx]Yv]QuTQUf]WfiywiYwsxqQxmiymy;::
+:::::::::::::::::uiysIyuixyyywylShleUWeeUWeU?fZAVxkYxwYywyxoiywYywyyyq
+y;:::::::::::::::::::::::::::::::::::::::::::::::::ByqYyuIywyywyywYyny
+yiyveyuyyoYxqYysiyiiw`ywiYwmYxiyxOyvayrQyuqxrAyuayxYyvqYxywiYymYwuYymi
+sEyqixuyxlyyuyyyYysyyA:::::::::::::::B:ry:::::::::::::::::::::::::::ny
+xuyfyw]yyYtIkHpkh_TSgeWgyyyyYquXqyIqqwiIkQvyIyA:::::::::::::::::::tyyo
+YpYrAyqUr=QRplPpdQwdQYqUYgYwQyuyxuyxmyxwYyA:::::::::::::::::::::::::::
+:::::::::::::::::::::::wqxCypYywyvYYyiyyIyqquUYviYwmIPYv]ywyyy]YxmyrUy
+teYyyypAYsMyueywuyyYYwqyviyyuyxyYwgyvuytixMyqYyyYyyyyyyy;:::::::::::::
+::<Zyuy:::::::::::::::::::::::::::fyw=wiywIysIyuXquHf[GfCHkChv_ivyyylY
+xmyysx^YtYyuywsyxyy;:::::::::::::::::::uiypYymY^av]aQw\\QOeTOyxqyXv]yv
+eyviyywykmyyiy=::::::::::::::::::::::::::::::::::::::::::::::::::tIyiy
+tYyyyywYnywUysAnYwAyyyuQywyyayyyywyYwyynyyayxyywqYwYyyiyZyyyyqywqyyyyy
+yY:::::::::::::::::<:xI::::::::::::::::::::::::bxfywiyqyXwiydIqauMtMYt
+uUYwmYxmnaXoixxIyaxqyxyyyuy:::::::::::::::::::Zx=JySyuqxcuWiusEYse[Gf[
+YyuYay=:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::Z:Zy=:::::::::::::::::::::::JycyZrAYsIysyyxYquXq]UV
+]UVSpmXpiywiYyuYyyay=tixyYxI::::::::::::::::::::sIyjycy^YptPqtpfgRAuRq
+yxeyvYxI::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::B:ry::::::::::::::::::::::::ZoiXmYxmyyyqsIysQv\\QV
+MUTMywiywtQixqYoAvY::::::::::::::::::::::tIuaxqyxYYxIIaoghogmWhmrAyriy
+wuyyqy;:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::B:ry::::::::::::::::::::::::nY`IqyxqItKItwfawFlKHla
+yvxIkIxkAmYxtixqYjysy::::::::::::::::::::ZxMy;yarMCESCIqsHqjAxjyyyWYxI
+yA::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::Z:Zy=:::::::::::::::::::::::JyCwcq`qfR@mRXv]YvtQYsIysyyZ
+x=jysy:::::::::::::::::::::ZxmxCysIywaQytQYhmWhTPMwiywixnyxuyvY:::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::<:xI:::::::::::::::::::uYytIrynYtIyawmysynv`eawfakGhTYuUyuYyuyyy
+wY:::::::::::::::::::::::::pIqyxlIuYyDTKEtqxpqdWg;^YxIyA::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::Z:
+Zy=::::::::::::::::::jxsyZvMxsxqQyuivMkEXkiuWiuSIuSMXlMxyyiqyXbyvYxI::
+::::::::::::::::::::::Ry>yrEynsHqsmWhmGpkHpoixoayvayxMy;yay=::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::<:xI:::::::::::::::::::waumxqyxqIiANYHuSomXpmdQwdIysEynxpuyyqxCyvYxI
+::::::::::::::::::::::::rxvYhxoiX:=R:ar>aRtMYtuYywYpIqAvY:::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+<:xI:::::::::::::::::::qA^YJsEi;Ir;AobDocHouYylIwax=dIyay=::::::::::::
+::::::::::::::`uVaUn\\Pnpv`qVweIvXtIwAvYxI::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::B:ry::::::::::::
+:::::::ZumwcpohpwfawvkIxksIyJySyVxmUyuQweInYjysy::::::::::::::::::::::
+::ZxiYCIsEIYsUYiv_iFxkApIqavmwsyvY:::::ZxyYxI:::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::<:xI:::::::::::::::
+:BynYtIrx^Y<Xj=xSIuS=VZ=voixomYxwYxIwiyxIyAZx=xI::::::::::::::::::::::
+:siywixqyyoIywIywiygIxmixqiycf_mfTSeUyXr?IywqywY::::byyQy;::::yyy:::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+B:yay=::::::::::::::::tYygxoixjAxjyYpIuaiywiqv`UxmYxyavaYry:::::::::::
+::::::::::::::::fyxeywyysIyuixoyxnyNatPiho?ib@odXyuaYsAyA::::tyyoY::::
+jyyI::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::<:xI::::::::::::::::rlQxlAxjAHr;Ir?ir?IysQyuYyyyyWYjysy::::::
+::::::::::::::::::::::^YsYylyysvaQnYxmMr:Ir=MR=yxq?yruxoyxxiy=:::Zxuyw
+A::::vyy=:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::Z:Zy=::::::::::::::::ptPqtUYuUqyx_tNatpqxpqyxqyumxsynyxqy
+tQYry:::::::::::::::::::::::::::RysyyyiysYxmiyuIyaweWWW]EVKHkCxyyiyqIx
+iyyuYyyay=:::ZxyYwA::::vyy=:::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::Z:Zy=::::::::::::::::lV`mvFasFeYwoVGiwg
+iwyaymxqyxaIuYyuyyvY:::::::::::::::::::::::::::jweYvAYpaXymyv]YuIy?Ur;
+QR:qqqiXnuyw]yyuywmYwYyyyiy=::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::<:xI::::::::::::::wiyxyywYJ
+uUikIxkqkHpkgiwgiuWiubAwbQytQywiYryZx=xI::::::::::::::::::::::::::Zxav
+ZyuQPlI@xhYwc`n[HhfGgFyr>iyuAyymy_yyayryyyuxqqywywmxCyRyxIrxVquXqj@PAw
+bAgoghoyyyxIwiytI:::uawMysyZumysx^YtIuaq]xExvY\\Yv[t=`IwiyjtQytuIeawiY
+watmysxnyxEwvYyyy:::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::Z:Zy=:::::::::::::Jysy^yvayyuy]Yv]Yr=YrYweYWtMYt_gfdWgeWyuIvY:::::
+::::::::::::::::::::::::jc=wa]pk@p?UR<yPo\\PEEsAiyvYyyyyxuyxeyxeYvyYxe
+yxmYxuIkaxqYwAZuMxSyfv_ivLQtKAwcAw[IvZiywUynyyuytyywyyeynyxeyyqyyI:sas
+Ux:qA^YhIwatmwiywmIoQwuIwayMusyVYtIwasmxSynyxEyFYJx_yxMwsyyqy;::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::B:ry::::::::::::::nYxI
+sayMyCuSIuyxqyXxmqpqxpiyw_yv=yA:::::::::::::::::::::::::::::fquXqdof`G
+g`ofeGgbgkCHkAYr=YuQAuxayuyYwyxmixwaymySxmqusvayvqyxqyyxyysxJyQXmMxi=X
+ioywqwiiwxqywaywYywEywyyuyytyyoywiYuaxeywAvYyiywQuUimYxmAxjAxlQxlqY\\I
+QytQiv_ivmYxpIsamYxmywiyweYweYYqYyuApyxoXhxoixrAyrayvGYXxmYxpqxpayvWxm
+Uy^YxIyA::::::::::::::::::::::::::::::::::::::::::::::::::::::::Z:Zy=:
+::::::::::::Jx;yA:ZqMySyuqyyyyyI::::::::::::::::::::::::::::::yvayFRwD
+RCeRCeTMeTMETMuV]uViggiGysYyoYxqiyuiymYxhIBv[Iv;PZ=TJ=Tn]XnKysxqApivqs
+Iis[IvZayvYywqYZxyYwAZyyY:tYyoYjrAyrAwbAWGeSGyxqoyxUhmoPqtPqwhqWf]gsIy
+sAyrAyuXqupuXquVauVitOituYYkIx`yvgxoeb?gbghoghwTyMYtMiv_iVj=XjeV_gxouw
+iywyqyyI:::::::::::::::::::::::::::::::::::::::::::::::::::::::::B:ry:
+:::::::::::::nYtIyyyjxSyZvaYyatMwsyvY:::::::::::::::::::::::::::::J;MR
+=IOd\\OlPpnlpp@Qpp`KQtOaywyyuayxaywUxoyxiywliv]xmkIxkMSDMsxqiyuykawiYY
+yuWIv]iuywisGoehnwiyqyyyIywQxuYyiyxWyuaysuxoixdYxmiwiYyaymwSxnY\\Xn]XL
+_nsIYuaqMyCx>UkXsEYs?ir?iawfaoixTYuOodPorAyrayvuxqQySeUWe_ivXyuYyEwldQ
+wdiywEn[p]Yv]kysy:::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::Z:Zy=::::::::::::::tIyayMysxqyxbyNYtIyay=:::::::::::::::::::::::::
+::pyxwYJyCwVgf?h_wfe_f`Ogvwi=HtMqtvqyyQyvexxYxuyyKyqYyuix=>xjAxLPlL@wb
+AwyyY_ayMjywjEURQUMQtNexnqXymivQYliPatSaqtxqrxpuhpnxpr@qrPplTquXqyyytI
+waymySsEYsKGdKGysQyuYyaIwAnuXqu?ir?atNatixoiXyuuxfn_hndQWsawMvSgeWgCIs
+CYyuq>ar>ahcYYqIsCIs=Wb=Wyuqwsyxyy;::::::::bynY:jysy::::::::::::::::::
+::::::::::::::::::::::::::Z:Zy=:::::::::::::::::::::::::::::::::::::::
+::::::::tI:uYy@gKQgfog_?gfGlN@m`IwfAyuiyuqYqiyyAByyyyuayMxmiyuymYxPsDQ
+sOitOIwcIwXquX]YvoyvyYsyysYxyIymqxayyqYwyivuvYiwUYt[YuOyuQYtSytQIuSIuS
+IwcIwsIysYyfYXyugywiyeYweynaxnsIYoixby]YvhwgGlKHl\\Qv\\Ir;IrEYsEyxquy^
+n^`n]YVwiytIRcEWceYweIvFkCDsCIsmYxlTPmTSEUSmYxoyxuyvY:::::::::tIwA:vYx
+I::::::::::::::::::::::::::::::::::::::::::::B:ry:::::::::::::::::::::
+::::::::::::::::::::::::::ZxMxmiwMycf_gfIUTOUayFb[ivayxuiyoIyuYyyqxyI:
+^yvuyxyxqIvYhfEykIxkgiwgytQyTXyv]YweyvqyuQYwyyxyiwyytEyoqxav]qvOatQatM
+qTOatPQtLUtJAtJIwcIwvaiomvaiyyYya]Yv]in_hnuYYuYy<Xj=XF]SFapn>qr@quYyuQ
+sDQs;Ir;yyyyytmKIdjAXmYxtIwagTebyty;Ir;ysIyS>]R>MR<MRkEXkqyxqyywyy=:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::<:xI::::::::::::
+:::::::::::::::::::::::::::::::::::byVYtIuaZ@nZXlOpljQxlyXoYyyyykixqYy
+yyyuqy;Jx;yAnYPIKF\\KvvaQuUYuuIiauQyuqyxyywaywQYsYysYywiylywqyxmyyqYxu
+yxoYtYxmix=JySypywCtKItMWdMgywqsIysmXpWlMXlEYsEyXpI;aeXoexxquyFn[HnkUv
+wayyYqamXPSIupyxqyyxqyXxmOv\\QvhqwhMyqIwaymy;:::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::B:ry:::::::::::::::::::::::::::::::::::
+::::::::::::Zx=JwckGhkvxtQytYyuUypYvayvyyywY:::tIwayMGeSGAwbAwxqiqmgiw
+giYxeYyyYyyIyauaytyyyqYpyywyyeynyvmvsyZwiYqaxeyEYsEIkCHkqv`qfwgQxmiyM[
+EfNatNytQytgiWeYweicGorAi`qv`yqyxqtQYyyyyiyNYhtOitnaxnEYsEY>ssIysyyyjv
+CysAxI:::::::::::::::::::::::::::::::::::::::::::::::::::::::::B:ry:::
+::::::::::::::::::::::::::::::::::::::::::::ZxmysxqqyyixMy;qqwuIuaymy;
+:::Rs>r:Ar?ir?asFasHqsHitOatwEywyyuQxiyyoywqyvyYwiyvYwArynyxuy:vYjxqil
+QXsHqsXyvYyiy^X\\V^]V\\MV\\UXmUXxmikIXyxqyXtMAxIbyFY@wbAwsIysII_hn_Hwc
+IwyAvYpIxiy=:::::::::::::::::::::::::::::::::::::::::::::::::::::::::<
+:yyy:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::tyyoY
+::::xyy;::RyFYpyxwYxIRyfYditiYxIwiydI:yAZtMycyNYjysy::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::Z:Zy=::::::::::::::::::::::::
+::::::::::::::::::::::::::wyytI::::yyy::nyxey:vYxixyYwayyYbynYjyyix]y=
+::tYyoYxI:RyuqxsyfYtIwawmxcyvYxIbyNYxIyavmxqIvYxI:::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::B:ry::::::::::::::::::::::::::::
+::::::::::::::::::::::Jyyix=:::jyyI:::::JycyZyyYwax=xyy;::tYyoYxIyax=j
+xCysIyryvYtIwaymy;bynYxI:yax=xI:::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::B:ry::::::::::::::::::::::::::::::::::::::::::::::
+::::JyyiwyyyiY:::jyyI:bywqxSy:nYxYycyyA:::jyyI::::tYysyxI:RyuqwKy[y=::
+lIrynYjy;:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::B:
+ry::::::::::::::::::::::::::::::::::::::::::::::::::Jyyixmxyiw=tIwawmx
+cyvyy=::::nYtI::::yyy:::::bywQy;uaxmysynYjy;:RyuqywyxMysyvY:::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::<:xI:::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::B:ry::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::Z:Zy=::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::<:xI:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+B:ry::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::Z:Zy=::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::<:xI:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::B:ry::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::Z:3:" }{MPLTEXT 1 19 0 "" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 39 "F1[u] := evalf(200*cos(45*Pi*(1/180)));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "$\"+iN@99!\"(" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 39 "F1[v] := evalf(200*cos(75*Pi*(1/180)));" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "$\"+-4Qw^!\")" }}}{EXCHG {PARA 0 "> " 0 "" 
+{XPPEDIT 19 1 "" "%#%?G" }}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2
+ 33 1 1 }

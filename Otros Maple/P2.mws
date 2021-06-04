@@ -1,0 +1,33 @@
+{VERSION 6 0 "IBM INTEL NT" "6.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 1 12 255 0 0 1 2 1 2 
+2 1 2 0 0 0 1 }{CSTYLE "2D Input" -1 19 "Times" 1 12 255 0 0 1 2 2 2 
+2 1 2 0 0 0 1 }{CSTYLE "Text" -1 207 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 
+0 0 0 1 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 1 1 1 }1 1 0 0 0 0 2 0 2 0 2 2 0 1 }}
+{SECT 0 {EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "N2:=58;" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 36 "fd:=fopen(\"./p5_1d2.txt\",READ,TEXT);" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "dat2:=readdata(0,N2);" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "t0:=dat2[1][1];" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 48 "for i to N2 do dat2[i][1]:=dat2[i][1]-t0 en
+d do;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 "pos0:=dat2[1][2];
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 57 "for i from 1 to N2 do d
+at2[i][2]:=dat2[i][2]-pos0 end do;" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 12 "with(plots):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 20 "A2:=pointplot(dat2);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+19 "with(CurveFitting):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 43 "
+f2:=LeastSquares(dat2,t,curve=a*t^2+b*t+c);" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 17 "c2:=subs(t=0,f2);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 15 "v2:=diff(f2,t);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 17 "b2:=subs(t=0,v2);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 15 "a2:=diff(v2,t);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 30 "B2:=plot(f2,t=0..dat2[N2][1]);" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 15 "display(A2,B2);" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 207 55 "Se valua la funion obtenida en los intervalos de tiempo
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 61 "for i to N2 do X[aj][2]
+:=(subs(t=dat2[i][1],f2))-pos0 end do;" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 57 "Erms2:=sqrt((1/N2)*sum((X[aj][2]-dat2[k][2])^2,k=1..N
+2));" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "" "6#%#%?G" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}}{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 
+1 1 }{PAGENUMBERS 0 1 2 33 1 1 }
